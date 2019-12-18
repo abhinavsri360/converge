@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Responsive Side Menu</title>
+    <link rel="stylesheet" href="./styles/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="./scripts/index.js"></script>
+  </head>
+  <body>
+    <div id="side-menu" class="side-nav">
+      <a href="#" onClick="closeSlideMenu()">
+        <img src="./assets/close.svg" class="close-btn" />
+      </a>
+      <a href="#" class="mt-5 active-section">HOME</a>
+      <a href="#">HIGHLIGHTS</a>
+      <a href="#">EVENTS</a>
+      <a href="#">PRONITES</a>
+      <a href="#">TIMELINE</a>
+      <a href="#">TEAM</a>
+      <a href="#">SPONSORS</a>
+      <a href="#">REACH US</a>
+
+      <div class="d-flex sidebar-social">
+        <a href="#"><img src="./assets/facebook-logo.svg"/></a>
+        <a href="#"><img src="./assets/instagram-logo.svg"/></a>
+      </div>
+    </div>
+
+    <div class="section-1 pt-4">
+      <nav class="top-bar">
+        <span class="open-slide">
+          <a href="#" onClick="openSlideMenu()">
+            <img id="menu-btn" src="assets/menu-button.svg" />
+          </a>
+        </span>
+
+        <img src="./assets/white3dtext.png" class="top-logo" />
+        <img src="" />
+      </nav>
+
+      <div class="landing-bottom">
+        <div class="timer">
+          <h3 class="text-white mb-4">COMING LIVE IN:</h3>
+          <span id="countDown-days1" class=" whiten"></span>
+          <span id="countDown-days2" class=" whiten"></span>
+          <span class="text-white">:</span>
+          <span id="countDown-hours1" class="text-white darken"></span>
+          <span id="countDown-hours2" class="text-white darken"></span>
+          <span class="text-white">:</span>
+          <span id="countDown-minutes1" class="text-white darken"></span>
+          <span id="countDown-minutes2" class="text-white darken"></span>
+          <span class="text-white">:</span>
+          <span id="countDown-seconds1" class="text-white darken"></span>
+          <span id="countDown-seconds2" class="text-white darken"></span>
+        </div>
+        <div class="captions mt-3">
+          <span>DAYS</span>
+          <span>HOURS</span>
+          <span>MINUTES</span>
+          <span>SECONDS</span>
+        </div>
+      </div>
+      <video class="video" width="320" height="240" controls>
+        <source src="" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </body>
+</html>
