@@ -17,12 +17,28 @@
     <style media="screen">
       .hlts{
         margin: 0px;
+        background-attachment: fixed;
         background: url("assets/bg-faq-optimized.png");
       }
       .my-captions{
         font-family: 'Lilita One', cursive;
         color: white;
         text-shadow: 0px 0px 20px black;
+      }
+      #hltsheading{
+        font-size: 4.25rem;
+      }
+
+      @media screen and (max-width: 991px) {
+        #hltsheading {
+          font-size: 3rem;
+        }
+      }
+
+      @media screen and (max-width: 767px) {
+        #hltsheading {
+          font-size: 2.25rem;
+        }
       }
       .my-col{
         padding: 20px;
@@ -99,7 +115,7 @@
     <div class="hlts">
       <div class="container">
         <br><br>
-        <h1 class="text-center my-captions" style="font-size:75px;">HIGHLIGHTS</h1>
+        <h1 class="text-center my-captions" id='hltsheading'>HIGHLIGHTS</h1>
         <br><br>
         <div class="row">
           <div class="col-md-7 my-col">
