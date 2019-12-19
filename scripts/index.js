@@ -1,10 +1,10 @@
-function openSlideMenu() {
+const openSlideMenu = () => {
   document.getElementById("side-menu").style.width = "20rem";
-}
+};
 
-function closeSlideMenu() {
+const closeSlideMenu = () => {
   document.getElementById("side-menu").style.width = "0";
-}
+};
 
 let countDownDate = new Date("Feb 1, 2020 00:00:00").getTime();
 // let countDownDate = new Date("Dec 21, 2020 00:00:00").getTime();
@@ -63,3 +63,5 @@ let x = setInterval(() => {
     document.getElementById("countDown-seconds2").innerHTML = seconds;
   }
 }, 1000);
+
+openSlideMenu();

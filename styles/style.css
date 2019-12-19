@@ -164,7 +164,7 @@ body {
   }
 
   .timer span {
-    font-size: 0.75rem;
+    font-size: 1rem;
     font-weight: 700;
     font-family: "Lato";
     padding: 0.5rem 0.75rem;
@@ -176,14 +176,6 @@ body {
 
   .close-btn {
     padding-top: 1rem;
-  }
-  .video {
-    position: relative;
-    display: block;
-    margin: auto;
-    margin-top: 10rem !important;
-    right: 0;
-    left: 0;
   }
 
   #menu-btn {
@@ -198,6 +190,9 @@ body {
     padding-left: 0.5rem;
     margin-top: 4rem;
   }
+  .landing-bottom {
+    margin-top: 13em;
+  }
 }
 
 @media only screen and (max-width: 1024px) {
@@ -205,11 +200,15 @@ body {
     bottom: 5rem;
   }
 
+  .landing-bottom {
+    position: relative;
+    margin-top: 16em;
+  }
+
   .video {
     position: relative;
     display: block;
     margin: auto;
-    margin-top: 5rem;
     right: 0;
     left: 0;
   }
