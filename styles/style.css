@@ -14,6 +14,37 @@ body {
   background-color: white;
   border: black 2px solid;
 }
+.footer-main {
+  background: #000000 0% 0% no-repeat padding-box;
+  opacity: 1;
+  height: 160px;
+}
+.before-footer-text {
+  text-align: left;
+  font: Regular 40px/50px Montserrat;
+  letter-spacing: 0.4px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+.footer-text {
+  text-align: left;
+  font: Regular 25px/40px Montserrat;
+  letter-spacing: 0.25px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+.footer-social {
+  align-content: flex-end;
+  height:100%;
+  margin-top:60px;
+}
+.pdf-box {
+  background: #BD3B3B 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 7px #00000029;
+  opacity: 1;
+  height: 106px;
+  width:120%;
+}
 .top-bar {
   overflow: hidden;
   display: flex;
