@@ -7,7 +7,12 @@ body {
   margin: 0;
 }
 .events {
-  height: 200px;
+  height: 360px;
+  background-color: white;
+  border: black 2px solid;
+}
+.events-m {
+  height: 455px;
   background-color: white;
   border: black 2px solid;
 }
