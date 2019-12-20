@@ -24,11 +24,11 @@
       <a onClick="closeSlideMenu()">
         <img src="./assets/close.svg" class="close-btn" />
       </a>
-      <a href="#" class="mt-5 active-section">HOME</a>
-      <a href="#hlts">HIGHLIGHTS</a>
-      <a href="#">EVENTS</a>
+      <a href="#home" id="home-anchor" class="mt-5">HOME</a>
+      <a href="#highlights" id="highlights-anchor">HIGHLIGHTS</a>
+      <a href="#" id="events-anchor">EVENTS</a>
       <a href="#">PRONITES</a>
-      <a href="#">TIMELINE</a>
+      <a href="#" id="timeline-anchor">TIMELINE</a>
       <a href="#">TEAM</a>
       <a href="#">SPONSORS</a>
       <a href="#">REACH US</a>
@@ -39,7 +39,7 @@
       </div>
     </div>
 
-    <div class="section-1 pt-4">
+    <div class="section-1 pt-4" id="home">
       <nav class="top-bar">
         <span class="open-slide">
           <a onClick="openSlideMenu()">
@@ -78,12 +78,10 @@
         Your browser does not support the video tag.
       </video>
     </div>
-    <a name="hlts"></a>
-    <div class="hlts">
+    <a id="highlights"></a>
+    <div class="hlts" name="hlts">
       <div class="container">
-        <br /><br />
-        <h1 class="text-center my-captions" id="hltsheading">HIGHLIGHTS</h1>
-        <br /><br />
+        <h1 class="text-center my-captions p-5" id="hltsheading">HIGHLIGHTS</h1>
         <div class="row">
           <div class="col-md-7 my-col">
             <img src="assets/NoPath - Copy (5).png" class="img-fluid s1" />
@@ -100,69 +98,52 @@
             <img src="assets/NoPath - Copy (7).png" class="img-fluid s1" />
           </div>
         </div>
-        <h3 class='text-right my-captions' style='font-size: 40px;'>VIEW MORE</h3>
-        <br><br><br>
-        <h1 class="text-center my-captions" id='hltsheading-2'>EVENTS</h1>
-        <br><br>
-        <div class="row events" >
-          <div class="col-sm-12">
-
-          </div>
+        <h3 class="text-right text-white montserrat">
+          VIEW MORE
+        </h3>
+        <h1 class="text-center my-captions p-5" id="hltsheading">EVENTS</h1>
+        <div class="row events">
+          <div class="col-sm-12"></div>
         </div>
         <div class="row">
-          <div class="col-sm-3 events-m">
-
-          </div>
-          <div class="col-sm-3 events-m">
-
-          </div>
-          <div class="col-sm-3 events-m">
-
-          </div>
-          <div class="col-sm-3 events-m">
-
-          </div>
+          <div class="col-sm-3 events-m"></div>
+          <div class="col-sm-3 events-m"></div>
+          <div class="col-sm-3 events-m"></div>
+          <div class="col-sm-3 events-m"></div>
         </div>
         <div class="row events">
-          <div class="col-sm-12">
+          <div class="col-sm-12"></div>
+        </div>
+      </div>
 
+      <div class="mt-5">
+        <div class="footer-step-1">
+          <span class="text-white montserrat font-weight-normal"
+            >THE EVENTS TIMELINE IS RELEASED!</span
+          >
+          <button class="text-white montserrat font-weight-normal">
+            DOWNLOAD PDF
+          </button>
+        </div>
+
+        <div
+          class="d-flex footer-step-2 justify-content-around align-items-center "
+        >
+          <div class="text-white montserrat font-weight-normal">
+            <img src="./assets/white3dtext.png" class="footer-2-logo" />
+            <p class="footer-2-p">
+              All Rights Reserved.
+            </p>
+          </div>
+
+          <div class="d-flex sidebar-social">
+            <a href="#"><img src="./assets/facebook-logo.svg"/></a>
+            <a href="#"><img src="./assets/instagram-logo.svg"/></a>
           </div>
         </div>
-        <br><br><br><br>
       </div>
     </div>
-    <div style="height: 249px;background: #151515 0% 0% no-repeat padding-box;opacity: 1;">
-      <div class="container">
-        <div class="row before-footer-text">
-          <div class="col-sm-8">
-            <h3 style="margin-top: 100px;">
-              THE EVENTS TIMELINE IS RELEASED!
-            </h3>
-          </div>
-          <div class="col-sm-3" style="margin-top: 72px;">
-            <a href="#">
-              <div class="pdf-box">
-                <h4 style="text-decoration:none;position:relative;top:29px;text-align: center;letter-spacing: 0.4px;color: #FFFFFF;opacity: 1;">DOWNLOAD PDF</h4>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <footer class="footer-main">
-      <div class="container" style="height:100%">
-        <div class="row" style="height:70px;">
-          <div class="col-6 footer-text" style="margin-top:50px;">
-            <img src="./assets/white3dtext.png" style="width: 313px;height: 70px;" />
-            All Rights Reserved.
-          </div>
-          <div class="col-4 offset-2 footer-social">
-            <a href="#"><img src="./assets/instagram-logo.svg" style="padding-left:2rem;" align="right"/></a>
-            <a href="#"><img src="./assets/facebook-logo.svg" align="right"/></a>
-          </div>
-        </div>
-      </div>
-    </footer>
+
     <script src="./scripts/index.js"></script>
   </body>
 </html>

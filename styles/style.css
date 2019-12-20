@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Lilita+One&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Arial", Serif;
   background-color: #f4f4f4;
@@ -25,26 +29,26 @@ body {
   text-align: left;
   font: Regular 40px/50px Montserrat;
   letter-spacing: 0.4px;
-  color: #FFFFFF;
+  color: #ffffff;
   opacity: 1;
 }
 .footer-text {
   text-align: left;
   font: Regular 25px/40px Montserrat;
   letter-spacing: 0.25px;
-  color: #FFFFFF;
+  color: #ffffff;
   opacity: 1;
 }
 .footer-social {
-  height:100%;
-  margin-top:60px;
+  height: 100%;
+  margin-top: 60px;
 }
 .pdf-box {
-  background: #BD3B3B 0% 0% no-repeat padding-box;
+  background: #bd3b3b 0% 0% no-repeat padding-box;
   box-shadow: 0px 3px 7px #00000029;
   opacity: 1;
   height: 106px;
-  width:120%;
+  width: 120%;
 }
 .top-bar {
   overflow: hidden;
@@ -196,6 +200,28 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
+  .footer-step-1 span,
+  .footer-step-1 button {
+    font-size: 1.25rem !important;
+  }
+
+  .footer-step-1 {
+    display: block !important;
+  }
+
+  .footer-step-1 button {
+    margin-top: 1rem;
+    width: 100% !important;
+  }
+
+  .footer-step-2 div {
+    display: block !important;
+  }
+
+  .footer-2-logo {
+    width: 12rem !important;
+  }
+
   .captions span {
     text-align: center;
     color: white;
@@ -271,13 +297,63 @@ body {
   color: white;
   text-shadow: 0px 0px 20px black;
 }
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
+
 #hltsheading {
   font-size: 4.25rem;
+}
+
+.footer-step-1 {
+  display: flex;
+  align-items: center;
+  background: #151515;
+  padding: 5rem;
+  justify-content: space-evenly;
+}
+
+.footer-step-1 button {
+  background: #bd3b3b;
+  border: none;
+  padding: 1.5rem 2rem;
+  font-size: 2rem;
+}
+
+.footer-step-1 span {
+  font-size: 2rem;
+}
+
+.footer-step-2 {
+  background-color: #000;
+  padding: 2rem;
+}
+
+.footer-step-2 div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 0 !important;
+}
+.footer-2-p {
+  padding-left: 1rem;
+}
+
+.footer-2-logo {
+  width: 15rem;
 }
 
 @media screen and (max-width: 991px) {
   #hltsheading {
     font-size: 3rem;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .timer span {
+    font-size: 0.75rem;
   }
 }
 

@@ -64,4 +64,13 @@ let x = setInterval(() => {
   }
 }, 1000);
 
+// scroll keeper
+
+window.addEventListener("scroll", () => {
+  let elementTarget = document.getElementById("highlights");
+  if (window.scrollY > elementTarget.offsetTop + elementTarget.offsetHeight) {
+    document.getElementById("highlights-anchor").className = "active-section";
+  }
+});
+
 openSlideMenu();
