@@ -13,48 +13,14 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Lilita+One&display=swap" rel="stylesheet">
-    <style media="screen">
-      .hlts{
-        margin: 0px;
-        background-attachment: fixed;
-        background: url("assets/bg-faq-optimized.png");
-      }
-      .my-captions{
-        font-family: 'Lilita One', cursive;
-        color: white;
-        text-shadow: 0px 0px 20px black;
-      }
-      #hltsheading{
-        font-size: 4.25rem;
-      }
-
-      @media screen and (max-width: 991px) {
-        #hltsheading {
-          font-size: 3rem;
-        }
-      }
-
-      @media screen and (max-width: 767px) {
-        #hltsheading {
-          font-size: 2.25rem;
-        }
-      }
-      .my-col{
-        padding: 20px;
-      }
-      .s1{
-        border: 4px solid white;
-        border-radius: 5px;
-        box-shadow: 0px 0px 20px 20px rgba(0, 0, 0, 0.5);
-        height: 100%;
-        width: 100%;
-      }
-    </style>
+    <link
+      href="https://fonts.googleapis.com/css?family=Lilita+One&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <div id="side-menu" class="side-nav">
-      <a href="#" onClick="closeSlideMenu()">
+      <a onClick="closeSlideMenu()">
         <img src="./assets/close.svg" class="close-btn" />
       </a>
       <a href="#" class="mt-5 active-section">HOME</a>
@@ -75,7 +41,7 @@
     <div class="section-1 pt-4">
       <nav class="top-bar">
         <span class="open-slide">
-          <a href="#" onClick="openSlideMenu()">
+          <a onClick="openSlideMenu()">
             <img id="menu-btn" src="assets/menu-button.svg" />
           </a>
         </span>
@@ -111,31 +77,32 @@
         Your browser does not support the video tag.
       </video>
     </div>
-    <a name='hlts'></a>
+    <a name="hlts"></a>
     <div class="hlts">
       <div class="container">
-        <br><br>
-        <h1 class="text-center my-captions" id='hltsheading'>HIGHLIGHTS</h1>
-        <br><br>
+        <br /><br />
+        <h1 class="text-center my-captions" id="hltsheading">HIGHLIGHTS</h1>
+        <br /><br />
         <div class="row">
           <div class="col-md-7 my-col">
-            <img src="assets/NoPath - Copy (5).png" class="img-fluid s1">
+            <img src="assets/NoPath - Copy (5).png" class="img-fluid s1" />
           </div>
           <div class="col-md-5 my-col">
-            <img src="assets/NoPath - Copy (6).png" class="img-fluid s1">
+            <img src="assets/NoPath - Copy (6).png" class="img-fluid s1" />
           </div>
         </div>
         <div class="row">
           <div class="col-md-4 my-col">
-            <img src="assets/NoPath - Copy (8).png" class="img-fluid s1">
+            <img src="assets/NoPath - Copy (8).png" class="img-fluid s1" />
           </div>
           <div class="col-md-8 my-col">
-            <img src="assets/NoPath - Copy (7).png" class="img-fluid s1">
+            <img src="assets/NoPath - Copy (7).png" class="img-fluid s1" />
           </div>
         </div>
-        <h3 class='text-right my-captions' style='font-size: 40px;'>VIEW MORE</h3>
+        <h3 class="text-right my-captions" style="font-size: 40px;">
+          VIEW MORE
+        </h3>
       </div>
-
     </div>
     <script src="./scripts/index.js"></script>
   </body>
