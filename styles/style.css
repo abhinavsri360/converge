@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lilita+One&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
-html{
   scroll-behavior: smooth;
+  html{
 }
 body {
   font-family: "Arial", Serif;
@@ -9,7 +9,11 @@ body {
   overflow-x: hidden;
   margin: 0;
 }
-
+.events {
+  height: 200px;
+  background-color: white;
+  border: black 2px solid;
+}
 .top-bar {
   overflow: hidden;
   display: flex;
