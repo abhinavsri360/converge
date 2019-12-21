@@ -545,3 +545,48 @@ body {
   /* width: fit-content;
   margin: auto; */
 }
+
+/* TEAM PAGE */
+.sectionTeamPage {
+  height: 100vh;
+  width: 100%;
+  background: url("../assets/Group\ 23.png") center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.navHeading {
+  margin: 20px auto;
+  color: white;
+  font-family: "Lilita One", cursive;
+}
+
+.convergeHomeLogo {
+  width: 3rem;
+  cursor: pointer;
+  margin-left: 15px;
+}
+
+.teamImageDiv {
+  margin: 20px 30px;
+  text-align: center;
+
+}
+
+.teamImage {
+  width: 16rem;
+}
+
+.teamDetails {
+  margin-top: 20px;
+  color: white;
+  text-align: center;
+}
+
+.teamMember {
+  margin: 30px 40px;
+  display: inline-block;
+}
