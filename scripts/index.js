@@ -66,11 +66,11 @@ let x = setInterval(() => {
 
 // scroll keeper
 
-window.addEventListener("scroll", () => {
-  let elementTarget = document.getElementById("highlights");
-  if (window.scrollY > elementTarget.offsetTop + elementTarget.offsetHeight) {
-    document.getElementById("highlights-anchor").className = "active-section";
-  }
-});
+// window.addEventListener("scroll", () => {
+//   let elementTarget = document.getElementById("highlights");
+//   if (window.scrollY > elementTarget.offsetTop + elementTarget.offsetHeight) {
+//     document.getElementById("highlights-anchor").className = "active-section";
+//   }
+// });
 
 openSlideMenu();
