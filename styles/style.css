@@ -538,12 +538,10 @@ body {
   transition: 0.5s;
 }
 
-.event-techincal div,
-.event-marathon div,
-.event-informal div,
-.event-cultural div,
-.event-literary div,
-.event-sports div {
-  width: fit-content;
-  margin: auto;
+.events div,
+.events-m {
+  padding: 0 !important;
+  overflow: hidden;
+  /* width: fit-content;
+  margin: auto; */
 }
