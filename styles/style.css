@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lilita+One&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Lilita+One&display=swap');
 html {
   scroll-behavior: smooth;
 }
@@ -390,4 +391,62 @@ body {
   box-shadow: 0px 0px 20px 20px rgba(0, 0, 0, 0.5);
   height: 100% !important;
   width: 100% !important;
+}
+/* Reach US */
+.reach-us {
+  min-height: 105vh;
+  background-image: url('../assets/Group\ 23.png');
+  background-size: cover;
+  padding-top: 50px;
+}
+.reach-us > h1 {
+  color:white;
+  font-size: 65px;
+  text-align: center;
+  font-family: 'Lilita One', cursive;
+}
+.my-container {
+  max-width: 1800px;
+  padding-left:15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:15vh;
+}
+.reach-card {
+  margin-bottom: 6vh;
+  margin-left:1vw;
+
+}
+.i-wrapper > img {
+  width:70px;
+  margin-right: 1vw;
+}
+.reach-card > div {
+  letter-spacing: 0.3px;
+  color: #FFFFFF;
+  opacity: 1;
+  font-size: 24px;
+}
+.card-data {
+  display:flex;
+  align-items: center;
+}
+.card-data > a {
+  color:white;
+}
+#map {
+  margin-top: 1vh;
+  height:44vh;
+  width:40vw;
+}
+@media (max-width:768px){
+  #map {
+    margin-top: 3vh;
+    width:100%;
+    margin-bottom: 3vh;
+  }
+  .reach-card > div {
+    font-size: 16px;
+  }
 }
