@@ -17,6 +17,8 @@
       href="https://fonts.googleapis.com/css?family=Lilita+One&display=swap"
       rel="stylesheet"
     />
+
+    <link rel="stylesheet" href="./styles/highlights.css" />
   </head>
 
   <body>
@@ -24,14 +26,14 @@
       <a onClick="closeSlideMenu()">
         <img src="./assets/close.svg" class="close-btn" />
       </a>
-      <a href="#home" id="home-anchor" class="mt-5">HOME</a>
-      <a href="#highlights" id="highlights-anchor">HIGHLIGHTS</a>
-      <a href="#events" id="events-anchor">EVENTS</a>
+      <a href="./index.html" id="home-anchor" class="mt-5">HOME</a>
+      <a href="./index.html#highlights" id="highlights-anchor">HIGHLIGHTS</a>
+      <a href="./index.html#events" id="events-anchor">EVENTS</a>
       <a href="#">PRONITES</a>
-      <a href="#timeline" id="timeline-anchor">TIMELINE</a>
+      <a href="./index.html#timeline" id="timeline-anchor">TIMELINE</a>
       <a href="#">TEAM</a>
       <a href="#">SPONSORS</a>
-      <a href="#">REACH US</a>
+      <a href="./index.html#reachUs">REACH US</a>
 
       <div class="d-flex sidebar-social">
         <a href="#"><img src="./assets/facebook-logo.svg"/></a>
@@ -41,8 +43,12 @@
 
     <div class="hlts" name="hlts">
       <div class="container">
-        <div class="d-flex justify-content-around align-items-center">
-          <img src="" />
+        <div class="d-flex justify-content-between align-items-center pt-3">
+          <img
+            id="menu-btn"
+            onClick="openSlideMenu()"
+            src="./assets/menu-button.svg"
+          />
 
           <h1 class="text-center my-captions" id="hltsheading">
             HIGHLIGHTS
@@ -80,6 +86,6 @@
       </div>
     </div>
 
-    <!-- <script src="./scripts/index.js"></script> -->
+    <script src="./scripts/index.js"></script>
   </body>
 </html>
