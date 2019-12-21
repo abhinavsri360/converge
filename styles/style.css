@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lilita+One&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Lilita+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Thasadith&display=swap");
 html {
   scroll-behavior: smooth;
 }
@@ -131,6 +131,11 @@ body {
   z-index: 5;
 }
 
+#home-btn {
+  height: auto;
+  width: 4rem;
+}
+
 .close-btn {
   height: auto;
   width: 2.25rem;
@@ -201,6 +206,9 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
+  #home-btn {
+    width: 2.5rem;
+  }
   .footer-step-1 span,
   .footer-step-1 button {
     font-size: 1.25rem !important;
@@ -452,4 +460,88 @@ body {
   .reach-us > h1 {
     font-size: 2.25rem;
   }
+}
+
+/* events section */
+.event-marathon {
+  background: linear-gradient(
+      0deg,
+      rgba(119, 102, 102, 0.9),
+      rgba(119, 102, 102, 0.5)
+    ),
+    url("../assets/event-covers/youth-marathon.jpg");
+}
+
+.event-techincal {
+  background: linear-gradient(
+      0deg,
+      rgba(119, 102, 102, 0.7),
+      rgba(119, 102, 102, 0.7)
+    ),
+    url("../assets/event-covers/technical.jpg");
+}
+
+.event-informal {
+  background: linear-gradient(
+      0deg,
+      rgba(119, 102, 102, 0.7),
+      rgba(119, 102, 102, 0.5)
+    ),
+    url("../assets/event-covers/informal.jpg");
+}
+
+.event-cultural {
+  background: linear-gradient(
+      0deg,
+      rgba(119, 102, 102, 0.7),
+      rgba(119, 102, 102, 0.5)
+    ),
+    url("../assets/event-covers/cultural.jpg");
+}
+
+.event-literary {
+  background: linear-gradient(
+      0deg,
+      rgba(119, 102, 102, 0.7),
+      rgba(119, 102, 102, 0.5)
+    ),
+    url("../assets/event-covers/literary.jpeg");
+}
+
+.event-sports {
+  background: linear-gradient(
+      0deg,
+      rgba(119, 102, 102, 0.7),
+      rgba(119, 102, 102, 0.5)
+    ),
+    url("../assets/event-covers/sports.jpg");
+}
+
+.event-techincal,
+.event-marathon,
+.event-informal,
+.event-cultural,
+.event-literary,
+.event-sports {
+  font-size: 40px;
+  background-size: cover;
+  font-family: "Thasadith", sans-serif;
+}
+
+.event-techincal:hover,
+.event-marathon:hover,
+.event-informal:hover,
+.event-cultural:hover,
+.event-literary:hover,
+.event-sports:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+.events div,
+.events-m {
+  padding: 0 !important;
+  overflow: hidden;
+  /* width: fit-content;
+  margin: auto; */
 }
