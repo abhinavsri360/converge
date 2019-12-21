@@ -131,6 +131,11 @@ body {
   z-index: 5;
 }
 
+#home-btn {
+  height: auto;
+  width: 4rem;
+}
+
 .close-btn {
   height: auto;
   width: 2.25rem;
@@ -201,6 +206,9 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
+  #home-btn {
+    width: 2.5rem;
+  }
   .footer-step-1 span,
   .footer-step-1 button {
     font-size: 1.25rem !important;
