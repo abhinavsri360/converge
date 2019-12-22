@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="icon" href="./assets/OLogo3d-cropped.png" type="image/gif" sizes="16x16">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Responsive Side Menu</title>
-    <link rel="stylesheet" href="./styles/style.css" />
     <link rel="stylesheet" href="./styles/404.css">
     <link
       rel="stylesheet"
       href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     />
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
   </head>
 
   <body>
@@ -19,8 +18,8 @@
       <a onClick="closeSlideMenu()">
         <img src="./assets/close.svg" class="close-btn" />
       </a>
-      <a href="#home" id="home-anchor" class="mt-5">HOME</a>
-      <a href="#highlights" id="highlights-anchor">HIGHLIGHTS</a>
+      <a href="index.html#home" id="home-anchor" class="mt-5">HOME</a>
+      <a href="index.html#highlights" id="highlights-anchor">HIGHLIGHTS</a>
       <a href="#" id="events-anchor">EVENTS</a>
       <a href="#">PRONITES</a>
       <a href="#" id="timeline-anchor">TIMELINE</a>
@@ -34,7 +33,7 @@
       </div>
     </div>
 
-    <div class="pt-4" id="home">
+    <div class="pt-5" id="home">
       <nav class="top-bar">
         <span class="open-slide">
           <a onClick="openSlideMenu()">
@@ -44,6 +43,11 @@
 
       </nav>
 
+    </div>
+    <div class="content-wrapper">
+      <h1>404</h1>
+      <h2>We can't find the page you are looking for!</h2>
+      <button><a href="index.html">Return Home</a></button>
     </div>
     <script src="./scripts/index.js"></script>
 
