@@ -114,13 +114,15 @@ body {
   background-size: cover;
 }
 
+
+
 .sidebar-social a {
   padding: 1rem;
 }
 
 .sidebar-social {
   padding-left: 4rem;
-  margin-top: 2rem;
+  margin-top: 4rem;
 }
 
 #menu-btn {
@@ -634,4 +636,51 @@ body {
   margin: 40% 17px;
   user-select: none;
   opacity: 0;
+}
+
+/*Sponsors*/
+
+.sectionsponsor {
+  width: 100%;
+  background: url("../assets/highlights-bg.png") center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    color: white;
+}
+
+.titlesponsor
+{
+    text-align: center;
+    margin-bottom: 30px;
+    color: white;
+}
+
+
+.sponsorDiv {
+  margin: 20px 30px;
+  text-align: center;
+
+}
+
+.sImage {
+  width: 10rem;
+  box-shadow: 0px 2px 15px;
+  
+}
+
+.sponsorimage {
+    align-items: center;
+  width: 10rem;
+  box-shadow: 0px 2px 15px;
+  
+}
+
+.sponsor
+{
+  margin: 30px 40px;
+  display: inline-block;
+
+  
 }
