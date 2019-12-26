@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css?family=Lilita+One&display=swap");
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Arial", Serif;
+  background-color: #f4f4f4;
+  overflow-x: hidden;
+  margin: 0;
+}
+.top-bar {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 5rem !important;
+}
+
+.top-logo {
+  height: auto;
+  width: 25rem;
+  transition: 0.25s;
+}
+
+.side-nav {
+  height: 100%;
+  position: fixed;
+  width: 0;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  box-shadow: -6px 17px 16px #437bc4;
+  border-bottom-right-radius: 10rem;
+  border-top-right-radius: 3.25em;
+  z-index: 6;
+}
+
+.side-nav a {
+  padding: 7px 5rem;
+  text-decoration: none;
+  font-size: 22px;
+  color: #fff;
+  display: block;
+  transition: 0.3s;
+  font-family: "Lilita One", cursive;
+}
+
+.side-nav a:hover {
+  text-decoration: none;
+  color: #437bc4;
+}
+
+.side-nav .btn-close {
+  position: absolute;
+  top: 0;
+  right: 22px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.sidebar-social a {
+  padding: 1rem;
+}
+
+.sidebar-social {
+  padding-left: 4rem;
+  margin-top: 4rem;
+}
+
+#menu-btn {
+  height: auto;
+  width: 2.5rem;
+  position: fixed;
+  margin-top: -1.25rem;
+  z-index: 5;
+}
+
+#home-btn {
+  height: auto;
+  width: 4rem;
+}
+
+.close-btn {
+  height: auto;
+  width: 2.25rem;
+  padding-top: 2.75rem;
+}
+
+.fixed-top {
+  z-index: auto !important;
+}
+
+@media only screen and (max-width: 600px) {
+  #home-btn {
+    width: 2.5rem;
+  }
+  .top-logo {
+    width: 10rem;
+  }
+
+  .close-btn {
+    padding-top: 1rem;
+  }
+
+  #menu-btn {
+    left: 2rem;
+  }
+
+  .side-nav a {
+    padding: 7px 2rem;
+  }
+  .sidebar-social {
+    padding-left: 0.5rem;
+    margin-top: 4rem;
+  }
+}
