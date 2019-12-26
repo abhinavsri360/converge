@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Events</title>
+    <link rel="stylesheet" href="styles/sidenav.css">
+    <link rel="stylesheet" href="styles/events_catalogue.css">
+    <link
+    rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+  />
+</head>
+<body>
+    <div id="side-menu" class="side-nav">
+        <a onClick="closeSlideMenu()">
+          <img src="./assets/close.svg" class="close-btn" />
+        </a>
+        <a href="index.html#home" id="home-anchor" class="mt-5">HOME</a>
+        <a href="index.html#highlights" id="highlights-anchor">HIGHLIGHTS</a>
+        <a href="#" id="events-anchor">EVENTS</a>
+        <a href="#">PRONITES</a>
+        <a href="#" id="timeline-anchor">TIMELINE</a>
+        <a href="#">TEAM</a>
+        <a href="#">SPONSORS</a>
+        <a href="#">REACH US</a>
+  
+        <div class="d-flex sidebar-social">
+          <a href="#"><img src="./assets/facebook-logo.svg"/></a>
+          <a href="#"><img src="./assets/instagram-logo.svg"/></a>
+        </div>
+      </div>
+      <div class="pt-5" id="home">
+        <nav class="top-bar">
+          <span class="open-slide">
+            <a onClick="openSlideMenu()">
+              <img id="menu-btn" src="assets/menu-button.svg" />
+            </a>
+          </span>
+        </nav>
+      </div>
+      <div class="content-wrapper">
+        <h1 id="event-category">Technical Events</h1>
+        <div id="event-grid">
+            <div class="event-card row">
+                <img src="./assets/NoPath - Copy (6).png" alt="" class="col-5">
+                <div class="event-card-content col-7">
+                    <h3>Event Title</h3>
+                    <p>Event description</p>
+                    <button>Details</button>
+                </div>
+            </div>
+            <div class="event-card row">
+                <div class="event-card-content col-7">
+                    <h3>Event Title</h3>
+                    <p>Event description</p>
+                    <button>Details</button>
+                </div>
+                <img src="./assets/NoPath - Copy (6).png" alt="" class="col-5">
+
+            </div>
+            <div class="event-card row">
+                <img src="./assets/NoPath - Copy (6).png" alt="" class="col-5">
+                <div class="event-card-content col-7">
+                    <h3>Event Title</h3>
+                    <p>Event description</p>
+                    <button>Details</button>
+                </div>
+
+            </div>
+            <div class="event-card row">
+                <div class="event-card-content col-7">
+                    <h3>Event Title</h3>
+                    <p>Event description</p>
+                    <button>Details</button>
+                </div>
+                <img src="./assets/NoPath - Copy (6).png" alt="" class="col-5">
+
+            </div>
+            <div class="event-card row">
+                <img src="./assets/NoPath - Copy (6).png" alt="" class="col-5">
+                <div class="event-card-content col-7">
+                    <h3>Event Title</h3>
+                    <p>Event description</p>
+                    <button>Details</button>
+                </div>
+            </div>
+            
+        </div>
+      </div>
+      <script src="./scripts/index.js"></script>
+</body>
+</html>

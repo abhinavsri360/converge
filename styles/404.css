@@ -1,7 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Lilita+One&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Thasadith&display=swap");
+
 html {
   scroll-behavior: smooth;
 }
@@ -10,46 +8,6 @@ body {
   background-color: #f4f4f4;
   overflow-x: hidden;
   margin: 0;
-}
-.events {
-  height: 360px;
-  background-color: white;
-  border: black 2px solid;
-}
-.events-m {
-  height: 455px;
-  background-color: white;
-  border: black 2px solid;
-}
-.footer-main {
-  background: #000000 0% 0% no-repeat padding-box;
-  opacity: 1;
-  height: 160px;
-}
-.before-footer-text {
-  text-align: left;
-  font: Regular 40px/50px Montserrat;
-  letter-spacing: 0.4px;
-  color: #ffffff;
-  opacity: 1;
-}
-.footer-text {
-  text-align: left;
-  font: Regular 25px/40px Montserrat;
-  letter-spacing: 0.25px;
-  color: #ffffff;
-  opacity: 1;
-}
-.footer-social {
-  height: 100%;
-  margin-top: 60px;
-}
-.pdf-box {
-  background: #bd3b3b 0% 0% no-repeat padding-box;
-  box-shadow: 0px 3px 7px #00000029;
-  opacity: 1;
-  height: 106px;
-  width: 120%;
 }
 .top-bar {
   overflow: hidden;
@@ -104,16 +62,6 @@ body {
   margin-left: 50px;
 }
 
-.section-1 {
-  height: 100vh;
-  width: 100%;
-  background: url("../assets/maninder.png") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 .sidebar-social a {
   padding: 1rem;
 }
@@ -146,106 +94,10 @@ body {
   z-index: auto !important;
 }
 
-.timer h3 {
-  font-family: "Lato";
-  font-weight: 700;
-}
-
-.timer span {
-  font-size: 3rem;
-  font-weight: 700;
-  font-family: "Lato";
-  padding: 0.5rem 0.75rem;
-  transition: 0.25s;
-}
-
-.darken {
-  background: #001026;
-}
-
-.whiten {
-  background: #fff;
-}
-
-.landing-bottom {
-  margin: auto;
-  position: absolute;
-  width: fit-content;
-  bottom: 10rem;
-  left: 0;
-  right: 0;
-  transition: 0.25s;
-}
-
-.captions {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-gap: 2.75rem;
-}
-
-.video {
-  position: absolute;
-  bottom: 2.5rem;
-  right: 3rem;
-  border: 2px solid white;
-  border-radius: 5px;
-  transition: 0.25s;
-}
-
-.captions span {
-  text-align: center;
-  color: white;
-  font-family: "lato";
-  font-size: 1.25rem;
-  font-weight: 700;
-  transition: 0.25s;
-}
-
-.active-section {
-  color: #437bc4 !important;
-}
-
 @media only screen and (max-width: 600px) {
   #home-btn {
     width: 2.5rem;
   }
-  .footer-step-1 span,
-  .footer-step-1 button {
-    font-size: 1.25rem !important;
-  }
-
-  .footer-step-1 {
-    display: block !important;
-  }
-
-  .footer-step-1 button {
-    margin-top: 1rem;
-    width: 100% !important;
-  }
-
-  .footer-step-2 div {
-    display: block !important;
-  }
-
-  .footer-2-logo {
-    width: 12rem;
-  }
-
-  .captions span {
-    text-align: center;
-    color: white;
-    font-family: "lato";
-    font-size: 0.75rem;
-    font-weight: 700;
-  }
-
-  .timer span {
-    font-size: 1rem;
-    font-weight: 700;
-    font-family: "Lato";
-    padding: 0.5rem 0.75rem;
-  }
-
   .top-logo {
     width: 10rem;
   }
@@ -261,17 +113,11 @@ body {
   .side-nav a {
     padding: 7px 2rem;
   }
-
   .sidebar-social {
     padding-left: 0.5rem;
     margin-top: 4rem;
   }
-  .landing-bottom {
-    margin-top: 13em;
-  }
 }
-
-
 
 #home {
     min-height: 100vh;
@@ -310,5 +156,6 @@ body {
         left:4vw;
         top:25%;
     }
+    
 
 }
