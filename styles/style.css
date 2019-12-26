@@ -654,7 +654,12 @@ body {
 {
     text-align: center;
     margin-bottom: 30px;
+    margin-top: 100px;
     color: white;
+}
+.titlesponsor h2{
+  margin: auto;
+  margin-bottom: 30px;
 }
 
 
@@ -683,4 +688,7 @@ body {
   display: inline-block;
 
   
+}
+#hltsheading {
+  margin: auto;
 }
