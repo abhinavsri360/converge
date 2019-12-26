@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css?family=Lilita+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+#home {
+    position: absolute;
+    top:0;
+}
+.content-wrapper {
+    min-height: 100vh;
+    background-image: url("../assets/highlights-bg.png");
+    background-attachment: fixed;
+    text-align: center;
+    padding-top: 100px;
+
+}
+#event-category {
+    color:white;
+    font-size: 56px;
+    font-family: "Lilita One", cursive;
+
+}
+#event-grid {
+    margin-top: 40px;
+    margin-left:22vw;
+    margin-right: 22vw;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 10px;
+    align-items: center;
+    justify-items: center;
+}
+
+/* Event card */
+
+.event-card {
+    background-color: #272727;
+    color:white;
+    box-shadow: 0px 0px 10px #273f61;
+    width: 503px;
+    height: 180px;
+    margin-bottom: 20px;
+}
+
+.event-card-content {
+    font-family: "Montserrat";
+    align-self: center;    
+
+}
+.event-card-content > h3 {
+    font-weight: 600;
+}
+.event-card > img {
+    padding:0;
+    max-height: 100%;
+}
+@media (max-width:1680px) {
+    #event-grid {
+        margin-left:15vw;
+        margin-right: 15vw;
+    }
+}
+@media (max-width:1400px) {
+    #event-grid {
+        margin-left:10vw;
+        margin-right: 10vw;
+    }
+}
+@media (max-width:1230px) {
+    #event-grid {
+        margin-left:5vw;
+        margin-right:5vw;
+    }
+}
+@media (max-width:1100px) {
+    #event-grid {
+        grid-template-columns: 100%;
+    }
+}
+.event-card-content > button {
+    font-weight: 400;
+    font-family: "Lilita One", cursive;
+    max-width: 220px;
+    font-size: 18px;
+    background-color:#437bc2;
+    border:0;
+    padding:8px 14px;
+    color:white;
+    border-radius: 30px;
+}
+.event-card-content > button > a {
+color:white;
+}
