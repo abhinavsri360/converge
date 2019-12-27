@@ -124,12 +124,7 @@ let teamData =
   'Image': './assets/team/4.jpg',
   'Position': 'Chief editor',
   'Facebook': 'https://www.facebook.com/vipulsatyendra',
-  'Linkedin': 'https://www.linkedin.com/in/vipul-satyendra-b95747151'},
- {'Name': 'Bhartendu Dubey',
-  'Image': './assets/team/5.jpg',
-  'Position': 'Quizzing Head',
-  'Facebook': 'https://www.facebook.com/bhartendu.dubey',
-  'Linkedin': 'https://www.linkedin.com/in/bhartendu-dubey-0312b2111'}]
+  'Linkedin': 'https://www.linkedin.com/in/vipul-satyendra-b95747151'}]
 
 
 teamDiv = document.getElementsByClassName("teamImageDiv")[0]
