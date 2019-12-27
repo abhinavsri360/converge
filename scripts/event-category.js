@@ -2,51 +2,63 @@
 let cultureData = 
 [
   {
-    title: "Event Name",
+    title: "GROOVE",
     brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
+    link: "./event.html?eventname=groove",
     image: "./assets/NoPath - Copy (6).png"
   },
 
   {
-    title: "Event Name",
+    title: "RIHAA",
     brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
+    link: "./event.html?eventname=rihaa",
     image: "./assets/NoPath - Copy (6).png"
   },
 
   {
-    title: "Event Name",
+    title: "MEHFIL",
     brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
+    link: "./event.html?eventname=mehfil",
     image: "./assets/NoPath - Copy (6).png"
   },
 
   {
-    title: "Event Name",
+    title: "ADVAYA",
     brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
+    link: "./event.html?eventname=advaya",
     image: "./assets/NoPath - Copy (6).png"
   },
 
   {
-    title: "Event Name",
+    title: "SABRANG",
     brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
+    link: "./event.html?eventname=sabrang",
     image: "./assets/NoPath - Copy (6).png"
   },
 
   {
-    title: "Event Name",
+    title: "PLAY PAUSE REWIND",
     brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
+    link: "./event.html?eventname=ppr",
     image: "./assets/NoPath - Copy (6).png"
   },
 
   {
-    title: "Event Name",
+    title: "FLUTTER THE SHUTTER",
     brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
+    link: "./event.html?eventname=fts",
+    image: "./assets/NoPath - Copy (6).png"
+  },
+  {
+    title: "POISE",
+    brief_description: "Description of the event",
+    link: "./event.html?eventname=poise",
+    image: "./assets/NoPath - Copy (6).png"
+  },
+  {
+    title: "MR and MS CONVERGE",
+    brief_description: "Description of the event",
+    link: "./event.html?eventname=mconv",
     image: "./assets/NoPath - Copy (6).png"
   }
 
