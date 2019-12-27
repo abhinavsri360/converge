@@ -105,10 +105,11 @@ let techData =
 
 ]
 
+let informalarray=[]
 
+let literaryarray=[]
 
-
-
+let sportsarray=[]
 
 // Funtion to inject array to page
 const InjectArray = (data,title) => {
@@ -145,13 +146,21 @@ const InjectArray = (data,title) => {
 // Script from here
 let searchCategory = window.location.search.split("=")[1]
 switch (searchCategory) {
-  case "Cultural":
+  case "cultural":
     InjectArray(cultureData,"Cultural Events")
     break;
-  case "Technical":
+  case "technical":
     InjectArray(techData,"Technical Events")
     break;
-  case "Informal":
+  case "informal":
+  InjectArray(informalarray,"Informal Events")
+  break;
+  case "sports":
+  InjectArray(sportsarray,"Sports Events")
+  break;
+  case "literary":
+  InjectArray(literaryarray,"Literary Events")
+  break;
   default:
     window.location.href="404.html"
     break;
