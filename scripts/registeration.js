@@ -44,5 +44,8 @@ formFields = formData[i].formFields
    }
    return formFieldsTag
 }
+if(eventName)
+  document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML = formHtml + formFieldsHtml(eventName) + `<input type="submit" value="Register"></input>`
+else
+  window.location = './404.html'
 
-document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML = formHtml + formFieldsHtml(eventName) + `<input type="submit" value="Register"></input>`
