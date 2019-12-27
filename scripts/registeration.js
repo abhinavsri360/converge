@@ -6,7 +6,7 @@ let formData =
     'formFields': {
       'Team Name': 'text',
       'College Name': 'text',
-      'Email Address': 'email',
+      'Email Address': 'text',
       'Contact Number': 'text'
     }
   },
@@ -45,7 +45,31 @@ formFields = formData[i].formFields
    return formFieldsTag
 }
 if(eventName)
-  document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML = formHtml + formFieldsHtml(eventName) + `<input type="submit" value="Register"></input>`
+  document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML = formHtml + formFieldsHtml(eventName) + `<input type="submit" onclick="sendDataToApi()" value="Register"></input>`
 else
   window.location = './404.html'
 
+  const sendDataToApi = () => {
+    let inputs = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].getElementsByTagName("input")
+    userData = {
+    }
+    for(let i=0;i<inputs.length - 1 ; i++) { //-1 coz last input is button
+      userData[inputs[i].name] = inputs[i].value
+    }
+    let json = {
+      'event': eventName,
+      'userData': userData
+    }
+    $.ajax(
+      { url: 'https://converge2020.herokuapp.com/postFormData',
+        data: JSON.stringify({'formData': json}),
+        contentType: 'application/json',
+        type: 'POST',
+        success: function(data, status){
+          alert("Check")
+        window.location.href = `index.html`
+        }
+        });
+        alert(JSON.stringify({'formData': json}))
+
+  }
