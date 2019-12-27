@@ -1,4 +1,4 @@
-let teamData =  
+let teamData =
 
 [ {'Name': 'Atul',
 'Image': './assets/team/18.jpg',
@@ -40,6 +40,13 @@ let teamData =
   'Position': 'Prismatic Head',
   'Facebook': '',
   'Linkedin': 'https://www.linkedin.com/in/saurabh-sharma-059106178'},
+  {
+    'Name': 'Samarth Sharma',
+    'Image': './assets/team/27.jpg',
+    'Position': 'Technical Head',
+    'Facebook': '',
+    'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
+  },
   {'Name': 'Nitin Singhal',
   'Image': './assets/team/25.jpg',
   'Position': 'UI UX Head',
@@ -129,12 +136,12 @@ let teamData =
 
 teamDiv = document.getElementsByClassName("teamImageDiv")[0]
 
-for(var i=0;i<teamData.length;i++){
+for (var i = 0; i < teamData.length; i++) {
 
 
-text = 
+    text =
 
-`
+        `
 <div class="teamMember">
 <div class="teamSocialHandle">
 <img class="teamImage" src="${teamData[i].Image}" alt="">
@@ -153,7 +160,7 @@ text =
 
 
 
-teamDiv.innerHTML = teamDiv.innerHTML + text
+    teamDiv.innerHTML = teamDiv.innerHTML + text
 
 
 }
