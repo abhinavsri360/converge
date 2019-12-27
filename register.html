@@ -26,10 +26,10 @@
         <a href="./index.html" id="home-anchor" class="mt-5">HOME</a>
         <a href="./index.html#highlights" id="highlights-anchor">HIGHLIGHTS</a>
         <a href="./index.html#events" id="events-anchor">EVENTS</a>
-        <a href="#">PRONITES</a>
+        <a href="./Pronites.html">PRONITES</a>
         <a href="./index.html#timeline" id="timeline-anchor">TIMELINE</a>
-        <a href="#">TEAM</a>
-        <a href="#">SPONSORS</a>
+        <a href="./team.html">TEAM</a>
+        <a href="./sponsors.html">SPONSORS</a>
         <a href="./index.html#reachUs">REACH US</a>
 
         <div class="d-flex sidebar-social">
@@ -39,7 +39,7 @@
     </div>
 
     <div class="hlts" name="hlts">
-        <div class="container ">
+        <div class="container p-3">
             <div class="d-flex justify-content-between align-items-center pt-3">
                 <img id="menu-btn" onClick="openSlideMenu()" src="./assets/menu-button.svg" />
 
@@ -56,19 +56,19 @@
                 <p class="text-white text-center form-top-text">Fill out the form below to register for the event. All Fields marked with * are mandatory</p>
                 <form action="" class="mt-5">
                     <p>TEAM NAME *</p>
-                    <input type="text" name="team-name">
+                    <input type="text" name="team-name" required autocomplete="off">
                     <p>COLLEGE NAME</p>
-                    <input type="text" name="college-name">
+                    <input type="text" name="college-name" autocomplete="off">
                     <p>EMAIL ADDRESS</p>
-                    <input type="text" name="emailId">
+                    <input type="email" name="emailId" autocomplete="off">
                     <div class="contact-grid">
                         <span>
                             <p>CONTACT #1</p>
-                            <input type="text" name="contact1">
+                            <input type="text" name="contact1" autocomplete="off">
                         </span>
                         <span>
                             <p>CONTACT #2</p>
-                            <input type="text" name="contact2">
+                            <input type="text" name="contact2" autocomplete="off">
                         </span>
                     </div>
                     <input type="submit" value="Register">

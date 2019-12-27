@@ -57,6 +57,13 @@ let teamData =
         'Linkedin': 'https://www.linkedin.com/in/saurabh-sharma-059106178'
     },
     {
+        'Name': 'Samarth Sharma',
+        'Image': './assets/team/27.jpg',
+        'Position': 'Technical Head',
+        'Facebook': '',
+        'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
+    },
+    {
         'Name': 'Nitin Singhal',
         'Image': './assets/team/25.jpg',
         'Position': 'UI UX Head',
@@ -181,22 +188,7 @@ let teamData =
         'Position': 'Quizzing Head',
         'Facebook': 'https://www.facebook.com/bhartendu.dubey',
         'Linkedin': 'https://www.linkedin.com/in/bhartendu-dubey-0312b2111'
-    },
-    {
-        'Name': 'Saksham Srivastava',
-        'Image': './assets/team/27.jpg',
-        'Position': 'Student Welfare Head',
-        'Facebook': '',
-        'Linkedin': ''
-    },
-    {
-        'Name': 'Samarth Sharma',
-        'Image': './assets/team/28.jpg',
-        'Position': 'Technical Head',
-        'Facebook': '',
-        'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
-    }
-]
+    }]
 
 
 teamDiv = document.getElementsByClassName("teamImageDiv")[0]
