@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="icon" href="./assets/OLogo3d-cropped.png" type="image/gif" sizes="16x16" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Converge | register</title>
+    <link rel="stylesheet" href="./styles/style.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lilita+One&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles/registration.css">
+
+    <link rel="stylesheet" href="./styles/highlights.css" />
+</head>
+
+<body>
+    <div id="side-menu" class="side-nav">
+        <a onClick="closeSlideMenu()">
+            <img src="./assets/close.svg" class="close-btn" />
+        </a>
+        <a href="./index.html" id="home-anchor" class="mt-5">HOME</a>
+        <a href="./index.html#highlights" id="highlights-anchor">HIGHLIGHTS</a>
+        <a href="./index.html#events" id="events-anchor">EVENTS</a>
+        <a href="#">PRONITES</a>
+        <a href="./index.html#timeline" id="timeline-anchor">TIMELINE</a>
+        <a href="#">TEAM</a>
+        <a href="#">SPONSORS</a>
+        <a href="./index.html#reachUs">REACH US</a>
+
+        <div class="d-flex sidebar-social">
+            <a href="#"><img src="./assets/facebook-logo.svg" /></a>
+            <a href="#"><img src="./assets/instagram-logo.svg" /></a>
+        </div>
+    </div>
+
+    <div class="hlts" name="hlts">
+        <div class="container ">
+            <div class="d-flex justify-content-between align-items-center pt-3">
+                <img id="menu-btn" onClick="openSlideMenu()" src="./assets/menu-button.svg" />
+
+                <h1 class="text-center my-captions" id="hltsheading">
+                Registration
+                </h1>
+
+                <a href="./">
+                    <img id="home-btn" src="./assets/OLogo3d-cropped.png" />
+                </a>
+            </div>
+
+            <div class="registrationForm p-5">
+                <p class="text-white text-center form-top-text">Fill out the form below to register for the event. All Fields marked with * are mandatory</p>
+                <form action="" class="mt-5">
+                    <p>TEAM NAME *</p>
+                    <input type="text" name="team-name">
+                    <p>COLLEGE NAME</p>
+                    <input type="text" name="college-name">
+                    <p>EMAIL ADDRESS</p>
+                    <input type="text" name="emailId">
+                    <div class="contact-grid">
+                        <span>
+                            <p>CONTACT #1</p>
+                            <input type="text" name="contact1">
+                        </span>
+                        <span>
+                            <p>CONTACT #2</p>
+                            <input type="text" name="contact2">
+                        </span>
+                    </div>
+                    <input type="submit" value="Register">
+                </form> 
+            </div>
+        </div>
+    </div>
+
+    <script src="./scripts/index.js"></script>
+</body>
+</html>
