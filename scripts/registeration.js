@@ -6,22 +6,22 @@ let formData =
     'formFields': {
       'Team name': 'text',
       'College name': 'text',
-      'Email address': 'text',
-      'Contact number 1': 'text',
-      'Contact number 2': 'text',
-      'Number of participants': 'text',
+      'Email address': 'email',
+      'Contact number 1': 'number',
+      'Contact number 2': 'number',
+      'Number of participants': 'number',
       'Video link for Preliminary Round' : 'text'
     }
   },
   {'code': "Inquizzitive",
       'formFields': {
         'Name': 'text',
-        'year': 'text',
+        'year': 'number',
         'college': 'text',
-        'phone no.': 'text',
-        'Email': 'text',
+        'phone no.': 'number',
+        'Email': 'email',
         'Team name': 'text',
-        'Team size(1 or 2)': 'text',
+        'Team size(1 or 2)': 'number',
         'Team members': 'text',
         'Team members details': 'text'
       }
@@ -30,25 +30,25 @@ let formData =
       'formFields': {
         'College Name': 'text',
         'Team Name': 'text',
-        'No. of Participants': 'text',
-        'Contact No.(POC 1)': 'text',
-        'Contact No. (POC 2)': 'text',
-        'Email ID.': 'text'
+        'No. of Participants': 'number',
+        'Contact No.(POC 1)': 'number',
+        'Contact No. (POC 2)': 'number',
+        'Email ID.': 'email'
       }
   },
   {'code': "mehfil",
       'formFields': {
         'Name of Participant': 'text',
         'College Name': 'text',
-        'Contact No.': 'text',
-        'Email ID': 'text'
+        'Contact No.': 'number',
+        'Email ID': 'email'
       }
   },
   {'code': "advaya",
       'formFields': {
         'Participant Name': 'text',
-        'Participant Contact Number': 'text',
-        'Participant Email ID': 'text',
+        'Participant Contact Number': 'number',
+        'Participant Email ID': 'email',
         'College Name': 'text',
         'City': 'text'
       }
@@ -58,17 +58,17 @@ let formData =
         'College Name': 'text',
         'City': 'text',
         'Team Name': 'text',
-        'Team Size': 'text',
+        'Team Size': 'number',
         'Person Of Contact (POC) Name': 'text',
-        'POC Contact Number': 'text',
-        'POC Email Id': 'text'
+        'POC Contact Number': 'number',
+        'POC Email Id': 'email'
       }
   },
   {'code': "ppr",
       'formFields': {
         'Team Leader\'s Name': 'text',
-        'Team Leader\'s Contact': 'text',
-        'Team Leader\'s Email': 'text',
+        'Team Leader\'s Contact': 'number',
+        'Team Leader\'s Email': 'email',
         'Team Name': 'text',
         'College Name': 'text'
       }
@@ -76,8 +76,8 @@ let formData =
   {'code': "fts",
       'formFields': {
         'Name': 'text',
-        'Email': 'text',
-        'Contact': 'text',
+        'Email': 'email',
+        'Contact': 'number',
         'College Name': 'text'
       }
   },
@@ -85,21 +85,21 @@ let formData =
       'formFields': {
         'Team name': 'text',
         'College name': 'text',
-        'Number of team members': 'text',
+        'Number of team members': 'number',
         'Name of president': 'text',
-        'Email ID of president': 'text',
-        'Contact number of president': 'text',
+        'Email ID of president': 'email',
+        'Contact number of president': 'number',
         'Name of vice President': 'text',
-        'Email ID of vice President': 'text',
-        'Contact number of vice Presidet': 'text'
+        'Email ID of vice President': 'email',
+        'Contact number of vice Presidet': 'number'
       }
   },
   {'code': "mconv",
       'formFields': {
         'Full name': 'text',
-        'Contact number': 'text',
-        'Email ID': 'text',
-        'Enrollment number': 'text'
+        'Contact number': 'number',
+        'Email ID': 'email',
+        'Enrollment number': 'number'
       }
   }
   ]
