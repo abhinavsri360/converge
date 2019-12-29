@@ -79,13 +79,13 @@ const InjectArray = (data,title) => {
   data.forEach((event,index) => {
     if(index%2 !==0 ) {
       output+=`
-      <div class="event-card row">
+      <div class="event-card row flexReverse">
+                    <img src="${event.image}" alt="" class="col-sm-5">
                     <div class="event-card-content col-sm-7">
                         <h3>${event.title}</h3>
                         <p>${event.brief_description}</p>
                         <button><a href="${event.link}">Details</a></button>
                     </div>
-                    <img src="${event.image}" alt="" class="col-sm-5">
       </div>
       `
     }else {
