@@ -4,13 +4,98 @@ let formData =
 
 [ {'code': "groove",
     'formFields': {
-      'Team Name': 'text',
-      'College Name': 'text',
-      'Email Address': 'text',
-      'Contact Number': 'text'
+      'Team name': 'text',
+      'College name': 'text',
+      'Email address': 'text',
+      'Contact number 1': 'text',
+      'Contact number 2': 'text',
+      'Number of participants': 'text',
+      'Video link for Preliminary Round' : 'text'
     }
   },
-    {'code': "abhinay",
+  {'code': "Inquizzitive",
+      'formFields': {
+        'Name': 'text',
+        'year': 'text',
+        'college': 'text',
+        'phone no.': 'text',
+        'Email': 'text',
+        'Team name': 'text',
+        'Team size(1 or 2)': 'text',
+        'Team members': 'text',
+        'Team members details': 'text'
+      }
+  },
+  {'code': "rihaa",
+      'formFields': {
+        'Team Name': 'text',
+        'College Name': 'text',
+        'Email Address': 'text',
+        'Contact Number': 'text'
+      }
+  },
+  {'code': "mehfil",
+      'formFields': {
+        'Team Name': 'text',
+        'College Name': 'text',
+        'Email Address': 'text',
+        'Contact Number': 'text'
+      }
+  },
+  {'code': "advaya",
+      'formFields': {
+        'Team Name': 'text',
+        'College Name': 'text',
+        'Email Address': 'text',
+        'Contact Number': 'text'
+      }
+  },
+  {'code': "sabrang",
+      'formFields': {
+        'Team Name': 'text',
+        'College Name': 'text',
+        'Email Address': 'text',
+        'Contact Number': 'text'
+      }
+  },
+  {'code': "ppr",
+      'formFields': {
+        'Team Name': 'text',
+        'College Name': 'text',
+        'Email Address': 'text',
+        'Contact Number': 'text'
+      }
+  },
+  {'code': "fts",
+      'formFields': {
+        'Team Name': 'text',
+        'College Name': 'text',
+        'Email Address': 'text',
+        'Contact Number': 'text'
+      }
+  },
+  {'code': "poise",
+      'formFields': {
+        Team name
+        College name
+        Number of team members
+        Name of president
+        Email ID of president
+        Contact number of president
+        Name of vice President
+        Email ID of vice President
+        Contact number of vice Presidet
+      }
+  },
+  {'code': "mconv",
+      'formFields': {
+        'Team Name': 'text',
+        'College Name': 'text',
+        'Email Address': 'text',
+        'Contact Number': 'text'
+      }
+  },
+  {'code': "abhinay",
     'formFields': {
       'Team Name': 'text',
       'College Name': 'text',
