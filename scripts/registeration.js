@@ -101,15 +101,6 @@ let formData =
         'Email ID': 'text',
         'Enrollment number': 'text'
       }
-  },
-  {'code': "abhinay",
-    'formFields': {
-      'Team Name': 'text',
-      'College Name': 'text',
-      'Email Address': 'email',
-      'Contact Number': 'text',
-      'Contact Number 2': 'text'
-    }
   }
   ]
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML
