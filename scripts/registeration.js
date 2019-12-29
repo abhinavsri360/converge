@@ -74,19 +74,6 @@ let formData =
         'Contact Number': 'text'
       }
   },
-  {'code': "poise",
-      'formFields': {
-        Team name
-        College name
-        Number of team members
-        Name of president
-        Email ID of president
-        Contact number of president
-        Name of vice President
-        Email ID of vice President
-        Contact number of vice Presidet
-      }
-  },
   {'code': "mconv",
       'formFields': {
         'Team Name': 'text',
