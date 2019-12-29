@@ -6,90 +6,101 @@ let formData =
     'formFields': {
       'Team name': 'text',
       'College name': 'text',
-      'Email address': 'text',
-      'Contact number 1': 'text',
-      'Contact number 2': 'text',
-      'Number of participants': 'text',
+      'Email address': 'email',
+      'Contact number 1': 'number',
+      'Contact number 2': 'number',
+      'Number of participants': 'number',
       'Video link for Preliminary Round' : 'text'
     }
   },
   {'code': "Inquizzitive",
       'formFields': {
         'Name': 'text',
-        'year': 'text',
+        'year': 'number',
         'college': 'text',
-        'phone no.': 'text',
-        'Email': 'text',
+        'phone no.': 'number',
+        'Email': 'email',
         'Team name': 'text',
-        'Team size(1 or 2)': 'text',
+        'Team size(1 or 2)': 'number',
         'Team members': 'text',
         'Team members details': 'text'
       }
   },
   {'code': "rihaa",
       'formFields': {
-        'Team Name': 'text',
         'College Name': 'text',
-        'Email Address': 'text',
-        'Contact Number': 'text'
+        'Team Name': 'text',
+        'No. of Participants': 'number',
+        'Contact No.(POC 1)': 'number',
+        'Contact No. (POC 2)': 'number',
+        'Email ID.': 'email'
       }
   },
   {'code': "mehfil",
       'formFields': {
-        'Team Name': 'text',
+        'Name of Participant': 'text',
         'College Name': 'text',
-        'Email Address': 'text',
-        'Contact Number': 'text'
+        'Contact No.': 'number',
+        'Email ID': 'email'
       }
   },
   {'code': "advaya",
       'formFields': {
-        'Team Name': 'text',
+        'Participant Name': 'text',
+        'Participant Contact Number': 'number',
+        'Participant Email ID': 'email',
         'College Name': 'text',
-        'Email Address': 'text',
-        'Contact Number': 'text'
+        'City': 'text'
       }
   },
   {'code': "sabrang",
       'formFields': {
-        'Team Name': 'text',
         'College Name': 'text',
-        'Email Address': 'text',
-        'Contact Number': 'text'
+        'City': 'text',
+        'Team Name': 'text',
+        'Team Size': 'number',
+        'Person Of Contact (POC) Name': 'text',
+        'POC Contact Number': 'number',
+        'POC Email Id': 'email'
       }
   },
   {'code': "ppr",
       'formFields': {
+        'Team Leader\'s Name': 'text',
+        'Team Leader\'s Contact': 'number',
+        'Team Leader\'s Email': 'email',
         'Team Name': 'text',
-        'College Name': 'text',
-        'Email Address': 'text',
-        'Contact Number': 'text'
+        'College Name': 'text'
       }
   },
   {'code': "fts",
       'formFields': {
-        'Team Name': 'text',
-        'College Name': 'text',
-        'Email Address': 'text',
-        'Contact Number': 'text'
+        'Name': 'text',
+        'Email': 'email',
+        'Contact': 'number',
+        'College Name': 'text'
+      }
+  },
+  {'code': "poise",
+      'formFields': {
+        'Team name': 'text',
+        'College name': 'text',
+        'Number of team members': 'number',
+        'Name of president': 'text',
+        'Email ID of president': 'email',
+        'Contact number of president': 'number',
+        'Name of vice President': 'text',
+        'Email ID of vice President': 'email',
+        'Contact number of vice Presidet': 'number'
       }
   },
   {'code': "mconv",
       'formFields': {
-        'Team Name': 'text',
-        'College Name': 'text',
-        'Email Address': 'text',
-        'Contact Number': 'text'
+        'Full name': 'text',
+        'Contact number': 'number',
+        'Email ID': 'email',
+        'Enrollment number': 'number'
       }
-  },
-  {'code': "abhinay",
-    'formFields': {
-      'Team Name': 'text',
-      'College Name': 'text',
-      'Email Address': 'email',
-      'Contact Number': 'text',
-      'Contact Number 2': 'text'
-    }
   }
   ]
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML
