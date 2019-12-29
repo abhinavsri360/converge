@@ -64,58 +64,7 @@ let cultureData =
 
 ]
 
-let techData = 
-[
-  {
-    title: "Event Name",
-    brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
-    image: "./assets/NoPath - Copy (6).png"
-  },
-
-  {
-    title: "Event Name",
-    brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
-    image: "./assets/NoPath - Copy (6).png"
-  },
-
-  {
-    title: "Event Name",
-    brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
-    image: "./assets/NoPath - Copy (6).png"
-  },
-
-  {
-    title: "Event Name",
-    brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
-    image: "./assets/NoPath - Copy (6).png"
-  },
-
-  {
-    title: "Event Name",
-    brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
-    image: "./assets/NoPath - Copy (6).png"
-  },
-
-  {
-    title: "Event Name",
-    brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
-    image: "./assets/NoPath - Copy (6).png"
-  },
-
-  {
-    title: "Event Name",
-    brief_description: "Description of the event",
-    link: "./event.html?eventname=TEST",
-    image: "./assets/NoPath - Copy (6).png"
-  }
-
-]
+let techData = []
 
 let informalarray=[]
 
@@ -131,19 +80,19 @@ const InjectArray = (data,title) => {
     if(index%2 !==0 ) {
       output+=`
       <div class="event-card row">
-                    <div class="event-card-content col-7">
+                    <div class="event-card-content col-sm-7">
                         <h3>${event.title}</h3>
                         <p>${event.brief_description}</p>
                         <button><a href="${event.link}">Details</a></button>
                     </div>
-                    <img src="${event.image}" alt="" class="col-5">
+                    <img src="${event.image}" alt="" class="col-sm-5">
       </div>
       `
     }else {
       output+=`
       <div class="event-card row">
-                    <img src="${event.image}" alt="" class="col-5">
-                    <div class="event-card-content col-7">
+                    <img src="${event.image}" alt="" class="col-sm-5">
+                    <div class="event-card-content col-sm-7">
                         <h3>${event.title}</h3>
                         <p>${event.brief_description}</p>
                         <button><a href="${event.link}">Details</a></button>
@@ -152,6 +101,9 @@ const InjectArray = (data,title) => {
       `
     }
   })
+  if(output.length===0) {
+    output="<div class='myalert'>Sorry, no events yet added!</div><div class='myalert'>Will be updated soon!</div>"
+  }
   document.getElementById('event-grid').innerHTML=output
   
 }

@@ -1,37 +1,4 @@
-let headingarrays = [...document.getElementsByClassName('content-heading')]
-let eventContents = [...document.getElementsByClassName('main-content')]
-
-
-// Injecting data from json
-
-
-
 let searchCategory = window.location.search.split("=")[1]
-// Logic for collapse menu
-const HighlightElement = (index) => {
-    // Highlighting headings
-    headingarrays.forEach((element,elindex)=> {
-        if(elindex!==index) {
-            element.classList.remove('bold')
-        }else {
-            element.classList.add('bold')
-        }
-    })
-    // Displaying or hiding content
-    eventContents.forEach((element,elindex)=> {
-        if(elindex!=index) {
-            element.classList.remove('block')
-
-        }else {
-            element.classList.add('block')
-
-        }
-    })
-}
-
-headingarrays.forEach((element,index) => {
-    element.addEventListener('click', HighlightElement.bind(this,index))
-});
 eventdata=[
     {
         image:"./assets/NoPath - Copy (6).png",
@@ -154,10 +121,8 @@ eventdata=[
         link:'./register.html?q=mconv'
     }
 ];
-for (event in eventdata)
-{
-    if (eventdata[event].code==searchCategory)
-    {
+for (event in eventdata) {
+if (eventdata[event].code==searchCategory) {
         final=eventdata[event];
         break;
     }
@@ -185,6 +150,9 @@ data=`<div class="container">
             <li class="content-heading">Rules</li>
             <li class="content-heading">Prizes</li>
 </ul>
+
+
+
 <!-- Content Paragraphs -->
 <p id="description" class="main-content block">
 ${final.description}
@@ -198,3 +166,36 @@ ${final.prizes}
 </div>
 </div>`
 document.getElementById('event').innerHTML=data
+
+
+// Logic for collapse menu
+const HighlightElement = (index) => {
+    // Highlighting headings
+    headingarrays.forEach((element,elindex)=> {
+        if(elindex!==index) {
+            element.classList.remove('bold')
+        }else {
+            element.classList.add('bold')
+        }
+    })
+    // Displaying or hiding content
+    eventContents.forEach((element,elindex)=> {
+        if(elindex!=index) {
+            element.classList.remove('block')
+
+        }else {
+            element.classList.add('block')
+
+        }
+    })
+}
+
+
+
+let headingarrays = [...document.getElementsByClassName('content-heading')]
+let eventContents = [...document.getElementsByClassName('main-content')]
+
+
+headingarrays.forEach((element,index) => {
+    element.addEventListener('click', HighlightElement.bind(this,index))
+});
