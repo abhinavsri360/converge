@@ -2,7 +2,7 @@ let eventName = window.location.search.split("=")[1]
 
 let formData =
 
-[ {'eventName': "groove",
+[ {'code': "groove",
     'formFields': {
       'Team Name': 'text',
       'College Name': 'text',
@@ -10,7 +10,7 @@ let formData =
       'Contact Number': 'text'
     }
   },
-    {'eventName': "abhinay",
+    {'code': "abhinay",
     'formFields': {
       'Team Name': 'text',
       'College Name': 'text',
@@ -26,7 +26,7 @@ const formFieldsHtml = (eventName) => {
   let formFields
   for(let i=0;i<formData.length;i++)
     {
-      if(formData[i].eventName == eventName)
+      if(formData[i].code == eventName)
         {
 formFields = formData[i].formFields
         }
