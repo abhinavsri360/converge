@@ -22,6 +22,11 @@ body {
   width: 25rem;
   transition: 0.25s;
 }
+.top-bar > div {
+  position:fixed;
+  z-index: 1;
+  right:10vw;
+}
 
 .side-nav {
   height: 100%;
