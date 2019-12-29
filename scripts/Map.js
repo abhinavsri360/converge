@@ -61,4 +61,9 @@ var map;
                 credentials: 'Aq0puSkXua5uqDS_BepKK3biKRAmzIb2ABvBGVTLInBIvHozZIh0-MBqC-6s-n31',
                 customMapStyle: myStyle
             });
+            map.setView({
+                center: new Microsoft.Maps.Location(28.5190905,77.3632335),
+                zoom: 17
+            });
+            
         }
