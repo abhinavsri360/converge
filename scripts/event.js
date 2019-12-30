@@ -127,6 +127,7 @@ if (eventdata[event].code==searchCategory) {
         break;
     }
 }
+document.title = final.title
 data=`<div class="container">
 <div class=" row event-head-wrapper mb-4">
     <div class="col-sm-4 event-image-wrapper">
