@@ -5,61 +5,61 @@ let cultureData =
     title: "GROOVE",
     brief_description: "Description of the event",
     link: "./event.html?eventname=groove",
-    image: "./assets/NoPath - Copy (6).png"
+    image: "./assets/Events/groove.png"
   },
 
   {
     title: "RIHAA",
     brief_description: "Description of the event",
     link: "./event.html?eventname=rihaa",
-    image: "./assets/NoPath - Copy (6).png"
+    image: "./assets/Events/rihaa.png"
   },
 
   {
     title: "MEHFIL",
     brief_description: "Description of the event",
     link: "./event.html?eventname=mehfil",
-    image: "./assets/NoPath - Copy (6).png"
+    image: "./assets/Events/mehfil.png"
   },
 
   {
     title: "ADVAYA",
     brief_description: "Description of the event",
     link: "./event.html?eventname=advaya",
-    image: "./assets/NoPath - Copy (6).png"
+    image:"./assets/Events/advaya.png"
   },
 
   {
     title: "SABRANG",
     brief_description: "Description of the event",
     link: "./event.html?eventname=sabrang",
-    image: "./assets/NoPath - Copy (6).png"
+    image: "./assets/Events/sabrang.png"
   },
 
   {
     title: "PLAY PAUSE REWIND",
     brief_description: "Description of the event",
     link: "./event.html?eventname=ppr",
-    image: "./assets/NoPath - Copy (6).png"
+    image: "./assets/Events/ppr.png"
   },
 
   {
     title: "FLUTTER THE SHUTTER",
     brief_description: "Description of the event",
     link: "./event.html?eventname=fts",
-    image: "./assets/NoPath - Copy (6).png"
+    image: "./assets/Events/fts.png"
   },
   {
     title: "POISE",
     brief_description: "Description of the event",
     link: "./event.html?eventname=poise",
-    image: "./assets/NoPath - Copy (6).png"
+    image: "./assets/Events/poise.png"
   },
   {
     title: "MR and MS CONVERGE",
     brief_description: "Description of the event",
     link: "./event.html?eventname=mconv",
-    image: "./assets/NoPath - Copy (6).png"
+    image: "./assets/Events/mmc.png"
   }
 
 ]

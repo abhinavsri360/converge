@@ -1,7 +1,7 @@
 let searchCategory = window.location.search.split("=")[1]
 eventdata=[
     {
-        image:"./assets/NoPath - Copy (6).png",
+        image:"./assets/Events/groove.png",
         venue:"JIIT 128",
         title:"GROOVE",
         date:"01-02-2020",
@@ -13,7 +13,7 @@ eventdata=[
         link:'./register.html?q=groove'
     },
     {
-        image:"./assets/NoPath - Copy (6).png",
+        image:"./assets/Events/inquizitive.png",
         venue:"JIIT 128",
         title:"INQUIZZITIVE",
         date:"01-02-2020",
@@ -25,7 +25,7 @@ eventdata=[
         link:'./register.html?q=inquizzitive'
     },
     {
-        image:"./assets/NoPath - Copy (6).png",
+        image:"./assets/Events/rihaa.png",
         venue:"JIIT 128",
         title:"RIHAA",
         date:"01-02-2020",
@@ -37,7 +37,7 @@ eventdata=[
         link:'./register.html?q=rihaa'
     },
     {
-        image:"./assets/NoPath - Copy (6).png",
+        image:"./assets/Events/mehfil.png",
         venue:"JIIT 128",
         title:"MEHFIL",
         date:"01-02-2020",
@@ -49,7 +49,7 @@ eventdata=[
         link:'./register.html?q=mehfil'
     },
     {
-        image:"./assets/NoPath - Copy (6).png",
+        image:"./assets/Events/advaya.png",
         venue:"JIIT 128",
         title:"ADVAYA",
         date:"TBA",
@@ -61,7 +61,7 @@ eventdata=[
         link:'./register.html?q=advaya'
     },
     {
-        image:"./assets/NoPath - Copy (6).png",
+        image:"./assets/Events/sabrang.png",
         venue:"JIIT 128",
         title:"SABRANG",
         date:"TBA",
@@ -73,7 +73,7 @@ eventdata=[
         link:'./register.html?q=sabrang'
     },
     {
-        image:"./assets/NoPath - Copy (6).png",
+        image:"./assets/Events/ppr.png",
         venue:"JIIT 128",
         title:"PLAY PAUSE REWIND",
         date:"TBA",
@@ -85,7 +85,7 @@ eventdata=[
         link:'./register.html?q=ppr'
     },
     {
-        image:"./assets/NoPath - Copy (6).png",
+        image:"./assets/Events/fts.png",
         venue:"JIIT 128",
         title:"FLUTTER THE SHUTTER",
         date:"TBA",
@@ -97,7 +97,7 @@ eventdata=[
         link:'./register.html?q=fts'
     },
     {
-        image:"./assets/NoPath - Copy (6).png",
+        image:"./assets/Events/poise.png",
         venue:"JIIT 128",
         title:"POISE",
         date:"TBA",
@@ -109,7 +109,7 @@ eventdata=[
         link:'./register.html?q=poise'
     },
     {
-        image:"./assets/NoPath - Copy (6).png",
+        image:"./assets/Events/mmc.png",
         venue:"JIIT 128",
         title:"MR and MS CONVERGE",
         date:"TBA",
