@@ -7,6 +7,10 @@
   left: 5rem;
 }
 
+.container {
+  min-height: 100vh;
+}
+
 #home-btn {
   right: 5rem;
   z-index: 5;

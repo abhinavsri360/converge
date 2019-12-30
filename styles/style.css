@@ -114,8 +114,6 @@ body {
   background-size: cover;
 }
 
-
-
 .sidebar-social a {
   padding: 1rem;
 }
@@ -558,7 +556,6 @@ body {
   background-size: cover;
 }
 
-
 .navHeading {
   margin: 20px auto;
   color: white;
@@ -574,14 +571,12 @@ body {
 .teamImageDiv {
   margin: 20px 30px;
   text-align: center;
-
 }
 
 .teamImage {
   width: 16rem;
   height: 16rem;
   box-shadow: 0px 2px 15px #437bc4;
-  
 }
 
 .teamDetails {
@@ -593,14 +588,11 @@ body {
 .teamMember {
   margin: 30px 40px;
   display: inline-block;
-
-  
 }
 
 .teamSocialHandle {
   position: relative;
 }
-
 
 .teamSocialLinks {
   top: 0px;
@@ -608,22 +600,19 @@ body {
   right: 0px;
   left: 0px;
   position: absolute;
-
 }
 .teamSocialLinks:hover {
   background: rgba(0, 0, 0, 0.5);
   transition-duration: 0.7s;
-
 }
-.teamSocialLinks:hover .facebook{
+.teamSocialLinks:hover .facebook {
   opacity: 1;
   transition-duration: 0.7s;
 }
 
-.teamSocialLinks:hover .linkedin{
+.teamSocialLinks:hover .linkedin {
   opacity: 1;
   transition-duration: 0.7s;
-  
 }
 .facebook {
   width: 1.2rem;
@@ -648,48 +637,54 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-    color: white;
+  color: white;
 }
 
-.titlesponsor
-{
-    text-align: center;
-    margin-bottom: 30px;
-    margin-top: 100px;
-    color: white;
+.titlesponsor {
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 100px;
+  color: white;
 }
-.titlesponsor h2{
+.titlesponsor h2 {
   margin: auto;
   margin-bottom: 50px;
 }
 
-
 .sponsorDiv {
   margin: 20px 30px;
   text-align: center;
-
 }
 
 .sImage {
   width: 10rem;
   box-shadow: 0px 2px 15px;
-  
 }
 
 .sponsorimage {
-    align-items: center;
+  align-items: center;
   width: 10rem;
   box-shadow: 0px 2px 15px;
-  
 }
 
-.sponsor
-{
+.sponsor {
   margin: 30px 40px;
   display: inline-block;
-
-  
 }
 #hltsheading {
   margin: auto;
+}
+
+/* confirm */
+
+.confirm-tick {
+  width: 5rem;
+  margin: 4rem auto;
+}
+
+.confirm-email {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 2rem;
 }

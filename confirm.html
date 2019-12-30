@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      rel="icon"
+      href="./assets/OLogo3d-cropped.png"
+      type="image/gif"
+      sizes="16x16"
+    />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Converge | Highlights</title>
+    <link rel="stylesheet" href="./styles/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css?family=Lilita+One&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./styles/highlights.css" />
+  </head>
+
+  <body>
+    <div id="side-menu" class="side-nav">
+      <a onClick="closeSlideMenu()">
+        <img src="./assets/close.svg" class="close-btn" />
+      </a>
+      <a href="./index.html" id="home-anchor" class="mt-5">HOME</a>
+      <a href="./index.html#highlights" id="highlights-anchor">HIGHLIGHTS</a>
+      <a href="./index.html#events" id="events-anchor">EVENTS</a>
+      <a href="Pronites.html">PRONITES</a>
+      <a href="./index.html#timeline" id="timeline-anchor">TIMELINE</a>
+      <a href="team.html">TEAM</a>
+      <a href="sponsors.html">SPONSORS</a>
+      <a href="./index.html#reachUs">REACH US</a>
+
+      <div class="d-flex sidebar-social">
+        <a href="https://www.facebook.com/jiitconverge/"
+          ><img src="./assets/facebook-logo.svg"
+        /></a>
+        <a href="https://www.instagram.com/jiitconverge/"
+          ><img src="./assets/instagram-logo.svg"
+        /></a>
+      </div>
+    </div>
+    <div class="hlts" name="hlts">
+      <div class="container">
+        <div class="d-flex justify-content-between align-items-center pt-3">
+          <img
+            id="menu-btn"
+            onClick="openSlideMenu()"
+            src="./assets/menu-button.svg"
+          />
+
+          <h1 class="text-center my-captions" id="hltsheading">Confirmed</h1>
+
+          <a href="./">
+            <img id="home-btn" src="./assets/OLogo3d-cropped.png" />
+          </a>
+        </div>
+
+        <div>
+          <img
+            class="d-block confirm-tick"
+            src="./assets/approval-symbol-in-badge.svg"
+          />
+          <h4 class="montserrat font-weight-bold text-white text-center">
+            You have successfully registered for the event!
+          </h4>
+          <h4 class=" mt-3 montserrat font-weight-light text-white text-center">
+            We've sent a confirmation mail to you regarding the event
+          </h4>
+        </div>
+
+        <div class="confirm-email">
+          <h5 class="text-center montserrat text-white font-weight-light">
+            Didn't receive any mail? Contact us immediately
+            <span>
+              <a href="mailto:jiitconverge2020@gmail.com">
+                @jiitconverge2020@gmail.com
+              </a>
+            </span>
+          </h5>
+        </div>
+      </div>
+    </div>
+
+    <script src="./scripts/index.js"></script>
+  </body>
+</html>
