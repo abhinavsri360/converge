@@ -76,3 +76,26 @@ input[type="submit"]
       display: inline;
   }
 }
+.create_edit_loading {
+  background-color: rgba(0,0,0,0.7);
+  height: 100%;
+  display: none;
+  left: 0px;
+  margin: 0px;
+  padding: 0px;
+  position: fixed;
+  text-align: center;
+  top: 0px;
+  width: 100%;
+  z-index: 1000;
+
+}
+.create_edit_loading img {
+  border-color: gray;
+  border-top-color: white;
+  width: 120px;
+  filter: invert();
+  margin-top: 250px;
+  user-select: none;
+
+}

@@ -133,6 +133,7 @@ else
   window.location = './404.html'
 
   const sendDataToApi = () => {
+    document.getElementsByClassName('create_edit_loading')[0].style.display = "block";
     let inputs = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].getElementsByTagName("input")
     userData = {
     }
@@ -148,11 +149,15 @@ else
         data: JSON.stringify({'formData': json}),
         contentType: 'application/json',
         type: 'POST',
+        error: function(){
+          window.location.href = `404.html`
+      },
         success: function(data, status){
-          alert("Check")
-        window.location.href = `index.html`
-        }
+          console.log("Check")
+        window.location.href = `confirm.html`
+        },
+        timeout: 10000
         });
-        alert(JSON.stringify({'formData': json}))
+        console.log(JSON.stringify({'formData': json}))
     return false; //added to cancel the submit operation
   }
