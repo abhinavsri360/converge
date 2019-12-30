@@ -49,7 +49,7 @@ let teamData =
   },
   {'Name': 'Nitin Singhal',
   'Image': './assets/team/25.jpg',
-  'Position': 'UI UX Head',
+  'Position': 'UX UI Head',
   'Facebook': 'https://www.facebook.com/nitin10s',
   'Linkedin': 'https://in.linkedin.com/in/nitin-singhal-10s'},
   {'Name': 'Lakshya Khera',
