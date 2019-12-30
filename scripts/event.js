@@ -146,7 +146,7 @@ data=`<div class="container">
     </div>
 </div>
 <div class="event-content row">
-    <ul class="nav">
+    <ul class="myNav">
             <li class="content-heading bold">Description</li>
             <li class="content-heading">Rules</li>
             <li class="content-heading">Prizes</li>

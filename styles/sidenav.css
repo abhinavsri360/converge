@@ -30,7 +30,7 @@ body {
 /* Logo Image media queries */
 
 @media (max-width:600px) {
-  .top-bar > div > img {
+  .top-bar > div > a >img {
     height:50px;
   }
   .top-bar > div {

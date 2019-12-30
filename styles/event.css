@@ -56,21 +56,29 @@
     padding:40px;
     color:white;
 }
-.nav {
+.myNav {
     list-style: none;
     margin: 0;
     padding: 0;
     margin-bottom: 20px;
+    width: 100%;
 }
-.nav > li {
+.myNav > li {
     display: inline-block;
     margin-right: 20px;
     font-size: 24px;
     cursor: pointer;
 }
-.nav > li:hover {
+.myNav > li:hover {
     font-weight: 600;
 }
+
+@media(max-width:440px) {
+    .myNav > li{
+        font-size: 14px;
+    }
+}
+
 .bold {
     font-weight: 600;
 }
