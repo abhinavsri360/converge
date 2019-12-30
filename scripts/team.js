@@ -35,18 +35,6 @@ let teamData =
    'Position': 'Prismatic Head',
    'Facebook': 'https://m.facebook.com/eti.agrawal.7?',
    'Linkedin': ' https://www.linkedin.com/in/eti-agarwal-28020b154'},
-   {'Name': 'Saurabh sharma',
-  'Image': './assets/team/3.jpg',
-  'Position': 'Prismatic Head',
-  'Facebook': '',
-  'Linkedin': 'https://www.linkedin.com/in/saurabh-sharma-059106178'},
-  {
-    'Name': 'Samarth Sharma',
-    'Image': './assets/team/27.jpg',
-    'Position': 'Technical Head',
-    'Facebook': '',
-    'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
-  },
   {'Name': 'Nitin Singhal',
   'Image': './assets/team/25.jpg',
   'Position': 'UX UI Head',
