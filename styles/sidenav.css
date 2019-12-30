@@ -25,8 +25,20 @@ body {
 .top-bar > div {
   position:fixed;
   z-index: 1;
-  right:10vw;
+  right:5vw;
 }
+/* Logo Image media queries */
+
+@media (max-width:600px) {
+  .top-bar > div > img {
+    height:50px;
+  }
+  .top-bar > div {
+    top:28px;
+  }
+}
+
+
 
 .side-nav {
   height: 100%;
