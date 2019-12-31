@@ -38,26 +38,26 @@ let cultureData =
 
   {
     title: "PLAY PAUSE REWIND",
-    brief_description: "Stories are everywhere. Creating a storyline draws its soul from many sources. Transformation of these storylines into short films, Ah!!! That is the sweet spot of your Film Making skills. Converge gives you the best platform for the “Short Film Making” contest to showcase your work.",
+    brief_description: "Short Film Making contest to showcase your work.",
     link: "./event.html?eventname=ppr",
     image: "./assets/Events/ppr.png"
   },
 
   {
     title: "FLUTTER THE SHUTTER",
-    brief_description: "Do you have an eye for Photography? Do you carry your camera wherever you go?? This is a chance for you to showcase your amazing photographs in an Online Competition that is open to all College students.",
+    brief_description: "Showcase your amazing photographs in an Online Competition.",
     link: "./event.html?eventname=fts",
     image: "./assets/Events/fts.png"
   },
   {
     title: "POISE",
-    brief_description: "Hola people! That finnese in your glance is worth a thousand sights. Gear up for one the most anticipated fashion events in the town. Panache - The Fashion Society of Jaypee Institute of Information Technology, Sector-128 presents \"POISE - THE FASHION SHOW EVENT\" at their annual cultural fest Converge'20. All you need is love the vogue!",
+    brief_description: "Fashion event of JIIT",
     link: "./event.html?eventname=poise",
     image: "./assets/Events/poise.png"
   },
   {
     title: "MR and MS CONVERGE",
-    brief_description: "\"Confidence doesn't come when you have all the answers, but it comes when you are ready to face all the questions.\"PANACHE- The fashion society of JIIT-128 presents \"MR. and MISS CONVERGE'20\".So boys and girls gear up yourselves and get your pretty dresses and suits out !!",
+    brief_description: "Fashion Competition for Mr and Mrs Converge",
     link: "./event.html?eventname=mconv",
     image: "./assets/Events/mmc.png"
   }
