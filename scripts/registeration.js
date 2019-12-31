@@ -101,6 +101,22 @@ let formData =
         'Email ID': 'email',
         'Enrollment number': 'number'
       }
+  },
+  {
+    'code': "adsmd",
+      'formFields': {
+        'Full name': 'text',
+        'College name': 'text',
+        'Contact number': 'number'
+      }
+  },
+  {
+    'code': "jzbaat",
+      'formFields': {
+        'Full name': 'text',
+        'College name': 'text',
+        'Contact number': 'number'
+      }
   }
   ]
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML

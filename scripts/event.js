@@ -119,7 +119,31 @@ eventdata=[
         prizes:"TBA",
         code:"mconv",
         link:'./register.html?q=mconv'
-    }
+    },
+    {
+        image:"./assets/Events/adsmd.png",
+        venue:"JIIT 128",
+        title:"Adi Shankaracharya Memorial Debate",
+        date:"01-02-20",
+        time:"TBA",
+        description:"Battle of words to show how can you convince audience and your opposition.",
+        rules:"TBA",
+        prizes:"TBA",
+        code:"adsmd",
+        link:'./register.html?q=adsmd'
+    },
+    {
+        image:"./assets/Events/jzbaat.png",
+        venue:"JIIT 128",
+        title:"Jazbaat- The Open Mic Show",
+        date:"01-02-20",
+        time:"TBA",
+        description:"Show us your talent in Poetry , Stand-up or story telling and mesmerize the audience with your talent",
+        rules:"TBA",
+        prizes:"TBA",
+        code:"jzbaat",
+        link:'./register.html?q=jzbaat'
+    },
 ];
 for (event in eventdata) {
 if (eventdata[event].code==searchCategory) {
