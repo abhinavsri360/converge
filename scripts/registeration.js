@@ -13,7 +13,7 @@ let formData =
       'Video link for Preliminary Round' : 'url'
     }
   },
-  {'code': "Inquizzitive",
+  {'code': "inquizzitive",
       'formFields': {
         'Name': 'text',
         'year': 'number',
