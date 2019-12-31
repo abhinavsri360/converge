@@ -73,13 +73,13 @@ let literaryarray=[
     title: "Adi Shankaracharya Memorial Debate",
     brief_description: "Battle of words to show how can you convince audience and your opposition.",
     link: "./event.html?eventname=adsmd",
-    image: "./assets/Events/adsmd.png"
+    image: "./assets/Events/adsmd.jpg"
   },
   {
     title: "Jazbaat- The Open Mic Show",
     brief_description: "Show us your talent in Poetry , Stand-up or story telling and mesmerize the audience with your talent",
     link: "./event.html?eventname=jzbaat",
-    image: "./assets/Events/jzbaat.png"
+    image: "./assets/Events/jzbaat.jpg"
   }
 ];
 

@@ -121,7 +121,7 @@ eventdata=[
         link:'./register.html?q=mconv'
     },
     {
-        image:"./assets/Events/adsmd.png",
+        image:"./assets/Events/adsmd.jpg",
         venue:"JIIT 128",
         title:"Adi Shankaracharya Memorial Debate",
         date:"01-02-20",
@@ -133,7 +133,7 @@ eventdata=[
         link:'./register.html?q=adsmd'
     },
     {
-        image:"./assets/Events/jzbaat.png",
+        image:"./assets/Events/jzbaat.jpg",
         venue:"JIIT 128",
         title:"Jazbaat- The Open Mic Show",
         date:"01-02-20",
