@@ -126,7 +126,7 @@ const InjectArray = (data,title) => {
                     <div class="event-card-content col-sm-7">
                         <h3>${event.title}</h3>
                         <p>${event.brief_description}</p>
-                        <button><a href="${event.link}">Details</a></button>
+                         <a href="${event.link}"><button>Details</button></a>
                     </div>
       </div>
       `
