@@ -60,6 +60,18 @@ let cultureData =
     brief_description: "Fashion Competition for Mr and Mrs Converge",
     link: "./event.html?eventname=mconv",
     image: "./assets/Events/mmc.png"
+  },
+  {
+  title: "ACOUSTICA",
+    brief_description: "SOLO SINGING EVENT",
+    link: "./event.html?eventname=acst",
+    image: "./assets/Events/acst.png"
+  },
+  {
+    title: "CRUSADE",
+    brief_description: "BATTLE OF BANDS",
+    link: "./event.html?eventname=crsd",
+    image: "./assets/Events/crsd.png"
   }
 
 ]
