@@ -76,7 +76,13 @@ let cultureData =
 
 ]
 
-let techData = []
+let techData = [{
+    title: "INQUIZZITIVE",
+    brief_description: "Quiz",
+    link: "./event.html?eventname=inquizzitive",
+    image: "./assets/Events/inquizzitive.png"
+  }
+               ]
 
 let informalarray=[]
 
