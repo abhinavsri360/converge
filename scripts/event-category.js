@@ -66,7 +66,7 @@ let cultureData =
   title: "ACOUSTICA",
     brief_description: "SOLO SINGING EVENT",
     link: "./event.html?eventname=acst",
-    image: "./assets/Events/acst.png"
+    image: "./assets/Events/acst.jpg"
   },
   {
     title: "CRUSADE",

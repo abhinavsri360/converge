@@ -117,6 +117,37 @@ let formData =
         'College name': 'text',
         'Contact number': 'number'
       }
+  },
+  {
+    'code': "crsd",
+      'formFields': {
+        "Band Name: ": 'text',
+        "Band's official e-mail ID OR any one member's e-mail ID:": 'email',
+        "College name: ": 'text',
+        'Member 1 Name': 'text',
+        'Member 1 Contact': 'number',
+        'Member 2 Name': 'text',
+        'Member 2 Contact': 'number',
+        'Member 3 Name': 'text',
+        'Member 3 Contact': 'number',
+        'Member 4 Name': 'text',
+        'Member 4 Contact': 'number',
+        'Member 5 Name': 'text',
+        'Member 5 Contact': 'number',
+        'Member 6 Name': 'text',
+        'Member 6 Contact': 'number',
+        'Member 7 Name': 'text',
+        'Member 7 Contact': 'number',
+      }
+  },
+  {
+    'code': "acst",
+      'formFields': {
+        'Full name': 'text',
+        'College name': 'text',
+        'Contact number': 'number',
+        'Email id:': 'email'
+      }
   }
   ]
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML

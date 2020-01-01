@@ -151,49 +151,49 @@ eventdata=[
         date:"01-02-20",
         time:"10:00",
         description:`"The only thing better than singing, is more singing."- Ella Fitzgerald
-For all the singers out there, gear up for our solo singing event, Acoustica, to showcase your incredible vocal talents on a worthy platform and witness some of the best and unique voices. We're waiting to listen to you and be all baffled up by your singing!
+<br>For all the singers out there, gear up for our solo singing event, Acoustica, to showcase your incredible vocal talents on a worthy platform and witness some of the best and unique voices.<br> We're waiting to listen to you and be all baffled up by your singing!
 
-
-REGISTRATION DETAILS:
--Registration Fee : 100 Rs (200 Rs if you have accompanists.)
--Slots will be given on first come first basis
--Reporting time: To be announced soon...
--ALL PARTICIPANTS NEED TO SUBMIT A PERFORMANCE LINK ONLY BY UPLOADING THE VIDEO ON YOUTUBE.COM OR GOOGLE DRIVE(LINK SHOULD BE OPEN FOR SHARING) AND EMAILING THE LINK TO fortissimojiit128@gmail.com WITH SUBJECT OF THE EMAIL AS _*"ACOUSTICA VIDEO ENTRY: (PARTICIPANT NAME)"*_`,
-        rules:`-The participant has to perform any one song of his/her choice. 
--The song must be in only English or Hindi. The selected song has to be specified to the organizers before the event starts.
--Maximum of two accompanist are allowed.
--The song chosen can be of any genre. 
-- Mashups are NOT allowed. 
--Pre recorded music or karaoke is NOT allowed.
--Judging will be done solely on the basis of the vocal performance.
--Time limit is 5 minutes. This time duration includes instrument setup (if required) and sound check.
--Participants, including accompanists, must carry their College ID cards (original) and they should be currently enrolled in that college.`,
+  <br><br>
+          REGISTRATION DETAILS:<br>
+          -Registration Fee : 100 Rs (200 Rs if you have accompanists.)<br>
+          -Slots will be given on first come first basis<br>
+          -Reporting time: To be announced soon...<br>
+          -ALL PARTICIPANTS NEED TO SUBMIT A PERFORMANCE LINK ONLY BY UPLOADING THE VIDEO ON YOUTUBE.COM OR GOOGLE DRIVE(LINK SHOULD BE OPEN FOR SHARING) AND EMAILING THE LINK TO fortissimojiit128@gmail.com WITH SUBJECT OF THE EMAIL AS _*"ACOUSTICA VIDEO ENTRY:<br> (PARTICIPANT NAME)"*_`,
+                  rules:`-The participant has to perform any one song of his/her choice.<br>
+          -The song must be in only English or Hindi. The selected song has to be specified to the organizers before the event starts.<br>
+          -Maximum of two accompanist are allowed.<br>
+          -The song chosen can be of any genre.<br>
+          - Mashups are NOT allowed.<br>
+          -Pre recorded music or karaoke is NOT allowed.<br>
+          -Judging will be done solely on the basis of the vocal performance.<br>
+          -Time limit is 5 minutes. This time duration includes instrument setup (if required) and sound check.<br>
+          -Participants, including accompanists, must carry their College ID cards (original) and they should be currently enrolled in that college.`,
         prizes:"TBA",
         code:"acst",
         link:"./register.html?q=acst"
     },
     {
-        image:"./assets/Events/crsd.jpg",
+        image:"./assets/Events/crsd.png",
         venue:"JIIT 128",
         title:"CRUSADE",
         date:"02-02-2020",
         time:"15:00",
-        description:`"Music is moonlight in the gloomy night of life."- Sean Paul
-It's time for us to bring to you one of the best and musically rich Battle of Bands of the place and showcase your musical talents. JIIT welcomes all the bands to come enchant our audience and own the stage,  to make every person move like a Jagger. We can't wait to see you slay the competition and win the grand prizes.
+        description:`"Music is moonlight in the gloomy night of life."- Sean Paul<br>
+          It's time for us to bring to you one of the best and musically rich Battle of Bands of the place and showcase your musical talents. <br> JIIT welcomes all the bands to come enchant our audience and own the stage,  to make every person move like a Jagger. We can't wait to see you slay the competition and win the grand prizes.
 
-
-REGISTRATION DETAILS
--Registration Fee : Rs 100 per person.
--Reporting Time : To be announced.
-NOTE: Bands need to submit their perfomace link only by uploading the video on www.youtube.com or Google Drive (link should be open to sharing) and emailing the link to fortissimojiit128@gmail.com with subject of the email to be “Crusade Video Entry: (Band Name)”
--Total 7 Bands will be selected for offline performance. Selected teams will be notified by an email & phone call.
-`,
-        rules:` ~RULES & REGULATIONS~
--The competition is open to any college or semi-professional band from India.
--Each member must carry his/her original ID Card.
--After registering, send an email specifying the name and contact number of each band member to fortissimojiit128@gmail.com
--Each band would be allotted a time slot of 20 minutes (including amp set up and sound check).
--Equipment provided will be: One lead amplifier speaker, microphones, basic drum set, acoustic guitar (you can bring along with your own cymbals and chokes/high hats).`,
+<br><br>
+          REGISTRATION DETAILS:<br>
+          -Registration Fee : Rs 100 per person.<br>
+          -Reporting Time : To be announced.<br><br>
+          NOTE:<br> Bands need to submit their perfomace link only by uploading the video on www.youtube.com or Google Drive (link should be open to sharing) and emailing the link to fortissimojiit128@gmail.com with subject of the email to be “Crusade Video Entry: (Band Name)”<br>
+          -Total 7 Bands will be selected for offline performance. Selected teams will be notified by an email & phone call.
+          `,
+                  rules:` ~RULES & REGULATIONS~<br>
+          -The competition is open to any college or semi-professional band from India.<br>
+          -Each member must carry his/her original ID Card.<br>
+          -After registering, send an email specifying the name and contact number of each band member to fortissimojiit128@gmail.com<br>
+          -Each band would be allotted a time slot of 20 minutes (including amp set up and sound check).<br>
+          -Equipment provided will be: One lead amplifier speaker, microphones, basic drum set, acoustic guitar (you can bring along with your own cymbals and chokes/high hats).`,
         prizes:"TBA",
         code:"crsd",
         link:"./register.html?q=crsd"
