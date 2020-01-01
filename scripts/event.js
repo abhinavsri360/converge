@@ -219,7 +219,7 @@ data=`<div class="container">
         <h3><b>VENUE:</b> ${final.venue}</h3>
       </div>
       <div style="text-align: end;max-width: 90%;margin-top: 35px;">
-        <button><a href=${final.link}>Register</a></button>
+        <a href=${final.link}><button>Register</button></a>
       </div>
     </div>
 </div>
