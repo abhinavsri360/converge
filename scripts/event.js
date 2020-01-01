@@ -197,6 +197,18 @@ eventdata=[
         prizes:"TBA",
         code:"crsd",
         link:"./register.html?q=crsd"
+    },
+    {
+        image:"./assets/Events/marathon.jpg",
+        venue:"JIIT 128",
+        title:"Youth Marathon",
+        date:"31-01-20",
+        time:"9:00:00 AM",
+        description:"This event's prime purpose is to spread awareness about the rights and education of the girl child. Students participating in this marathon will run across the Jaypee wish town, which is 5km in distance.",
+        rules:"TBA",
+        prizes:"TBA",
+        code:"marathon",
+        link:'./register.html?q=marathon'
     }
 ];
 for (event in eventdata) {

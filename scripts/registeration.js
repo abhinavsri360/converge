@@ -148,6 +148,16 @@ let formData =
         'Contact number': 'number',
         'Email id:': 'email'
       }
+  },
+  {
+    'code': "marathon",
+      'formFields': {
+        'First name': 'text',
+        'Last name': 'text',
+        'College name': 'text',
+        'Email id: ': 'email',
+        'Previous participations in marathon (yes/no): ': 'text',
+      }
   }
   ]
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML
