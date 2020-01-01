@@ -144,6 +144,35 @@ eventdata=[
         code:"jzbaat",
         link:'./register.html?q=jzbaat'
     },
+    {
+        image:"./assets/Events/acst.jpg",
+        venue:"JIIT 128",
+        title:"Acoustica",
+        date:"01-02-20",
+        time:"10:00",
+        description:`"The only thing better than singing, is more singing."- Ella Fitzgerald
+For all the singers out there, gear up for our solo singing event, Acoustica, to showcase your incredible vocal talents on a worthy platform and witness some of the best and unique voices. We're waiting to listen to you and be all baffled up by your singing!
+
+
+REGISTRATION DETAILS:
+-Registration Fee : 100 Rs (200 Rs if you have accompanists.)
+-Slots will be given on first come first basis
+-Reporting time: To be announced soon...
+-ALL PARTICIPANTS NEED TO SUBMIT A PERFORMANCE LINK ONLY BY UPLOADING THE VIDEO ON YOUTUBE.COM OR GOOGLE DRIVE(LINK SHOULD BE OPEN FOR SHARING) AND EMAILING THE LINK TO fortissimojiit128@gmail.com WITH SUBJECT OF THE EMAIL AS _*"ACOUSTICA VIDEO ENTRY: (PARTICIPANT NAME)"*_`,
+        rules:`-The participant has to perform any one song of his/her choice. 
+-The song must be in only English or Hindi. The selected song has to be specified to the organizers before the event starts.
+-Maximum of two accompanist are allowed.
+-The song chosen can be of any genre. 
+- Mashups are NOT allowed. 
+-Pre recorded music or karaoke is NOT allowed.
+-Judging will be done solely on the basis of the vocal performance.
+-Time limit is 5 minutes. This time duration includes instrument setup (if required) and sound check.
+-Participants, including accompanists, must carry their College ID cards (original) and they should be currently enrolled in that college.`,
+        prizes:"TBA",
+        code:"acst",
+        link:"./register.html?q=acst"
+    },
+    
 ];
 for (event in eventdata) {
 if (eventdata[event].code==searchCategory) {
