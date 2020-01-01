@@ -80,7 +80,7 @@ let cultureData =
 let techData = [{
     title: "INQUIZZITIVE",
     brief_description: "Quiz",
-    link: "./event.html?eventname=inquizitive",
+    link: "./event.html?eventname=inquizzitive",
     image: "./assets/Events/inquizzitive.png"
   }
                ]
