@@ -13,7 +13,7 @@ let cultureData =
     title: "RIHAA",
     brief_description: "Street Play Event",
     link: "./event.html?eventname=rihaa",
-    image: "./assets/Events/rihaa.png"
+    image: "./assets/Events/rihaa.jpg"
   },
 
   {
@@ -72,7 +72,7 @@ let cultureData =
     title: "CRUSADE",
     brief_description: "BATTLE OF BANDS",
     link: "./event.html?eventname=crsd",
-    image: "./assets/Events/crsd.png"
+    image: "./assets/Events/crsd.jpg"
   }
 
 ]
