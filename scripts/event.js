@@ -172,7 +172,32 @@ REGISTRATION DETAILS:
         code:"acst",
         link:"./register.html?q=acst"
     },
-    
+    {
+        image:"./assets/Events/crsd.jpg",
+        venue:"JIIT 128",
+        title:"CRUSADE",
+        date:"02-02-2020",
+        time:"15:00",
+        description:`"Music is moonlight in the gloomy night of life."- Sean Paul
+It's time for us to bring to you one of the best and musically rich Battle of Bands of the place and showcase your musical talents. JIIT welcomes all the bands to come enchant our audience and own the stage,  to make every person move like a Jagger. We can't wait to see you slay the competition and win the grand prizes.
+
+
+REGISTRATION DETAILS
+-Registration Fee : Rs 100 per person.
+-Reporting Time : To be announced.
+NOTE: Bands need to submit their perfomace link only by uploading the video on www.youtube.com or Google Drive (link should be open to sharing) and emailing the link to fortissimojiit128@gmail.com with subject of the email to be “Crusade Video Entry: (Band Name)”
+-Total 7 Bands will be selected for offline performance. Selected teams will be notified by an email & phone call.
+`,
+        rules:` ~RULES & REGULATIONS~
+-The competition is open to any college or semi-professional band from India.
+-Each member must carry his/her original ID Card.
+-After registering, send an email specifying the name and contact number of each band member to fortissimojiit128@gmail.com
+-Each band would be allotted a time slot of 20 minutes (including amp set up and sound check).
+-Equipment provided will be: One lead amplifier speaker, microphones, basic drum set, acoustic guitar (you can bring along with your own cymbals and chokes/high hats).`,
+        prizes:"TBA",
+        code:"crsd",
+        link:"./register.html?q=crsd"
+    }
 ];
 for (event in eventdata) {
 if (eventdata[event].code==searchCategory) {
