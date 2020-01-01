@@ -15,6 +15,7 @@ body {
   height: 360px;
   background-color: white;
   border: black 2px solid;
+  text-decoration: none;
 }
 .events-m {
   height: 455px;
@@ -543,6 +544,9 @@ body {
   overflow: hidden;
   /* width: fit-content;
   margin: auto; */
+}
+.events:hover {
+  text-decoration: none;
 }
 
 /* TEAM PAGE */
