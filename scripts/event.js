@@ -173,7 +173,7 @@ eventdata=[
         link:"./register.html?q=acst"
     },
     {
-        image:"./assets/Events/crsd.png",
+        image:"./assets/Events/crsd.jpg",
         venue:"JIIT 128",
         title:"CRUSADE",
         date:"02-02-2020",
