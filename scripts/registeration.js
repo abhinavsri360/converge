@@ -121,9 +121,9 @@ let formData =
   {
     'code': "crsd",
       'formFields': {
-        "Band Name: ": 'text',
-        "Band's official e-mail ID OR any one member's e-mail ID:": 'email',
-        "College name: ": 'text',
+        "Band Name": 'text',
+        "Band's official e-mail ID OR any one member's e-mail ID": 'email',
+        "College name": 'text',
         'Member 1 Name': 'text',
         'Member 1 Contact': 'number',
         'Member 2 Name': 'text',
@@ -155,8 +155,8 @@ let formData =
         'First name': 'text',
         'Last name': 'text',
         'College name': 'text',
-        'Email id: ': 'email',
-        'Previous participations in marathon (yes/no): ': 'text',
+        'Email id': 'email',
+        'Previous participations in marathon (yes/no)': 'text',
       }
   }
   ]
