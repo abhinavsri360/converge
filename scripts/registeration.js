@@ -22,8 +22,7 @@ let formData =
         'Email': 'email',
         'Team name': 'text',
         'Team size(1 or 2)': 'number',
-        'Team members': 'text',
-        'Team members details': 'text'
+        'Team members': 'text'
       }
   },
   {'code': "rihaa",
