@@ -55,13 +55,6 @@ let teamData =
   'Position': 'Student Welfare Head',
   'Facebook': '',
   'Linkedin': ''},
-  {
-  'Name': 'Samarth Sharma',
-  'Image': './assets/team/27.jpg',
-  'Position': 'Technical Head',
-  'Facebook': '',
-  'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
-  },
   {'Name': 'Nitin Singhal',
   'Image': './assets/team/25.jpg',
   'Position': 'UX UI Head',
@@ -72,6 +65,13 @@ let teamData =
   'Position': 'Lead Developer',
   'Facebook': 'https://www.facebook.com/lakshya.khera2212',
   'Linkedin': 'https://in.linkedin.com/in/lakshya-khera-52b67718'},
+{
+  'Name': 'Samarth Sharma',
+  'Image': './assets/team/27.jpg',
+  'Position': 'Technical Head',
+  'Facebook': '',
+  'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
+  },
   {'Name': 'HARSH VARSHNEY',
   'Image': './assets/team/9.jpg',
   'Position': 'Photography Head',
