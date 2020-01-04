@@ -18,7 +18,7 @@ let formData =
         'Name': 'text',
         'year': 'number',
         'college': 'text',
-        'phone no.': 'text',
+        'phone no': 'text',
         'Email': 'email',
         'Team name': 'text',
         'Team size(1 or 2)': 'number',
@@ -30,17 +30,17 @@ let formData =
       'formFields': {
         'College Name': 'text',
         'Team Name': 'text',
-        'No. of Participants': 'number',
-        'Contact No.(POC 1)': 'text',
-        'Contact No. (POC 2)': 'text',
-        'Email ID.': 'email'
+        'No of Participants': 'number',
+        'Contact No (POC 1)': 'text',
+        'Contact No (POC 2)': 'text',
+        'Email ID': 'email'
       }
   },
   {'code': "mehfil",
       'formFields': {
         'Name of Participant': 'text',
         'College Name': 'text',
-        'Contact No.': 'text',
+        'Contact No': 'text',
         'Email ID': 'email'
       }
   },
