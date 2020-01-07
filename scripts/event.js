@@ -25,7 +25,7 @@ eventdata=[
         link:'./register.html?q=inquizzitive'
     },
     {
-        image:"./assets/Events/rihaa.png",
+        image:"./assets/Events/rihaa.jpg",
         venue:"JIIT 128",
         title:"RIHAA",
         date:"01-02-2020",
