@@ -156,7 +156,7 @@ let teamData =
  {'Name': 'Bhartendu Dubey',
   'Image': './assets/team/32.jpg',
   'Position': 'Quizzing Head',
-  'Facebook:: '',
+  'Facebook: '',
   'Linkedin': ''}]
 
  
