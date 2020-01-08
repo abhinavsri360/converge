@@ -157,9 +157,7 @@ let teamData =
   'Image': './assets/team/32.jpg',
   'Position': 'Quizzing Head',
   'Facebook': '',
-  'Linkedin': ''}]
-
- 
+  'Linkedin': ''} 
  ]
 
 teamDiv = document.getElementsByClassName("teamImageDiv")[0]
