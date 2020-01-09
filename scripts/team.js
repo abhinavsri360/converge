@@ -153,11 +153,11 @@ let teamData =
   'Position': 'Chief editor',
   'Facebook': 'https://www.facebook.com/vipulsatyendra',
   'Linkedin': 'https://www.linkedin.com/in/vipul-satyendra-b95747151'},
- {'Name': 'Bhartendu Dubey',
-  'Image': './assets/team/32.jpg',
-  'Position': 'Quizzing Head',
-  'Facebook': '',
-  'Linkedin': ''} 
+
+ 
+
+
+
  ]
 
 teamDiv = document.getElementsByClassName("teamImageDiv")[0]
