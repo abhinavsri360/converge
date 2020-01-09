@@ -157,6 +157,96 @@ let formData =
         'Email id': 'email',
         'Previous participations in marathon (yes/no)': 'text',
       }
+  },
+  {
+    'code': "bdmntnboys",
+      'formFields': {
+        'Team Captain Name': 'text',
+        'College name': 'text',
+        'Contact no': 'text',
+        'No. of Players': 'text',
+        'Accomodation required or not': 'text',
+      }
+  },
+  {
+    'code': "bdmntngirls",
+      'formFields': {
+        'Team Captain Name': 'text',
+        'College name': 'text',
+        'Contact no': 'text',
+        'No. of Players': 'text',
+        'Accomodation required or not': 'text',
+      }
+  },
+  {
+    'code': "vllyball",
+      'formFields': {
+        'Team Captain Name': 'text',
+        'College name': 'text',
+        'Contact no': 'text',
+        'No. of Players': 'text',
+        'Accomodation required or not': 'text',
+      }
+  },
+  {
+    'code': "football",
+      'formFields': {
+        'Team Captain Name': 'text',
+        'College name': 'text',
+        'Contact no': 'text',
+        'No. of Players': 'text',
+        'Accomodation required or not': 'text',
+      }
+  },
+  {
+    'code': "tt",
+      'formFields': {
+        'Captain Name': 'text',
+        'College name': 'text',
+        'Contact no': 'text',
+        'No. of Players': 'text',
+        'Accomodation required or not': 'text',
+      }
+  },
+  {
+    'code': "crckt",
+      'formFields': {
+        'Captain Name': 'text',
+        'College name': 'text',
+        'Contact no': 'text',
+        'No. of Players': 'text',
+        'Accomodation required or not': 'text',
+      }
+  },
+  {
+    'code': "algoflux",
+      'formFields': {
+        'Name': 'text',
+        'email': 'email',
+        'Phone no': 'text',
+        'College name': 'text',
+        'year': 'text',
+      }
+  },
+  {
+    'code': "codft",
+      'formFields': {
+        'Name': 'text',
+        'email': 'email',
+        'Phone no': 'text',
+        'College name': 'text',
+        'year': 'text',
+      }
+  },
+  {
+    'code': "rpdfire",
+      'formFields': {
+        'Name': 'text',
+        'email': 'email',
+        'Phone no': 'text',
+        'College name': 'text',
+        'year': 'text',
+      }
   }
   ]
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML

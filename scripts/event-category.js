@@ -77,13 +77,32 @@ let cultureData =
 
 ]
 
-let techData = [{
+let techData = [
+  {
     title: "INQUIZZITIVE",
     brief_description: "Quiz",
     link: "./event.html?eventname=inquizzitive",
     image: "./assets/Events/inquizitive.png"
+  },
+  {
+    title: "Algoflux",
+    brief_description: "Algoflux is a flagship event of RPH, an inter-college competitive programming contest based on ICPC theme",
+    link: "./event.html?eventname=algoflux",
+    image: "./assets/Events/algoflux.jpeg"
+  },
+  {
+    title: "CodeFight",
+    brief_description: "CodeFight an amazing opportunity to knock off your competitors, the one who solves first wins the battle",
+    link: "./event.html?eventname=codft",
+    image: "./assets/Events/codft.jpg"
+  },
+  {
+    title: "RapidFire",
+    brief_description: "RapidFire, the ultimate battle of best programmers based on algorithms and data structures",
+    link: "./event.html?eventname=rpdfire",
+    image: "./assets/Events/rpdfire.png"
   }
-               ]
+]
 
 let informalarray=[]
 
@@ -102,7 +121,44 @@ let literaryarray=[
   }
 ];
 
-let sportsarray=[]
+let sportsarray=[
+  {
+    title: "Badminton boys",
+    brief_description: "Minimum 4 players in a team and maximum 5 players",
+    link: "./event.html?eventname=bdmntnboys",
+    image: "./assets/Events/bdmntnboys.png"
+  },
+  {
+    title: "Badminton girls",
+    brief_description: "Minimum 2 players in a team and maximum 3 players",
+    link: "./event.html?eventname=bdmntngirls",
+    image: "./assets/Events/bdmntngirls.jpg"
+  },
+  {
+    title: "Volleyball boys and girls",
+    brief_description: "Minimum 6 players in a team and maximum 12 players",
+    link: "./event.html?eventname=vllyball",
+    image: "./assets/Events/vllyball.jpg"
+  },
+  {
+    title: "Football",
+    brief_description: "Maximum 10 players in a team",
+    link: "./event.html?eventname=football",
+    image: "./assets/Events/football.jpg"
+  },
+  {
+    title: "Table tennis",
+    brief_description: "Minimum 3 players in a team and maximum 4 players",
+    link: "./event.html?eventname=tt",
+    image: "./assets/Events/tt.jpg"
+  },
+  {
+    title: "Cricket",
+    brief_description: "Minimum 9 players in a team and maximum 15 players",
+    link: "./event.html?eventname=crckt",
+    image: "./assets/Events/crckt.jpg"
+  },
+];
 
 // Funtion to inject array to page
 const InjectArray = (data,title) => {

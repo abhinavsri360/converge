@@ -209,7 +209,168 @@ eventdata=[
         prizes:"TBA",
         code:"marathon",
         link:'./register.html?q=marathon'
-    }
+    },
+    {
+        image:"./assets/Events/algoflux.jpeg",
+        venue:"JIIT 128",
+        title:"Algoflux",
+        date:"1-2-2020",
+        time:"9:30 AM",
+        description:`Algoflux is a flagship event of RPH, an inter-college competitive programming contest based on ICPC theme,a team event designed to challenge coders with different problems.  We present to you details for the same :<br>
+          Team Size:1-3<br>
+          Registration form:<br>
+          Date : 1st February,20<br>
+          Timings : 9:30 Onwards (Duration 5Hrs)<br>
+          Venue : CL2 , JIIT128<br>
+          Registration Fees: Rs.100<br>
+          The amount can be sent to 9971865695 through GPay/Paytm and mention Team name in comment.`,
+        rules:"TBA",
+        prizes:"TBA",
+        code:"algoflux",
+        link:'./register.html?q=algoflux'
+    },
+    {
+      image:"./assets/Events/codft.jpg",
+      venue:"JIIT 128",
+      title:"CodeFight",
+      time:"9:30 AM",
+      date:"2-2-2020",
+      description:`"CodeFight an amazing opportunity to knock off your competitors, in a one-on-one code battle, the one who solves first wins the battle.
+        <br><br>
+        Date : 2nd February,20<br>
+        Timings : 9:30 Onwards <br>
+        Venue : CL2 , JIIT128"`,
+      rules:"TBA",
+      prizes:"TBA",
+      code:"codft",
+      link:'./register.html?q=codft'
+    },
+    {
+      image:"./assets/Events/rpdfire.png",
+      venue:"JIIT 128",
+      title:"RapidFire",
+      time:"2-4pm",
+      date:"2-2-2020",
+      description:`"RapidFire, the ultimate battle of best programmers, an individual programming event based on algorithms and data structures. Get ready to join the battle to be ultimate programming champion.<br>
+        Date:2nd February,20<br>
+        Timing: 2-4pm<br>
+        Venue:Cl2, JIIT 128"`,
+      rules:"TBA",
+      prizes:"TBA",
+      code:"rpdfire",
+      link:'./register.html?q=rpdfire'
+    },
+    {
+      image:"./assets/Events/bdmntnboys.png",
+      venue:"JIIT 128",
+      title:"Badminton boys",
+      time:"TBA",
+      date:"TBA",
+      description:`Minimum 4 players in a team maximum 5 players<br>
+        All matches will be of 21 points (Best of 3)<br>
+        All the players should be of same college.<br>
+        ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
+        For any queries/registration, contact:<br>
+        Chetan - 9891691770<br>
+        Kartikeya - 9140478390`,
+      rules:"TBA",
+      prizes:"TBA",
+      code:"bdmntnboys",
+      link:'./register.html?q=bdmntnboys'
+    },
+    {
+      image:"./assets/Events/bdmntngirls.jpg",
+      venue:"JIIT 128",
+      title:"Badminton girls",
+      time:"TBA",
+      date:"TBA",
+      description:`Minimum 2 players in a team maximum 3 players<br>
+        All matches will be of 21 points (Best of 3)<br>
+        All the players should be of same college.<br>
+        ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK <br>
+        For any queries/registration, contact:<br>
+        Chetan - 9891691770<br>
+        Kartikeya - 9140478390`,
+      rules:"TBA",
+      prizes:"TBA",
+      code:"bdmntngirls",
+      link:'./register.html?q=bdmntngirls'
+    },
+    {
+      image:"./assets/Events/vllyball.jpg",
+      venue:"JIIT 128",
+      title:"Volleyball boys and girls",
+      time:"TBA",
+      date:"TBA",
+      description:`Maximum number of players = 12 in a team.<br><br>
+        - Minimum number of players = 6 in a team.<br><br>
+        - Number of set = 3 consisting 25 points each.<br><br>
+        - No rotation ( fixed position play )<br><br>
+        - The Referee's decision shall be final.<br><br>
+        - For everything else, standard volleyball rules apply.<br><br>
+        - The teams are required to report at least 30 min before given time.<br>
+        For any queries/registration, contact:<br>
+        Gaurav -9039138343
+        Lalit      - 9610334365`,
+      rules:"TBA",
+      prizes:"TBA",
+      code:"vllyball",
+      link:'./register.html?q=vllyball'
+    },
+    {
+      image:"./assets/Events/football.jpg",
+      venue:"JIIT 128",
+      title:"Football",
+      time:"TBA",
+      date:"TBA",
+      description:`Age limit:24<br>
+         Maximum 10 players in a team.<br>
+         7 on the field (including Goalkeeper) + 3 rolling substitutes.<br>
+        ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK <br>
+        For any queries/registration, contact:<br>
+        Uttkarsh - 9889462587<br>
+        Prakhanshu - 8726838994`,
+      rules:"TBA",
+      prizes:"TBA",
+      code:"football",
+      link:'./register.html?q=football'
+    },
+    {
+      image:"./assets/Events/tt.jpg",
+      venue:"JIIT 128",
+      title:"Table tennis",
+      time:"TBA",
+      date:"TBA",
+      description:`Minimum 3 players and Maximum 4 players in a team <br>
+          -All matches will be of 5 min 3 rounds (Best of 2)<br>
+          -Al the players should be of same college<br>
+          ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK.<br>
+          For any queries/registration, contact:<br>
+          Shivam: 9896628306`,
+      rules:"TBA",
+      prizes:"TBA",
+      code:"tt",
+      link:'./register.html?q=tt'
+    },
+    {
+      image:"./assets/Events/crckt.jpg",
+      venue:"JIIT 128",
+      title:"Cricket",
+      time:"TBA",
+      date:"TBA",
+      description:`Maximum number of players = 15 in a team.<br>
+          Minimum number of players = 9 in a team.<br>
+           Number of overs per side=8<br>
+           Final match =10 over per side<br>
+           Match format- ICC T-20<br>
+          For any queries/registration, contact:<br>
+          Toyesh:8744947030<br>
+          Pranjal:7007010230`,
+      rules:"TBA",
+      prizes:"TBA",
+      code:"crckt",
+      link:'./register.html?q=crckt'
+    },
 ];
 for (event in eventdata) {
 if (eventdata[event].code==searchCategory) {
