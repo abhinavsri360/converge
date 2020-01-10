@@ -123,25 +123,25 @@ let literaryarray=[
 
 let sportsarray=[
   {
-    title: "Badminton boys",
+    title: "Badminton Boys",
     brief_description: '',
     link: "./event.html?eventname=bdmntnboys",
     image: "./assets/Events/bdmntnboys.png"
   },
   {
-    title: "Badminton girls",
+    title: "Badminton Girls",
     brief_description: '',
     link: "./event.html?eventname=bdmntngirls",
     image: "./assets/Events/bdmntngirls.png"
   },
   {
-    title: "Volleyball boys",
+    title: "Volleyball Boys",
     brief_description: '',
     link: "./event.html?eventname=vllyballb",
     image: "./assets/Events/vllyballb.png"
   },
   {
-    title: "Volleyball girls",
+    title: "Volleyball Girls",
     brief_description: '',
     link: "./event.html?eventname=vllyballg",
     image: "./assets/Events/vllyballg.png"
@@ -153,7 +153,7 @@ let sportsarray=[
     image: "./assets/Events/football.png"
   },
   {
-    title: "Table tennis",
+    title: "Table Tennis",
     brief_description: '',
     link: "./event.html?eventname=tt",
     image: "./assets/Events/tt.png"
