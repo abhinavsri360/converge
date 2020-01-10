@@ -279,7 +279,7 @@ eventdata=[
       link:'./register.html?q=bdmntnboys'
     },
     {
-      image:"./assets/Events/bdmntngirls.jpg",
+      image:"./assets/Events/bdmntngirls.png",
       venue:"JIIT 128",
       title:"Badminton girls",
       time:"TBA",
@@ -297,7 +297,7 @@ eventdata=[
       link:'./register.html?q=bdmntngirls'
     },
     {
-      image:"./assets/Events/vllyball.jpg",
+      image:"./assets/Events/vllyball.png",
       venue:"JIIT 128",
       title:"Volleyball boys and girls",
       time:"TBA",
@@ -318,7 +318,7 @@ eventdata=[
       link:'./register.html?q=vllyball'
     },
     {
-      image:"./assets/Events/football.jpg",
+      image:"./assets/Events/football.png",
       venue:"JIIT 128",
       title:"Football",
       time:"TBA",
@@ -336,7 +336,7 @@ eventdata=[
       link:'./register.html?q=football'
     },
     {
-      image:"./assets/Events/tt.jpg",
+      image:"./assets/Events/tt.png",
       venue:"JIIT 128",
       title:"Table tennis",
       time:"TBA",
@@ -353,7 +353,7 @@ eventdata=[
       link:'./register.html?q=tt'
     },
     {
-      image:"./assets/Events/crckt.jpg",
+      image:"./assets/Events/crckt.png",
       venue:"JIIT 128",
       title:"Cricket",
       time:"TBA",
