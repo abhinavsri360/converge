@@ -264,8 +264,8 @@ eventdata=[
       image:"./assets/Events/bdmntnboys.png",
       venue:"JIIT 128",
       title:"Badminton boys",
-      time:"TBA",
-      date:"TBA",
+      time:"9:00:00 AM",
+      date:"31-01-20",
       description:`Minimum 4 players in a team maximum 5 players<br>
         All matches will be of 21 points (Best of 3)<br>
         All the players should be of same college.<br>
@@ -282,8 +282,8 @@ eventdata=[
       image:"./assets/Events/bdmntngirls.png",
       venue:"JIIT 128",
       title:"Badminton girls",
-      time:"TBA",
-      date:"TBA",
+      time:"9:00:00 AM",
+      date:"31-01-20",
       description:`Minimum 2 players in a team maximum 3 players<br>
         All matches will be of 21 points (Best of 3)<br>
         All the players should be of same college.<br>
@@ -297,11 +297,11 @@ eventdata=[
       link:'./register.html?q=bdmntngirls'
     },
     {
-      image:"./assets/Events/vllyball.png",
+      image:"./assets/Events/vllyballb.png",
       venue:"JIIT 128",
       title:"Volleyball boys and girls",
-      time:"TBA",
-      date:"TBA",
+      time:"9:00:00 AM",
+      date:"31-01-20",
       description:`Maximum number of players = 12 in a team.<br><br>
         - Minimum number of players = 6 in a team.<br><br>
         - Number of set = 3 consisting 25 points each.<br><br>
@@ -314,15 +314,36 @@ eventdata=[
         Lalit      - 9610334365`,
       rules:"TBA",
       prizes:"TBA",
-      code:"vllyball",
-      link:'./register.html?q=vllyball'
+      code:"vllyballb",
+      link:'./register.html?q=vllyballb'
+    },
+    {
+      image:"./assets/Events/vllyballg.png",
+      venue:"JIIT 128",
+      title:"Volleyball boys and girls",
+      time:"9:00:00 AM",
+      date:"31-01-20",
+      description:`Maximum number of players = 12 in a team.<br><br>
+        - Minimum number of players = 6 in a team.<br><br>
+        - Number of set = 3 consisting 25 points each.<br><br>
+        - No rotation ( fixed position play )<br><br>
+        - The Referee's decision shall be final.<br><br>
+        - For everything else, standard volleyball rules apply.<br><br>
+        - The teams are required to report at least 30 min before given time.<br>
+        For any queries/registration, contact:<br>
+        Gaurav -9039138343
+        Lalit      - 9610334365`,
+      rules:"TBA",
+      prizes:"TBA",
+      code:"vllyballg",
+      link:'./register.html?q=vllyballg'
     },
     {
       image:"./assets/Events/football.png",
       venue:"JIIT 128",
       title:"Football",
-      time:"TBA",
-      date:"TBA",
+      time:"9:00:00 AM",
+      date:"31-01-20",
       description:`Age limit:24<br>
          Maximum 10 players in a team.<br>
          7 on the field (including Goalkeeper) + 3 rolling substitutes.<br>
@@ -339,8 +360,8 @@ eventdata=[
       image:"./assets/Events/tt.png",
       venue:"JIIT 128",
       title:"Table tennis",
-      time:"TBA",
-      date:"TBA",
+      time:"9:00:00 AM",
+      date:"31-01-20",
       description:`Minimum 3 players and Maximum 4 players in a team <br>
           -All matches will be of 5 min 3 rounds (Best of 2)<br>
           -Al the players should be of same college<br>
@@ -356,8 +377,8 @@ eventdata=[
       image:"./assets/Events/crckt.png",
       venue:"JIIT 128",
       title:"Cricket",
-      time:"TBA",
-      date:"TBA",
+      time:"9:00:00 AM",
+      date:"31-01-20",
       description:`Maximum number of players = 15 in a team.<br>
           Minimum number of players = 9 in a team.<br>
            Number of overs per side=8<br>

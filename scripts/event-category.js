@@ -124,37 +124,43 @@ let literaryarray=[
 let sportsarray=[
   {
     title: "Badminton boys",
-    brief_description: "Minimum 4 players in a team and maximum 5 players",
+    brief_description: '',
     link: "./event.html?eventname=bdmntnboys",
     image: "./assets/Events/bdmntnboys.png"
   },
   {
     title: "Badminton girls",
-    brief_description: "Minimum 2 players in a team and maximum 3 players",
+    brief_description: '',
     link: "./event.html?eventname=bdmntngirls",
     image: "./assets/Events/bdmntngirls.png"
   },
   {
-    title: "Volleyball boys and girls",
-    brief_description: "Minimum 6 players in a team and maximum 12 players",
-    link: "./event.html?eventname=vllyball",
-    image: "./assets/Events/vllyball.png"
+    title: "Volleyball boys",
+    brief_description: '',
+    link: "./event.html?eventname=vllyballb",
+    image: "./assets/Events/vllyballb.png"
+  },
+  {
+    title: "Volleyball girls",
+    brief_description: '',
+    link: "./event.html?eventname=vllyballg",
+    image: "./assets/Events/vllyballg.png"
   },
   {
     title: "Football",
-    brief_description: "Maximum 10 players in a team",
+    brief_description: '',
     link: "./event.html?eventname=football",
     image: "./assets/Events/football.png"
   },
   {
     title: "Table tennis",
-    brief_description: "Minimum 3 players in a team and maximum 4 players",
+    brief_description: '',
     link: "./event.html?eventname=tt",
     image: "./assets/Events/tt.png"
   },
   {
     title: "Cricket",
-    brief_description: "Minimum 9 players in a team and maximum 15 players",
+    brief_description: '',
     link: "./event.html?eventname=crckt",
     image: "./assets/Events/crckt.png"
   },

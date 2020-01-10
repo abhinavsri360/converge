@@ -179,10 +179,20 @@ let formData =
       }
   },
   {
-    'code': "vllyball",
+    'code': "vllyballb",
       'formFields': {
-        'Team Captain Name': 'text',
         'College name': 'text',
+        'Team Captain Name': 'text',
+        'Contact no': 'text',
+        'No. of Players': 'text',
+        'Accomodation required or not': 'text',
+      }
+  },
+  {
+    'code': "vllyballg",
+      'formFields': {
+        'College name': 'text',
+        'Team Captain Name': 'text',
         'Contact no': 'text',
         'No. of Players': 'text',
         'Accomodation required or not': 'text',
@@ -190,33 +200,33 @@ let formData =
   },
   {
     'code': "football",
-      'formFields': {
-        'Team Captain Name': 'text',
-        'College name': 'text',
-        'Contact no': 'text',
-        'No. of Players': 'text',
-        'Accomodation required or not': 'text',
-      }
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+      'No. of Players': 'text',
+      'Accomodation required or not': 'text',
+    }
   },
   {
     'code': "tt",
-      'formFields': {
-        'Captain Name': 'text',
-        'College name': 'text',
-        'Contact no': 'text',
-        'No. of Players': 'text',
-        'Accomodation required or not': 'text',
-      }
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+      'No. of Players': 'text',
+      'Accomodation required or not': 'text',
+    }
   },
   {
     'code': "crckt",
-      'formFields': {
-        'Captain Name': 'text',
-        'College name': 'text',
-        'Contact no': 'text',
-        'No. of Players': 'text',
-        'Accomodation required or not': 'text',
-      }
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+      'No. of Players': 'text',
+      'Accomodation required or not': 'text',
+    }
   },
   {
     'code': "algoflux",
