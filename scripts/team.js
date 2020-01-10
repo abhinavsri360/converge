@@ -72,6 +72,12 @@ let teamData =
   'Facebook': '',
   'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
   },
+ {'Name':'Chetan Bansal',
+  'Image':'./assets/team/IMG-20200109-WA0011 - Chetan Bansal.jpg',
+  'Position':'Sports Head',
+  'Facebook':'',
+  'Linkedin':''},
+ 
   {'Name': 'HARSH VARSHNEY',
   'Image': './assets/team/9.jpg',
   'Position': 'Photography Head',
@@ -159,14 +165,7 @@ let teamData =
   'Position': 'Quizzing Head',
   'Facebook': '',
   'Linkedin': ''}  ,
- {'Name':'Chetan Bansal',
-  'Image':'./assets/team/IMG-20200109-WA0011 - Chetan Bansal.jpg',
-  'Position':'Sports Head',
-  'Facebook':'',
-  'Linkedin':''}
-
-
-
+ 
  ]
 
 teamDiv = document.getElementsByClassName("teamImageDiv")[0]
