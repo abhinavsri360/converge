@@ -373,7 +373,7 @@ eventdata=[
           Shivam: 9896628306`,
       rules:`
           Minimum 3 players and Maximum 4 players in a team <br>
-          -All matches will be of 5 min 3 rounds (Best of 2)<br>
+          -All matches will be of 11 points (Best of 3)<br>
           -Al the players should be of same college<br>
           ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK.<br>
       `,
