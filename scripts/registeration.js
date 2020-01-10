@@ -161,21 +161,21 @@ let formData =
   {
     'code': "bdmntnboys",
       'formFields': {
-        'Team Captain Name': 'text',
         'College name': 'text',
+          'Team Captain Name': 'text',
         'Contact no': 'text',
         'No. of Players': 'text',
-        'Accomodation required or not': 'text',
+        'Accommodation required or not': 'text',
       }
   },
   {
     'code': "bdmntngirls",
       'formFields': {
-        'Team Captain Name': 'text',
         'College name': 'text',
+          'Team Captain Name': 'text',
         'Contact no': 'text',
         'No. of Players': 'text',
-        'Accomodation required or not': 'text',
+        'Accommodation required or not': 'text',
       }
   },
   {
@@ -185,7 +185,7 @@ let formData =
         'Team Captain Name': 'text',
         'Contact no': 'text',
         'No. of Players': 'text',
-        'Accomodation required or not': 'text',
+        'Accommodation required or not': 'text',
       }
   },
   {
@@ -195,7 +195,7 @@ let formData =
         'Team Captain Name': 'text',
         'Contact no': 'text',
         'No. of Players': 'text',
-        'Accomodation required or not': 'text',
+        'Accommodation required or not': 'text',
       }
   },
   {
@@ -205,7 +205,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
       'No. of Players': 'text',
-      'Accomodation required or not': 'text',
+      'Accommodation required or not': 'text',
     }
   },
   {
@@ -215,7 +215,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
       'No. of Players': 'text',
-      'Accomodation required or not': 'text',
+      'Accommodation required or not': 'text',
     }
   },
   {
@@ -225,7 +225,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
       'No. of Players': 'text',
-      'Accomodation required or not': 'text',
+      'Accommodation required or not': 'text',
     }
   },
   {
