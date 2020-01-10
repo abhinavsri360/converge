@@ -158,7 +158,12 @@ let teamData =
   'Image': './assets/team/32.jpg',
   'Position': 'Quizzing Head',
   'Facebook': '',
-  'Linkedin': ''}  
+  'Linkedin': ''}  ,
+ {'Name':'Chetan Bansal',
+  'Image':'./assets/team/IMG-20200109-WA0011 - Chetan Bansal.jpg',
+  'Position':'Sports Head',
+  'Facebook':'',
+  'Linkedin':''}
 
 
 
