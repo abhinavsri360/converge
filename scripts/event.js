@@ -264,7 +264,7 @@ eventdata=[
       image:"./assets/Events/bdmntnboys.png",
       venue:"JIIT 128",
       title:"Badminton boys",
-      time:"9:00:00 AM",
+      time:"8:00:00 AM",
       date:"31-01-20",
       description:`Badminton match for boys<br>
         For any queries/registration, contact:<br>
@@ -283,7 +283,7 @@ eventdata=[
       image:"./assets/Events/bdmntngirls.png",
       venue:"JIIT 128",
       title:"Badminton girls",
-      time:"9:00:00 AM",
+      time:"8:00:00 AM",
       date:"31-01-20",
       description:`Badminton match for girls<br>
         For any queries/registration, contact:<br>
@@ -302,7 +302,7 @@ eventdata=[
       image:"./assets/Events/vllyballb.png",
       venue:"JIIT 128",
       title:"Volleyball boys",
-      time:"9:00:00 AM",
+      time:"8:00:00 AM",
       date:"31-01-20",
       description:`Volleyball match for boys<br>
         For any queries/registration, contact:<br>
@@ -324,7 +324,7 @@ eventdata=[
       image:"./assets/Events/vllyballg.png",
       venue:"JIIT 128",
       title:"Volleyball girls",
-      time:"9:00:00 AM",
+      time:"8:00:00 AM",
       date:"31-01-20",
       description:`Volleyball match for girls
         For any queries/registration, contact:<br>
@@ -346,7 +346,7 @@ eventdata=[
       image:"./assets/Events/football.png",
       venue:"JIIT 128",
       title:"Football",
-      time:"9:00:00 AM",
+      time:"8:00:00 AM",
       date:"31-01-20",
       description:`Football match<br>
         For any queries/registration, contact:<br>
@@ -366,7 +366,7 @@ eventdata=[
       image:"./assets/Events/tt.png",
       venue:"JIIT 128",
       title:"Table tennis",
-      time:"9:00:00 AM",
+      time:"8:00:00 AM",
       date:"31-01-20",
       description:`Table tennis match<br>
           For any queries/registration, contact:<br>
@@ -385,7 +385,7 @@ eventdata=[
       image:"./assets/Events/crckt.png",
       venue:"JIIT 128",
       title:"Cricket",
-      time:"9:00:00 AM",
+      time:"8:00:00 AM",
       date:"31-01-20",
       description:`Cricket match<br>
           For any queries/registration, contact:<br>
