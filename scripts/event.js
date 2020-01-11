@@ -392,7 +392,7 @@ eventdata=[
       venue:"JIIT 128",
       title:"Cricket",
       time:"8:00:00 AM",
-      date:"31-01-20",
+      date:"29-01-20",
       description:`Cricket match<br>
           For any queries/registration, contact:<br>
           Toyesh:8744947030<br>
@@ -403,10 +403,49 @@ eventdata=[
            Number of overs per side=8<br>
            Final match =10 over per side<br>
            Match format- ICC T-20<br>
+            The match will be played by Vicky ball<br>
       `,
       prizes:"TBA",
       code:"crckt",
       link:'./register.html?q=crckt'
+    },
+    
+    {
+      image:"./assets/Events/bbb.png",
+      venue:"JIIT 128",
+      title:"Basketball Boys",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Basketball Match<br>
+          For any queries/registration, contact:<br>
+          Amogh: 9140949178<br>
+Vrinda - 8287132273`,
+      rules:`
+          Maximum 12 players in a team.<br>
+Rules are according to FIBA.<br>
+The Referee's decision will be final.<br>`,
+      prizes:"TBA",
+      code:"bbb",
+      link:'./register.html?q=bbb'
+    },
+    
+    {
+      image:"./assets/Events/bbg.png",
+      venue:"JIIT 128",
+      title:"Basketball Girls",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Basketball Match<br>
+          For any queries/registration, contact:<br>
+          Amogh: 9140949178<br>
+Vrinda - 8287132273`,
+      rules:`
+          Maximum 12 players in a team.<br>
+Rules are according to FIBA.<br>
+The Referee's decision will be final.<br>`,
+      prizes:"TBA",
+      code:"bbg",
+      link:'./register.html?q=bbg'
     },
 ];
 for (event in eventdata) {
