@@ -411,7 +411,7 @@ eventdata=[
     },
     
     {
-      image:"./assets/Events/bbb.png",
+      image:"./assets/Events/bbb.jpg",
       venue:"JIIT 128",
       title:"Basketball Boys",
       time:"8:00:00 AM",
@@ -419,7 +419,7 @@ eventdata=[
       description:`Basketball Match<br>
           For any queries/registration, contact:<br>
           Amogh: 9140949178<br>
-Vrinda - 8287132273`,
+`,
       rules:`
           Maximum 12 players in a team.<br>
 Rules are according to FIBA.<br>
@@ -437,7 +437,6 @@ The Referee's decision will be final.<br>`,
       date:"31-01-20",
       description:`Basketball Match<br>
           For any queries/registration, contact:<br>
-          Amogh: 9140949178<br>
 Vrinda - 8287132273`,
       rules:`
           Maximum 12 players in a team.<br>
@@ -446,6 +445,25 @@ The Referee's decision will be final.<br>`,
       prizes:"TBA",
       code:"bbg",
       link:'./register.html?q=bbg'
+    },
+    
+    {
+      image:"./assets/Events/chess.jpg",
+      venue:"JIIT 128",
+      title:"Chess",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Chess<br>
+          For any queries/registration, contact:<br>
+Nayan:7557411076`,
+      rules:`
+          Minimum 3 players and Maximum 4 players<br>
+All matches will be of 5|3 min 3 rounds (Best of 2)<br>
+ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
+-Refree's decision will be final<br>`,
+      prizes:"TBA",
+      code:"chess",
+      link:'./register.html?q=chess'
     },
 {
       image:"./assets/Events/rlms.jpg",
