@@ -218,7 +218,7 @@ let sportsarray=[
     title: "Basketball Boys",
     brief_description: '',
     link: "./event.html?eventname=bbb",
-    image: "./assets/Events/bbb.png"
+    image: "./assets/Events/bbb.jpg"
   },
   
   {
@@ -232,7 +232,7 @@ let sportsarray=[
     title: "Chess",
     brief_description: '',
     link: "./event.html?eventname=chess",
-    image: "./assets/Events/chess.png"
+    image: "./assets/Events/chess.jpg"
   },
 ];
 
