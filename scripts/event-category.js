@@ -86,19 +86,19 @@ let techData = [
   },
   {
     title: "Algoflux",
-    brief_description: "Algoflux is a flagship event of RPH, an inter-college competitive programming contest based on ICPC theme",
+    brief_description: "Programming contest based on ICPC theme",
     link: "./event.html?eventname=algoflux",
     image: "./assets/Events/algoflux.jpeg"
   },
   {
     title: "CodeFight",
-    brief_description: "CodeFight an amazing opportunity to knock off your competitors, the one who solves first wins the battle",
+    brief_description: "The one who solves first wins the battle",
     link: "./event.html?eventname=codft",
     image: "./assets/Events/codft.jpg"
   },
   {
     title: "RapidFire",
-    brief_description: "RapidFire, the ultimate battle of best programmers based on algorithms and data structures",
+    brief_description: "Battle based on algorithms and data structures",
     link: "./event.html?eventname=rpdfire",
     image: "./assets/Events/rpdfire.png"
   }

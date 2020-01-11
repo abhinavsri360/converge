@@ -216,15 +216,18 @@ eventdata=[
         title:"Algoflux",
         date:"1-2-2020",
         time:"9:30 AM",
-        description:`Algoflux is a flagship event of RPH, an inter-college competitive programming contest based on ICPC theme,a team event designed to challenge coders with different problems.  We present to you details for the same :<br>
-          Team Size:1-3<br>
-          Registration form:<br>
-          Date : 1st February,20<br>
-          Timings : 9:30 Onwards (Duration 5Hrs)<br>
-          Venue : CL2 , JIIT128<br>
-          Registration Fees: Rs.100<br>
-          The amount can be sent to 9971865695 through GPay/Paytm and mention Team name in comment.`,
-        rules:"TBA",
+        description:`Programming contest based on ICPC theme
+          `,
+        rules:`
+        Algoflux is a flagship event of RPH, an inter-college competitive programming contest based on ICPC theme, a team event designed to challenge coders with different problems.<br><br>
+        Team Size:1-3<br>
+        Registration form:<br>
+        Date : 1st February,20<br>
+        Timings : 9:30 Onwards (Duration 5Hrs)<br>
+        Venue : CL2 , JIIT128<br>
+        Registration Fees: Rs.100<br>
+        The amount can be sent to 9971865695 through GPay/Paytm and mention Team name in comment.
+        `,
         prizes:"TBA",
         code:"algoflux",
         link:'./register.html?q=algoflux'
@@ -235,12 +238,14 @@ eventdata=[
       title:"CodeFight",
       time:"9:30 AM",
       date:"2-2-2020",
-      description:`"CodeFight an amazing opportunity to knock off your competitors, in a one-on-one code battle, the one who solves first wins the battle.
-        <br><br>
-        Date : 2nd February,20<br>
-        Timings : 9:30 Onwards <br>
-        Venue : CL2 , JIIT128"`,
-      rules:"TBA",
+      description:`The one who solves first wins the battle
+        `,
+      rules:`
+      CodeFight an amazing opportunity to knock off your competitors, in a one-on-one code battle, the one who solves first wins the battle.<br><br><br>
+      Date : 2nd February,20<br>
+      Timings : 9:30 Onwards <br>
+      Venue : CL2 , JIIT128
+      `,
       prizes:"TBA",
       code:"codft",
       link:'./register.html?q=codft'
@@ -251,11 +256,12 @@ eventdata=[
       title:"RapidFire",
       time:"2-4pm",
       date:"2-2-2020",
-      description:`"RapidFire, the ultimate battle of best programmers, an individual programming event based on algorithms and data structures. Get ready to join the battle to be ultimate programming champion.<br>
-        Date:2nd February,20<br>
-        Timing: 2-4pm<br>
-        Venue:Cl2, JIIT 128"`,
-      rules:"TBA",
+      description:`Battle based on algorithms and data structures`,
+      rules:`RapidFire, the ultimate battle of best programmers, an individual programming event based on algorithms and data structures. Get ready to join the battle to be ultimate programming champion.<br><br>
+      Date:2nd February,20<br>
+      Timing: 2-4pm<br>
+      Venue:Cl2, JIIT 128
+      `,
       prizes:"TBA",
       code:"rpdfire",
       link:'./register.html?q=rpdfire'

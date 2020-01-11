@@ -249,10 +249,10 @@ let formData =
     'code': "codft",
       'formFields': {
         'Name': 'text',
-        'email': 'email',
-        'Phone no': 'text',
         'College name': 'text',
+        'email': 'email',
         'year': 'text',
+        'Phone no': 'text',
       }
   },
   {
