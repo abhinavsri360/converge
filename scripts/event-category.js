@@ -164,6 +164,26 @@ let sportsarray=[
     link: "./event.html?eventname=crckt",
     image: "./assets/Events/crckt.png"
   },
+  {
+    title: "Basketball Boys",
+    brief_description: '',
+    link: "./event.html?eventname=bbb",
+    image: "./assets/Events/bbb.png"
+  },
+  
+  {
+    title: "Basketball Girls",
+    brief_description: '',
+    link: "./event.html?eventname=bbg",
+    image: "./assets/Events/bbg.png"
+  },
+  
+  {
+    title: "Chess",
+    brief_description: '',
+    link: "./event.html?eventname=chess",
+    image: "./assets/Events/chess.png"
+  },
 ];
 
 // Funtion to inject array to page
