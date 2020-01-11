@@ -1,5 +1,5 @@
 let eventName = window.location.search.split("=")[1]
-
+console.log('chane');
 let formData =
 
 [ {'code': "groove",
