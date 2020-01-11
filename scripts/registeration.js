@@ -235,6 +235,39 @@ let formData =
       'Accommodation required or not': 'text',
     }
   },
+ {
+    'code': "bbb",
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+        'Email ID': 'email',
+      'No. of Players': 'text',
+      'Accommodation required or not': 'text',
+    }
+  },
+ {
+    'code': "bbg",
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+        'Email ID': 'email',
+      'No. of Players': 'text',
+      'Accommodation required or not': 'text',
+    }
+  },
+ {
+    'code': "chess",
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+        'Email ID': 'email',
+      'No. of Players': 'text',
+      'Accommodation required or not': 'text',
+    }
+  },
   {
     'code': "algoflux",
       'formFields': {
