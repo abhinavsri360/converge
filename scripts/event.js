@@ -447,6 +447,157 @@ The Referee's decision will be final.<br>`,
       code:"bbg",
       link:'./register.html?q=bbg'
     },
+{
+      image:"./assets/Events/rlms.jpg",
+      venue:"JIIT 128",
+      title:"7 Realms",
+      time:"11:13:00 AM",
+      date:"01-02-20",
+      description:`An authentic card game`,
+      rules:`
+      An authentic card game under the 'minute to win it' category specially to check the presence of mind of participants... Patience is the key to win it...<br>
+        Team Size - 1 member<br>
+        Time constraint- 1min <br>
+        Date - 1st Feb"
+      `,
+      prizes:"TBA",
+      code:"rlms",
+      link:'./register.html?q=rlms'
+    },
+    {
+      image:"./assets/Events/leanon.jpg",
+      venue:"JIIT 128",
+      title:"Lean On",
+      time:"11:01:00 AM",
+      date:"02-02-20",
+      description:`Buckle up for this game`,
+      rules:`
+      Do you have someone to rely on..if yes then buckle up for this game. Here you have to work your asses out but definitely gonna experience some ultimate fun...<br>
+        Team Size- 2 members<br>
+        Time Constraint-1 minutes<br>
+        Date- 2nd Feb 2020
+      `,
+      prizes:"TBA",
+      code:"leanon",
+      link:'./register.html?q=leanon'
+    },
+    {
+      image:"./assets/Events/bubble.jpg",
+      venue:"JIIT 128",
+      title:"BUBBLE RACE",
+      time:"2:00:00 PM",
+      date:"02-02-20",
+      description:`Let's shoot some hoops,<br>
+      Through the loops,<br>
+      Make it count,<br>
+      Who can make it through, <br><br>
+      This is a fun 2-member event in which you would get paired up to perform some entertaining tasks which would lead you to win exciting prizes.`,
+      rules:`
+      Rules :<br>
+      a. Team Size : 2 Members<br>
+      b. Time Constraint : 2 Minutes<br>
+      c. Individual entries will be paired randomly<br>
+      d. Any form of discrepancy will lead to disqualification.
+      `,
+      prizes:"TBA",
+      code:"bubble",
+      link:'./register.html?q=bubble'
+    },
+    {
+      image:"./assets/Events/shoot.jpg",
+      venue:"JIIT 128",
+      title:"SHOOT OUT IN JIIT",
+      time:"2:00:00 PM",
+      date:"01-02-20",
+      description:`""a battle fought with handguns"",<br>
+      game is faught between two teams <br>
+      a competition that is used to decide the winner <br>
+      at the end by giving each team a <br>
+      particular number of chances to shoot the ball into the items.<br>`,
+      rules:`
+      RULES:<br>
+      a. Team Size : 1<br>
+      b. Time Constraint :  1 Minutes<br>
+      c. Any form of discrepancy will lead to disqualification.      `,
+      prizes:"TBA",
+      code:"shoot",
+      link:'./register.html?q=shoot'
+    },
+    {
+      image:"./assets/Events/flipr.jpg",
+      venue:"JIIT 128",
+      title:"Flipping and Racing",
+      time:"11:00:00 AM",
+      date:"01-02-20",
+      description:`
+        ""If you run your race, you'll win... channel your energy.""<br>
+         you have to score point by passing several<br>
+         checkpoint which consist of hurdles....<br>
+        more you score..more chances of winning the exciting prices.`,
+      rules:`
+      RULES:<br><br>
+      a. Team Size :2<br>
+      b. Time Constraint : 1 Minutes<br>
+      c. Individual entries will be allowed.<br>
+      d. Any form of discrepancy will lead to disqualification."
+      `,
+      prizes:"TBA",
+      code:"flipr",
+      link:'./register.html?q=flipr'
+    },
+    {
+      image:"./assets/Events/trsrhnt.jpg",
+      venue:"JIIT 128",
+      title:"TREASURE HUNT",
+      time:"2:00:00 PM",
+      date:"01-02-20",
+      description:`Hey guys!! Pull up your socks and buck up yourselves as we are back with the most awaited event of the year. It’s time to use your sherlock brains and team up to solve the mystery because this time the hunt is bigger and better than ever. So, follow the clues, work as a team, take turns, build memories and Have fun!!`,
+      rules:`
+      Rules :<br>
+      Team Size : 3 Members<br>
+      Time Constraint : 10 Minutes<br>
+      Individual entries will be paired randomly<br>
+      Any form of discrepancy will lead to disqualification."
+      `,
+      prizes:"TBA",
+      code:"trsrhnt",
+      link:'./register.html?q=trsrhnt'
+    },
+    {
+      image:"./assets/Events/bbs.jpg",
+      venue:"JIIT 128",
+      title:"BEG BORROW SNAP",
+      time:"2:00:00 PM",
+      date:"02-02-20",
+      description:`Howdy Buddies!! This is the time to test your image Warm your hands with the most electrifying event,BEG BORROW SNAP has ability to boost up your adrenaline.keep calm and have pateince!! Memories are mystery may you find it here`,
+      rules:`
+      Rules :<br>
+      Team Size : 2 Members<br>
+      Time Constraint : 2 Minutes<br>
+      Individual entries will be paired randomly<br>
+      Any form of discrepancy will lead to disqualification"
+      `,
+      prizes:"TBA",
+      code:"bbs",
+      link:'./register.html?q=bbs'
+    },
+    {
+      image:"./assets/Events/bheja.jpg",
+      venue:"JIIT 128",
+      title:"Bheja fry",
+      time:"11:00:00 AM",
+      date:"02-02-20",
+      description:`Hola guys!! Its time to saddle up, dust off your cowboy hat, and fasten up your boots because it's a fun named BHEJA FRY that will lead to full emusement and gratification. Surely you all are going to discover and celebrate your true new colors.`,
+      rules:`
+      Rules :<br><br>
+      Team Size : 1 Members<br>
+      Individual entries will be paired randomly<br>
+      Any form of discrepancy will lead to disqualification"
+      `,
+      prizes:"TBA",
+      code:"bheja",
+      link:'./register.html?q=bheja'
+    }
 ];
 for (event in eventdata) {
 if (eventdata[event].code==searchCategory) {

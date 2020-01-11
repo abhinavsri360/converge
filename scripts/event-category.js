@@ -104,7 +104,57 @@ let techData = [
   }
 ]
 
-let informalarray=[]
+let informalarray=[
+  {
+    title: "7 Realms",
+    brief_description: "An authentic card game",
+    link: "./event.html?eventname=rlms",
+    image: "./assets/Events/rlms.jpg"
+  },
+  {
+    title: "Lean On",
+    brief_description: "Buckle up for this game.",
+    link: "./event.html?eventname=leanon",
+    image: "./assets/Events/leanon.jpg"
+  },
+  {
+    title: "BUBBLE RACE",
+    brief_description: "Let's shoot some hoops",
+    link: "./event.html?eventname=bubble",
+    image: "./assets/Events/bubble.jpg"
+  },
+  {
+    title: "SHOOT OUT IN JIIT",
+    brief_description: "A battle fought with handguns",
+    link: "./event.html?eventname=shoot",
+    image: "./assets/Events/shoot.jpg"
+  },
+  {
+    title: "Flipping and Racing",
+    brief_description: "You have to score point by passing several checkpoint",
+    link: "./event.html?eventname=flipr",
+    image: "./assets/Events/flipr.jpg"
+  },
+  {
+    title: "TREASURE HUNT",
+    brief_description: "Follow the clues, work as a team, take turns, build memories",
+    link: "./event.html?eventname=trsrhnt",
+    image: "./assets/Events/trsrhnt.jpg"
+  },
+  {
+    title: "BEG BORROW SNAP",
+    brief_description: "Memories are mystery may you find it here",
+    link: "./event.html?eventname=bbs",
+    image: "./assets/Events/bbs.jpg"
+  },
+  {
+    title: "Bheja fry",
+    brief_description: "Celebrate your true new colors",
+    link: "./event.html?eventname=bheja",
+    image: "./assets/Events/bheja.jpg"
+  },
+];
+
 
 let literaryarray=[
   {

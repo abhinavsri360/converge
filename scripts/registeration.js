@@ -298,7 +298,74 @@ let formData =
         'year': 'text',
       }
   }
-  ]
+{
+    'code': "rlms",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "leanon",
+      'formFields': {
+        'Name (first member)': 'text',
+        'Enrollment number (first member)': 'text',
+        'Phone no (first member)': 'text',
+        'Name (second member)': 'text',
+        'Enrollment number (second member)': 'text',
+        'Phone no (second member)': 'text',
+      }
+  },
+  {
+    'code': "bubble",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "shoot",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "flipr",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "trsrhnt",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "bbs",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "bheja",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+];
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML
 
 const formFieldsHtml = (eventName) => {
