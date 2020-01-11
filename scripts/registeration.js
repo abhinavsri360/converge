@@ -297,7 +297,7 @@ let formData =
         'College name': 'text',
         'year': 'text',
       }
-  }
+  },
 {
     'code': "rlms",
       'formFields': {
