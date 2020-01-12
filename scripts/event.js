@@ -5,9 +5,9 @@ eventdata=[
         venue:"JIIT 128",
         title:"GROOVE",
         date:"01-02-2020",
-        time:"1:04:00 PM",
+        time:"12:30:00 PM",
         description:"The job of feet is walking, but it's hobby is dancing!<br>So be in your highest spirits as VamUnique- The western dance society of Jaypee Institute of Information Technology is all agog to present to you -GROOVE, Western Group Dance Competition.<br> The event is going to be held during CONVERGE 2020.",
-        rules:"The maximum team limit for the competition is of 20 members.<br>There will be an on the spot registration fee for the event.<br>The competition consists of two rounds:- The video preliminary round and the final round.<br>Kindly adhere to the following rules:<br>Preliminary Round<br>1. Register with the link to your performance video latest by 22 January 2020. Any last minute requests would not be entertained.<br>2. The video should be a showcase of 2019 or 2020.<br>3. The video should not be longer than 8 minutes.<br>Final Round<br>1. On stage limit is of 5-15 members.<br>2. The time limit of the performance is 6-10 mins plus 1 minute for stage setup and marking.<br>3. Teams need to bring their track in pendrives.<br>Rest of the rules will be acquainted with the selected teams.<br>The results of the preliminary round will be announced on 24 January 2020<br>For more information, contact<br>Pranav Mangla (Head) : 9582552722<br>Radhika Berry: 8447121378",
+        rules:"The maximum team limit for the competition is of 25 members.<br>There will be an on the spot registration fee for the event.<br>The competition consists of two rounds:- The video preliminary round and the final round.<br>Kindly adhere to the following rules:<br>Preliminary Round<br>1. Register with the link to your performance video latest by 22 January 2020. Any last minute requests would not be entertained.<br>2. The video should be a showcase of 2019 or 2020.<br>3. The video should not be longer than 8 minutes.<br>Final Round<br>1. On stage limit is of 5-15 members.<br>2. The time limit of the performance is 6-10 mins plus 1 minute for stage setup and marking.<br>3. Teams need to bring their track in pendrives.<br>Rest of the rules will be acquainted with the selected teams.<br>The results of the preliminary round will be announced on 24 January 2020<br>For more information, contact<br>Pranav Mangla (Head) : 9582552722<br>Radhika Berry: 8447121378",
         prizes:"TBA",
         code:'groove',
         link:'./register.html?q=groove'
@@ -100,8 +100,8 @@ eventdata=[
         image:"./assets/Events/poise.png",
         venue:"JIIT 128",
         title:"POISE",
-        date:"TBA",
-        time:"TBA",
+        date:"02-02-2020",
+        time:"02:00:00 PM",
         description:"Hola people!<br>That finnese in your glance is worth a thousand sights.<br>Gear up for one the most anticipated fashion events in the town.<br>Panache - The Fashion Society of Jaypee Institute of Information Technology, Sector-128 presents:- <br>POISE - THE FASHION SHOW EVENT at their annual cultural fest Converge'20. All you need is love the vogue!",
         rules:"Registration fee: 1000/-<br>Forward your tracks at: goyal.jahanvi@gmail.com<br>Rules & Regulations :<br>1. One entry per college<br>2. 12-15 members per team are allowed including assistants<br>3. Time limit is 12 minutes excluding stage setup time i.e 2 min.<br>4. Negative marking will be done for exceeding time limit.<br>5. Track has to be sent via email while registration (goyal.jahanvi@gmail.com). Make sure you carry it in the pen drive on the day of event.<br>6. Theme selection is totally up to the team.<br>7. Use of props is allowed.<br>8. Vulgarity is strictly prohibited. Any form of obscenity will lead to debarring of the team from the contest.<br>9. Participants are advised to take care of the authenticity of their work. Plagiarism will not be tolerated.<br>10. Use of hazardous objects is not allowed.<br>11. The criterion for judgement are:<br>◆Theme<br>◆Costumes<br>◆Walk<br>◆Stance<br>◆Attitude<br>12. Decision of the judges will be final and binding.",
         prizes:"TBA",
@@ -112,8 +112,8 @@ eventdata=[
         image:"./assets/Events/mmc.png",
         venue:"JIIT 128",
         title:"MR and MS CONVERGE",
-        date:"TBA",
-        time:"TBA",
+        date:"02-02-2020",
+        time:"10:00:00 AM",
         description:"Confidence doesn't come when you have all the answers, but it comes when you are ready to face all the questions.<br>PANACHE- The fashion society of JIIT-128 presents MR. and MISS CONVERGE'20.<br>So boys and girls gear up yourselves and get your pretty dresses and suits out !!",
         rules:"Rules & Regulations :<br>1. Participants to be from JIIT only.<br>2. Participants can be from any year.<br>3. Mtech students can also take part.<br>4. Only western clothes are allowed.<br>5. There will be 3 judges and 2 rounds (walk + PI).<br>6. Props are allowed.<br>7. Judging criteria will be confidence, dress, walk, question answer ability.",
         prizes:"TBA",
@@ -124,8 +124,8 @@ eventdata=[
         image:"./assets/Events/adsmd.jpg",
         venue:"JIIT 128",
         title:"Adi Shankaracharya Memorial Debate",
-        date:"01-02-20",
-        time:"TBA",
+        date:"02-02-20",
+        time:"10:30:00 AM",
         description:"Battle of words to show how can you convince audience and your opposition.",
         rules:"TBA",
         prizes:"TBA",
@@ -492,7 +492,7 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       rules:`
       Do you have someone to rely on..if yes then buckle up for this game. Here you have to work your asses out but definitely gonna experience some ultimate fun...<br>
         Team Size- 2 members<br>
-        Time Constraint-1 minutes<br>
+        Time Constraint-1 minutes 30 seconds<br>
         Date- 2nd Feb 2020
       `,
       prizes:"TBA",
@@ -549,9 +549,8 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       date:"01-02-20",
       description:`
         ""If you run your race, you'll win... channel your energy.""<br>
-         you have to score point by passing several<br>
-         checkpoint which consist of hurdles....<br>
-        more you score..more chances of winning the exciting prices.`,
+         Flip as many bottles as u can in a minute as a team or individual.<br>
+         More you score..More chances of winning the exciting prices.<br>`,
       rules:`
       RULES:<br><br>
       a. Team Size :2<br>
