@@ -165,7 +165,7 @@ let formData =
           'Team Captain Name': 'text',
         'Contact no': 'text',
           'Email ID': 'email',
-        'No. of Players': 'text',
+        'No of Players': 'text',
         'Accommodation required or not': 'text',
       }
   },
@@ -176,7 +176,7 @@ let formData =
           'Team Captain Name': 'text',
         'Contact no': 'text',
           'Email ID': 'email',
-        'No. of Players': 'text',
+        'No of Players': 'text',
         'Accommodation required or not': 'text',
       }
   },
@@ -187,7 +187,7 @@ let formData =
         'Team Captain Name': 'text',
         'Contact no': 'text',
           'Email ID': 'email',
-        'No. of Players': 'text',
+        'No of Players': 'text',
         'Accommodation required or not': 'text',
       }
   },
@@ -198,7 +198,7 @@ let formData =
         'Team Captain Name': 'text',
         'Contact no': 'text',
           'Email ID': 'email',
-        'No. of Players': 'text',
+        'No of Players': 'text',
         'Accommodation required or not': 'text',
       }
   },
@@ -209,7 +209,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
@@ -220,7 +220,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
@@ -231,7 +231,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
@@ -242,7 +242,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
@@ -253,7 +253,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
@@ -264,7 +264,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
