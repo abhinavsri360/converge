@@ -65,13 +65,7 @@ let teamData =
   'Position': 'Lead Developer',
   'Facebook': 'https://www.facebook.com/lakshya.khera2212',
   'Linkedin': 'https://in.linkedin.com/in/lakshya-khera-52b67718'},
-{
-  'Name': 'Samarth Sharma',
-  'Image': './assets/team/27.jpg',
-  'Position': 'Technical Head',
-  'Facebook': '',
-  'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
-  },
+
  {'Name':'Chetan Bansal',
   'Image':'./assets/team/IMG-20200109-WA0011 - Chetan Bansal.jpg',
   'Position':'Sports Head',
