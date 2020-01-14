@@ -2,7 +2,18 @@ let eventName = window.location.search.split("=")[1]
 console.log('chane');
 let formData =
 
-[ {'code': "groove",
+[ {'code': "camb",
+    'formFields': {
+      'Name': 'text',
+      'College name': 'text',
+      'Email address': 'email',
+      'Contact number': 'text',
+      'Why you want to be ?': 'text',
+      'Reach in College' : 'text'
+    }
+  },
+
+{'code': "groove",
     'formFields': {
       'Team name': 'text',
       'College name': 'text',
