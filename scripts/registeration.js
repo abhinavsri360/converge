@@ -8,7 +8,7 @@ let formData =
       'College name': 'text',
       'Email address': 'email',
       'Contact number (WhatsApp) ': 'text',
-      'Why you want to be a part of this?': 'text'
+      'Why you want to be a part of this': 'text'
     }
   },
 
