@@ -7,9 +7,8 @@ let formData =
       'Name': 'text',
       'College name': 'text',
       'Email address': 'email',
-      'Contact number': 'text',
-      'Why you want to be ?': 'text',
-      'Reach in College' : 'text'
+      'Contact number (WhatsApp) ': 'text',
+      'Why you want to be a part of this?': 'text'
     }
   },
 
@@ -402,7 +401,10 @@ formFields = formData[i].formFields
    return formFieldsTag
 }
 if(eventName)
- document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML = formHtml + formFieldsHtml(eventName) + `<input type="submit" value="Register"></input>`
+ {document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML = formHtml + formFieldsHtml(eventName) + `<input type="submit" value="Register"></input>`
+ if(eventName==='camb')
+ document.getElementById('hltsheading').innerText='Campus Ambassador' 
+}
 else
   window.location = './404.html'
 
