@@ -153,6 +153,13 @@ let teamData =
   'Position': 'Chief editor',
   'Facebook': 'https://www.facebook.com/vipulsatyendra',
   'Linkedin': 'https://www.linkedin.com/in/vipul-satyendra-b95747151'},
+{
+  'Name': 'Samarth Sharma',
+  'Image': './assets/team/27.jpg',
+  'Position': 'Technical Head',
+  'Facebook': '',
+  'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
+  },
 
 {'Name': 'Bhartendu Dubey',
   'Image': './assets/team/32.jpg',
