@@ -486,7 +486,7 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       image:"./assets/Events/leanon.jpg",
       venue:"JIIT 128",
       title:"Lean On",
-      time:"11:01:00 AM",
+      time:"11:00:00 AM",
       date:"02-02-20",
       description:`Buckle up for this game`,
       rules:`
