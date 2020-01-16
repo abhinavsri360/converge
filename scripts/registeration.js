@@ -375,6 +375,24 @@ let formData =
         'Phone no': 'text',
       }
   },
+  {
+    'code': "roboH",
+      'formFields': {
+        'Team Name': 'text',
+        'College Name': 'text',
+        'Team Size': 'number',
+        'Member Details': 'text'
+      }
+  },
+  {
+    'code': "checkM",
+      'formFields': {
+        'Team Name': 'text',
+        'College Name': 'text',
+        'Team Size': 'number',
+        'Member Details': 'text'
+      }
+  }
 ];
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML
 
@@ -403,7 +421,7 @@ formFields = formData[i].formFields
 if(eventName)
  {document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML = formHtml + formFieldsHtml(eventName) + `<input type="submit" value="Register"></input>`
  if(eventName==='camb')
- document.getElementById('hltsheading').innerText='Campus Ambassador' 
+ document.getElementById('hltsheading').innerText='Campus Ambassador'
 }
 else
   window.location = './404.html'

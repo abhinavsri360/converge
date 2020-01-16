@@ -73,8 +73,7 @@ let cultureData =
     brief_description: "BATTLE OF BANDS",
     link: "./event.html?eventname=crsd",
     image: "./assets/Events/crsd.jpg"
-  }
-
+  },
 ]
 
 let techData = [
@@ -101,6 +100,18 @@ let techData = [
     brief_description: "Battle based on algorithms and data structures",
     link: "./event.html?eventname=rpdfire",
     image: "./assets/Events/rpdfire.png"
+  },
+  {
+    title: "ROBO HEIST",
+    brief_description: "ROBOT MAKING CONTEST",
+    link: "./event.html?eventname=roboH",
+    image: "./assets/robo.jpg"
+  },
+  {
+    title: "Check & Mate",
+    brief_description: "ROBIT TESTING EVENT",
+    link: "./event.html?eventname=checkM",
+    image: "./assets/check.jpg"
   }
 ]
 
@@ -220,14 +231,14 @@ let sportsarray=[
     link: "./event.html?eventname=bbb",
     image: "./assets/Events/bbb.jpg"
   },
-  
+
   {
     title: "Basketball Girls",
     brief_description: '',
     link: "./event.html?eventname=bbg",
     image: "./assets/Events/bbg.png"
   },
-  
+
   {
     title: "Chess",
     brief_description: '',
