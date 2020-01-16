@@ -469,7 +469,7 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       image:"./assets/Events/rlms.jpg",
       venue:"JIIT 128",
       title:"7 Realms",
-      time:"11:13:00 AM",
+      time:"11:00:00 AM",
       date:"01-02-20",
       description:`An authentic card game`,
       rules:`
