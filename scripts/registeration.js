@@ -381,7 +381,18 @@ let formData =
         'Team Name': 'text',
         'College Name': 'text',
         'Team Size': 'number',
-        'Member Details': 'text'
+        'Member1 Name': 'text',
+        'Member1 Email': 'email',
+        'Member1 Phone': 'text',
+        'Member2 Name': 'text',
+        'Member2 Email': 'email',
+        'Member2 Phone': 'text',
+        'Member3 Name': 'text',
+        'Member3 Email': 'email',
+        'Member3 Phone': 'text',
+        'Member4 Name': 'text',
+        'Member4 Email': 'email',
+        'Member4 Phone': 'text'
       }
   },
   {
@@ -390,7 +401,19 @@ let formData =
         'Team Name': 'text',
         'College Name': 'text',
         'Team Size': 'number',
-        'Member Details': 'text'
+        'Member1 Name': 'text',
+        'Member1 Email': 'email',
+        'Member1 Phone': 'text',
+        'Member2 Name': 'text',
+        'Member2 Email': 'email',
+        'Member2 Phone': 'text',
+        'Member3 Name': 'text',
+        'Member3 Email': 'email',
+        'Member3 Phone': 'text',
+        'Member4 Name': 'text',
+        'Member4 Email': 'email',
+        'Member4 Phone': 'text'
+
       }
   }
 ];

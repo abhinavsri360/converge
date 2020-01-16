@@ -55,7 +55,7 @@ eventdata=[
         date:"01-02-2020 and 02-02-2020",
         time:"TBA",
         description:"Solo Folk/Classical Dance Competition",
-        rules:"RULES AND GUIDLINES:<br>1. This is a solo Folk/Classical dance competition<br>2. Regestration Fees: Rs 100<br>3. The event will consist of a prelimnary online round and 2 campus rounds. Winners will be decided on the basis of both the campus rounds.<br>*Only regestered participants will be allowed to participate(Last date for regestration is 28th Jan 2020)* ",
+        rules:"<a href='./assets/advaya_rules.pdf' ><button>Click to download</button></a>",
         prizes:"TBA",
         code:"advaya",
         link:'./register.html?q=advaya'
@@ -67,7 +67,7 @@ eventdata=[
         date:"01-02-2020 and 02-02-2020",
         time:"TBA",
         description:"Group Folk Dance Competition",
-        rules:"RULES AND GUIDLINES:<br>1. This is a folk dance competition<br>2. Regestration fees is Rs 500<br>3. Team Size should be arround: 6-20 persons<br>4. Last date for submission of entries is 28th Jan 2020.<br>5. Sound track for campus round should be mailed to us till 30th Jan. ",
+        rules:"<a href='./assets/sabrang_rules.pdf'><button>Click to download</button></a>",
         prizes:"TBA",
         code:"sabrang",
         link:'./register.html?q=sabrang'
