@@ -103,13 +103,13 @@ let techData = [
   },
   {
     title: "ROBO HEIST",
-    brief_description: "ROBOT MAKING CONTEST",
+    brief_description: "ROBOT RACE",
     link: "./event.html?eventname=roboH",
     image: "./assets/robo.jpg"
   },
   {
     title: "Check & Mate",
-    brief_description: "ROBIT TESTING EVENT",
+    brief_description: "LINE FOLLOWER EVENT",
     link: "./event.html?eventname=checkM",
     image: "./assets/check.jpg"
   }
