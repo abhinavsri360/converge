@@ -630,7 +630,7 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       link:'./register.html?q=roboH'
     },
     {
-      image:"./assets/check.jpg",
+      image:"./assets/maxresdefault.jpg",
       venue:"JIIT 128",
       title:"Check & Mate",
       date:"1st Feb",
