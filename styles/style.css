@@ -2,6 +2,9 @@
 @import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Thasadith&display=swap");
+#body-wrapper {
+  display: none;
+}
 html {
   scroll-behavior: smooth;
 }
@@ -10,6 +13,10 @@ body {
   background-color: #f4f4f4;
   overflow-x: hidden;
   margin: 0;
+}
+marquee{
+  position: absolute;
+  bottom:0;
 }
 .events {
   height: 360px;

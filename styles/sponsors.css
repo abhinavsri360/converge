@@ -1,0 +1,46 @@
+.content-wrapper {
+    margin-top: 100px;
+    color:white;
+    text-align: center;
+}
+.content-wrapper > h1 {
+    font-weight: 600;
+}
+.content-wrapper > h3 {
+    margin-top: 180px;
+    font-weight: 300;
+}
+/* marquee {
+    min-height: 210px;
+} */
+
+
+/* @media screen and (min-width: 600px) { */
+  #bannerimage{
+    height: 200px;
+    width: auto;
+  }
+  /* .largeimage{
+    height: 20%;
+    width: 20%;
+  }
+  .smallimage{
+    height: 10%;
+    width: 10%;
+  }
+} */
+
+/* @media screen and (max-width: 600px) {
+  #bannerimage{
+    height: 150px;
+    width: auto;
+  }
+  .largeimage{
+    height: 22%;
+    width: 22%;
+  }
+  .smallimage{
+    height: 12%;
+    width: 12%;
+  }
+} */
