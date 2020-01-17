@@ -619,13 +619,13 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       image:"./assets/robo.jpg",
       venue:"JIIT 128",
       title:"Robo Heist",
-      date:"TBA",
-      time:"TBA",
+      date:"1st Feb",
+      time:"10:00 am",
       description:`Your team must build a manually controlled bot which can overcome obstacles and complete the run by earning maximum point in minimum time. The bot can be wired or wireless. In case the participants use a wireless mechanism, they must use a dual frequency remote.`,
       rules:`
       TBA
       `,
-      prizes:"TBA",
+      prizes:"worth 50,000",
       code:"roboH",
       link:'./register.html?q=roboH'
     },
@@ -633,13 +633,13 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       image:"./assets/check.jpg",
       venue:"JIIT 128",
       title:"Check & Mate",
-      date:"TBA",
-      time:"TBA",
+      date:"1st Feb",
+      time:"10:00 am",
       description:`Teams have to build an autonomous robot which can follow black lines and keep track of directions while going through the maze. The bot has to analyze the path and has to go through the maze from starting point to ending point through shortest path and minimum time.`,
       rules:`
       TBA
       `,
-      prizes:"TBA",
+      prizes:"worth 50,000",
       code:"checkM",
       link:'./register.html?q=checkM'
     }
