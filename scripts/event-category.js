@@ -111,7 +111,7 @@ let techData = [
     title: "Check & Mate",
     brief_description: "LINE FOLLOWER EVENT",
     link: "./event.html?eventname=checkM",
-    image: "./assets/check.jpg"
+    image: "./assets/maxresdefault.jpg"
   }
 ]
 
