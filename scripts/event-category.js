@@ -74,6 +74,18 @@ let cultureData =
     link: "./event.html?eventname=crsd",
     image: "./assets/Events/crsd.jpg"
   },
+  {
+    title: "Brush Off",
+    brief_description: "Painting Competition",
+    link: "./event.html?eventname=brshFF",
+    image: "./assets/brsh.jpg"
+  },
+  {
+    title: "2 Shades",
+    brief_description: "Shading Competition",
+    link: "./event.html?eventname=shd",
+    image: "./assets/shd.jpg"
+  }
 ]
 
 let techData = [
@@ -164,6 +176,12 @@ let informalarray=[
     link: "./event.html?eventname=bheja",
     image: "./assets/Events/bheja.jpg"
   },
+  {
+    title: "IPL Auctions",
+    brief_description: "Auction Event",
+    link: "./event.html?eventname=ipl",
+    image: "./assets/ipl.jpg"
+  }
 ];
 
 

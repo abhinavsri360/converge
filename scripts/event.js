@@ -642,6 +642,86 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       prizes:"worth 50,000",
       code:"checkM",
       link:'./register.html?q=checkM'
+    },
+    {
+      image:"./assets/ipl.jpg",
+      venue:"JIIT 128",
+      title:"IPL Auctions",
+      date:"1st Feb",
+      time:"TBA",
+      description:`A mock IPL auction, which gives its participants the thrill of being a part of a *real IPL* auction. You have to make your balanced team. The strongest team, in terms of ratings assigned to the players, wins the event.<br>
+<br>
+*Round 1 (QUIZ)*<br>
+1. There will be a quiz having 25 questions.<br>
+2. The questions will be based majorly on IPL and cricket in general.<br>
+3. There will be some star marked questions which will be having higher priority only in case of ties.<br>
+4. No use of stats guide or Internet would be allowed during the quiz.<br>
+5. Discussion between group members is permitted.<br>
+6.  Top 10 teams will qualify for the next and final round which is the Auctions.<br>
+<br>
+
+*Round 2 (AUCTIONS)*<br>
+1. The player auction would consist 150+ National/International players.<br>
+2. Players would be divided into different categories such as Indian/Overseas Batsman/Bowler, etc.<br>
+3. Each team will be having a fixed budget which they can use for auction.<br>
+4. Each player has a defined rating based on their current performances and record.<br>
+5. Some of the player stats would be provided during the auction.<br>
+NOTE: Players rating will NOT be solely dependent on these stats.<br>
+The total sum of all the player’s rating would ultimately decide the winner.<br>
+In case of any dispute, discrepancy organisers decision would be final.<br>
+<br>
+For any query, contact :7800216690`,
+      rules:`
+      TBA
+      `,
+      prizes:"TBA",
+      code:"ipl",
+      link:'./register.html?q=ipl'
+    },
+    {
+      image:"./assets/brsh.jpg",
+      venue:"JIIT 128",
+      title:"Brush Off",
+      date:"TBA",
+      time:"TBA",
+      description:`Team of max 2<br>
+Theme: will be given on the spot<br>
+Entry fee : 100<br>
+The participants will be given basic colour paints and they can bring their paints with themselves too..<br>
+The participants are not required to use any kind of brushes and need to paint with material apart from brushes<br>
+The event duration will be 3hrs<br>
+Can Contact for further details-7703910438( Paras Agarwal)<br>
+9717226805(Sugandha Pathak)<br>
+`,
+      rules:`
+      TBA
+      `,
+      prizes:"TBA",
+      code:"brshFF",
+      link:'./register.html?q=brshFF'
+    },
+    {
+      image:"./assets/shd.jpg",
+      venue:"JIIT 128",
+      title:"2 Shades",
+      date:"TBA",
+      time:"TBA",
+      description:`Team of max 1<br>
+Theme: will be given on the spot<br>
+Entry fee : 100<br>
+The participants will be given pencils of two shades( 6B+8B). <br>
+The participants can use  other pencils but they should be of two kind only. <br>
+Prize worth-yet to be decided<br>
+The event duration will be 3hrs<br>
+Can Contact for further details-7703910438( Paras Agarwal) <br>
+9717226805(Sugandha Pathak) <br>
+`,
+      rules:`
+      TBA
+      `,
+      prizes:"TBA",
+      code:"shd",
+      link:'./register.html?q=shd'
     }
 ];
 for (event in eventdata) {

@@ -407,8 +407,35 @@ let formData =
         'Member3 Phone': 'text',
         'Member4 Name': 'text',
         'Member4 Phone': 'text'
-
       }
+  },
+  {
+    'code': 'brshFF',
+    'formFields': {
+      'Name': 'text',
+      'College name': 'text',
+      'Team size (max of 2)': 'number',
+      'Contact number': 'text',
+      'Email': 'email',
+      'Team Name': 'text'
+    }
+  },
+  {
+    'code': 'shd',
+    'formFields': {
+      'Email': 'email',
+      'Name': 'text',
+      'College name': 'text',
+      'Contact number': 'text'
+    }
+  },
+  {
+    'code': 'ipl',
+    'formFields': {
+      'Name': 'text',
+      'Team Size': 'number',
+      'Contact': 'text'
+    }
   }
 ];
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML
