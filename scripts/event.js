@@ -176,7 +176,7 @@ eventdata=[
         image:"./assets/Events/crsd.jpg",
         venue:"JIIT 128",
         title:"CRUSADE",
-        date:"02-02-2020",
+        date:"01-02-2020",
         time:"15:00",
         description:`"Music is moonlight in the gloomy night of life."- Sean Paul<br>
           It's time for us to bring to you one of the best and musically rich Battle of Bands of the place and showcase your musical talents. <br> JIIT welcomes all the bands to come enchant our audience and own the stage,  to make every person move like a Jagger. We can't wait to see you slay the competition and win the grand prizes.
