@@ -682,7 +682,7 @@ For any query, contact :7800216690`,
       image:"./assets/brsh.jpg",
       venue:"JIIT 128 Kiosk Room",
       title:"Brush Off",
-      date:"1st Feb 2020",
+      date:"2nd Feb 2020",
       time:"12:00",
       description:`
 Can Contact for further details-7703910438( Paras Agarwal)<br>
@@ -704,7 +704,7 @@ The event duration will be 3hrs<br>
       image:"./assets/shd.jpg",
       venue:"JIIT 128",
       title:"2 Shades",
-      date:"2nd Feb 2020",
+      date:"1st Feb 2020",
       time:"12:00",
       description:`
 Can Contact for further details-7703910438( Paras Agarwal) <br>
