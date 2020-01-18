@@ -728,6 +728,18 @@ The event duration will be 4 hrs<br>
       prizes:"TBA",
       code:"shd",
       link:'./register.html?q=shd'
+    },
+    {
+    image:"./assets/Events/gym.png",
+    venue:"JIIT 128",
+    title:"GYM",
+    date:"01-02-2020",
+    time:"10:00 am",
+    description:`*Bench Press*<br>Entry fees-200<br>*Triceps Dips*<br>Entry fees-100<br>Pushups(Only for 1st and 2nd years) :)`,
+    rules:`You know em'`,
+    prizes:`*Bench Press*<br>1st prize -1500<br>2nd prize-1000<br> *Triceps Dips*<br>1st prize-1000<br>Pushups(Boys)-750<br>Pushups(Girls)-750`,
+    code:"gym",
+    link:'./register.html?q=gym'
     }
 ];
 for (event in eventdata) {
