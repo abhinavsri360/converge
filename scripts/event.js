@@ -685,6 +685,7 @@ For any query, contact :7800216690`,
       date:"2nd Feb 2020",
       time:"12:00",
       description:`
+Painting competition without use of brushes<br>
 Can Contact for further details-7703910438( Paras Agarwal)<br>
 9717226805(Sugandha Pathak)<br>
 `,
@@ -694,7 +695,7 @@ Theme: will be given on the spot<br>
 Entry fee : 100<br>
 The participants will be given basic colour paints and they can bring their paints with themselves too..<br>
 The participants are not required to use any kind of brushes and need to paint with material apart from brushes<br>
-The event duration will be 3hrs<br>
+The event duration will be 4 hrs<br>
       `,
       prizes:"TBA",
       code:"brshFF",
@@ -707,6 +708,7 @@ The event duration will be 3hrs<br>
       date:"1st Feb 2020",
       time:"12:00",
       description:`
+It is a shading competition with the use of any 2 shades of pencil<br>
 Can Contact for further details-7703910438( Paras Agarwal) <br>
 9717226805(Sugandha Pathak) <br>
 `,
@@ -717,7 +719,7 @@ Entry fee : 100<br>
 The participants will be given pencils of two shades( 6B+8B). <br>
 The participants can use  other pencils but they should be of two kind only. <br>
 Prize worth-yet to be decided<br>
-The event duration will be 3hrs<br>
+The event duration will be 4 hrs<br>
       `,
       prizes:"TBA",
       code:"shd",
