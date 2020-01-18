@@ -180,7 +180,7 @@ let informalarray=[
     title: "IPL Auctions",
     brief_description: "Auction Event",
     link: "./event.html?eventname=ipl",
-    image: "./assets/ipl.jpg"
+    image: "./assets/Events/ipl.jpg"
   }
 ];
 
@@ -263,6 +263,12 @@ let sportsarray=[
     link: "./event.html?eventname=chess",
     image: "./assets/Events/chess.jpg"
   },
+  {
+    title: "GYM",
+    brief_description: '',
+    link: "./event.html?eventname=gym",
+    image: "./assets/Events/gym.png"
+  }
 ];
 
 // Funtion to inject array to page
