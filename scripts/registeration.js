@@ -436,6 +436,15 @@ let formData =
       'Team Size': 'number',
       'Contact': 'text'
     }
+  },
+   {
+    'code': 'gym',
+    'formFields': {
+      'Email': 'email',
+      'Name': 'text',
+      'College name': 'text',
+      'Contact number': 'text'
+    }
   }
 ];
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML
