@@ -648,16 +648,13 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       venue:"JIIT 128",
       title:"IPL Auctions",
       date:"1st Feb",
-      time:"TBA",
+      time:"10:30 am",
       description:`A mock IPL auction, which gives its participants the thrill of being a part of a *real IPL* auction. You have to make your balanced team. The strongest team, in terms of ratings assigned to the players, wins the event.<br>
 <br>
 *Round 1 (QUIZ)*<br>
 1. There will be a quiz having 25 questions.<br>
 2. The questions will be based majorly on IPL and cricket in general.<br>
 3. There will be some star marked questions which will be having higher priority only in case of ties.<br>
-4. No use of stats guide or Internet would be allowed during the quiz.<br>
-5. Discussion between group members is permitted.<br>
-6.  Top 10 teams will qualify for the next and final round which is the Auctions.<br>
 <br>
 
 *Round 2 (AUCTIONS)*<br>
@@ -666,13 +663,20 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
 3. Each team will be having a fixed budget which they can use for auction.<br>
 4. Each player has a defined rating based on their current performances and record.<br>
 5. Some of the player stats would be provided during the auction.<br>
-NOTE: Players rating will NOT be solely dependent on these stats.<br>
-The total sum of all the player’s rating would ultimately decide the winner.<br>
-In case of any dispute, discrepancy organisers decision would be final.<br>
 <br>
 For any query, contact :7800216690`,
       rules:`
-      TBA
+      Team size: 1-4 members per team(Indivisual are also allowed)<br>
+      Registration fee:Rs 100/-<br>
+      *ROUND 1 (QUIZ)*<br>
+      1. No use of stats guide or Internet would be allowed during the quiz.<br>
+      2. Discussion between group members is permitted.<br>
+      3.  Top 10 teams will qualify for the next and final round which is the Auctions.<br>
+      <br>
+      
+      NOTE: Players rating will NOT be solely dependent on these stats.<br>
+      The total sum of all the player’s rating would ultimately decide the winner.<br>
+      In case of any dispute, discrepancy organisers decision would be final.<br>
       `,
       prizes:"TBA",
       code:"ipl",
