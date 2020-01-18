@@ -680,21 +680,21 @@ For any query, contact :7800216690`,
     },
     {
       image:"./assets/brsh.jpg",
-      venue:"JIIT 128",
+      venue:"JIIT 128 Kiosk Room",
       title:"Brush Off",
-      date:"TBA",
-      time:"TBA",
-      description:`Team of max 2<br>
+      date:"1st Feb 2020",
+      time:"12:00",
+      description:`
+Can Contact for further details-7703910438( Paras Agarwal)<br>
+9717226805(Sugandha Pathak)<br>
+`,
+      rules:`
+      Team of max 2<br>
 Theme: will be given on the spot<br>
 Entry fee : 100<br>
 The participants will be given basic colour paints and they can bring their paints with themselves too..<br>
 The participants are not required to use any kind of brushes and need to paint with material apart from brushes<br>
 The event duration will be 3hrs<br>
-Can Contact for further details-7703910438( Paras Agarwal)<br>
-9717226805(Sugandha Pathak)<br>
-`,
-      rules:`
-      TBA
       `,
       prizes:"TBA",
       code:"brshFF",
@@ -704,20 +704,20 @@ Can Contact for further details-7703910438( Paras Agarwal)<br>
       image:"./assets/shd.jpg",
       venue:"JIIT 128",
       title:"2 Shades",
-      date:"TBA",
-      time:"TBA",
-      description:`Team of max 1<br>
+      date:"2nd Feb 2020",
+      time:"12:00",
+      description:`
+Can Contact for further details-7703910438( Paras Agarwal) <br>
+9717226805(Sugandha Pathak) <br>
+`,
+      rules:`
+Team of max 1<br>
 Theme: will be given on the spot<br>
 Entry fee : 100<br>
 The participants will be given pencils of two shades( 6B+8B). <br>
 The participants can use  other pencils but they should be of two kind only. <br>
 Prize worth-yet to be decided<br>
 The event duration will be 3hrs<br>
-Can Contact for further details-7703910438( Paras Agarwal) <br>
-9717226805(Sugandha Pathak) <br>
-`,
-      rules:`
-      TBA
       `,
       prizes:"TBA",
       code:"shd",
