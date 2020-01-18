@@ -1,7 +1,18 @@
 // Data
 console.log("changed again again");
 let cultureData =
-[
+[{
+    title: "Brush Off",
+    brief_description: "Painting Competition",
+    link: "./event.html?eventname=brshFF",
+    image: "./assets/brsh.jpg"
+  },
+  {
+    title: "2 Shades",
+    brief_description: "Shading Competition",
+    link: "./event.html?eventname=shd",
+    image: "./assets/shd.jpg"
+  },
   {
     title: "GROOVE",
     brief_description: "Dance Competition",
@@ -74,18 +85,7 @@ let cultureData =
     link: "./event.html?eventname=crsd",
     image: "./assets/Events/crsd.jpg"
   },
-  {
-    title: "Brush Off",
-    brief_description: "Painting Competition",
-    link: "./event.html?eventname=brshFF",
-    image: "./assets/brsh.jpg"
-  },
-  {
-    title: "2 Shades",
-    brief_description: "Shading Competition",
-    link: "./event.html?eventname=shd",
-    image: "./assets/shd.jpg"
-  }
+  
 ]
 
 let techData = [
