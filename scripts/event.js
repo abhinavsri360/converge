@@ -684,7 +684,7 @@ For any query, contact :7800216690`,
     },
     {
       image:"./assets/brsh.jpg",
-      venue:"JIIT 128 Kiosk Room",
+      venue:"JIIT 128 OAT",
       title:"Brush Off",
       date:"2nd Feb 2020",
       time:"12:00",
@@ -707,7 +707,7 @@ The event duration will be 4 hrs<br>
     },
     {
       image:"./assets/shd.jpg",
-      venue:"JIIT 128",
+      venue:"JIIT 128 Kiosk Room",
       title:"2 Shades",
       date:"1st Feb 2020",
       time:"12:00",
