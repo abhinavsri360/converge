@@ -180,7 +180,7 @@ let informalarray=[
     title: "IPL Auctions",
     brief_description: "Auction Event",
     link: "./event.html?eventname=ipl",
-    image: "./assets/Events/ipl.jpg"
+    image: "./assets/ipl.jpg"
   },
   {
     title: "PUBG Tournament",
