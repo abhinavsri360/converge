@@ -77,14 +77,14 @@ h1 {
 }
 @media screen and (min-width: 600px) {
   .smallimage{
-    height: 10%;
-    width: 10%;
+    height: 20%;
+    width: 20%;
   }
 }
 
 @media screen and (max-width: 600px) {
   .smallimage{
-    height: 12%;
-    width: 12%;
+    height: 20%;
+    width: 20%;
   }
 }
