@@ -186,7 +186,7 @@ let informalarray=[
     title: "PUBG Tournament",
     brief_description: "Gaming Event",
     link: "./event.html?eventname=pubg",
-    image: "./assets/Events/pubg.jpg"
+    image: "./assets/Events/pubg.png"
   }
 ];
 
