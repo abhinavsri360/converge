@@ -26,11 +26,11 @@ eventdata=[
     },
     {
         image:"./assets/Events/rihaa.jpg",
-        venue:"JIIT 128",
+        venue:"JIIT 128(main circle near main gate)",
         title:"RIHAA",
-        date:"01-02-2020",
+        date:"01-02-2020 and 02-02-2020",
         time:"10:00:00 AM",
-        description:"रंगीले अंदाज़, जोशीले अल्फ़ाज़, होने को हैं अब नुक्कड़ का आगाज़<br>RIHAA - The Street Play Event, brings to you the opportunity to showcase your talent and depict your message to the mass.<br>LAST DATE TO REGISTER : January 27, 2019<br>TIME DURATION : 20 minutes + 2 minutes for arena setup. Total time will be counted from empty stage to empty stage.<br>TEAM SIZE : 20+2 performing members, at any given time on stage.",
+        description:"रंगीले अंदाज़, जोशीले अल्फ़ाज़, होने को हैं अब नुक्कड़ का आगाज़<br>RIHAA - The Street Play Event, brings to you the opportunity to showcase your talent and depict your message to the mass.<br>LAST DATE TO REGISTER : January 27, 2019<br>TIME DURATION : 20 minutes + 2 minutes for arena setup. Total time will be counted from empty stage to empty stage.<br>TEAM SIZE : 23+2 performing members, at any given time on stage.",
         rules:"• Use of derogatory terms are strictly prohibited. Their usage may lead to immediate disqualification.<br>• The organising team won't be providing any kind of props for the performance. The performing team should bring their own props and clear the stage after their performance.<br>• Participants should carry their college ID cards with them.<br>• Any form of electronic music is not allowed.<br>• The play can be in either English, or Hindi. Traces from regional language are allowed.<br>• The play can be stopped at any point of time by the judges if they find it unfit to continue.<br>• Script should not contain any kind of content that is either offensive, or hurts the sentiments of any social group.<br>• The decision of the Judges and Organizing Committee will be final and binding.<br>• The script and synopsis should be mailed to abhivyakti128@gmail.com before the deadline.",
         prizes:"TBA",
         code:"rihaa",
@@ -138,7 +138,7 @@ eventdata=[
         title:"Jazbaat- The Open Mic Show",
         date:"01-02-20",
         time:"TBA",
-        description:"Show us your talent in Poetry , Stand-up or story telling and mesmerize the audience with your talent",
+        description:"Show us your talent in Poetry , Stand-up or story telling and mesmerize the audience with your talent<br>Entry fee for the event is Rs 200 which can be paid via Gpay at 7042248601",
         rules:"TBA",
         prizes:"TBA",
         code:"jzbaat",
@@ -664,7 +664,7 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
 4. Each player has a defined rating based on their current performances and record.<br>
 5. Some of the player stats would be provided during the auction.<br>
 <br>
-For any query, contact :7800216690`,
+For any query, contact :9818102898`,
       rules:`
       Team size: 1-4 members per team(Indivisual are also allowed)<br>
       Registration fee:Rs 100/-<br>
@@ -735,11 +735,34 @@ The event duration will be 4 hrs<br>
     title:"GYM",
     date:"01-02-2020",
     time:"10:00 am",
-    description:`*Bench Press*<br>Entry fees-200<br>*Triceps Dips*<br>Entry fees-100<br>Pushups(Only for 1st and 2nd years) :)`,
+    description:`Bench Press<br>Entry fees-200<br>Triceps Dips<br>Entry fees-100<br>Pushups(Only for 1st and 2nd years) :)`,
     rules:`You know em'`,
-    prizes:`*Bench Press*<br>1st prize -1500<br>2nd prize-1000<br> *Triceps Dips*<br>1st prize-1000<br>Pushups(Boys)-750<br>Pushups(Girls)-750`,
+    prizes:`Bench Press<br>1st prize -1500<br>2nd prize-1000<br>Triceps Dips<br>1st prize-1000<br>Pushups(Boys)-750<br>Pushups(Girls)-750`,
     code:"gym",
     link:'./register.html?q=gym'
+    },
+    {
+        image:"./assets/Events/pubg.png",
+        venue:"JIIT 128",
+        title:"PUBG",
+        date:"TBA",
+        time:"TBA",
+        description:`The highly anticipated game of the year is searching for its true worthy champ as Informals Branch of JIIT is coming up with the most hyped game of the year PUBG CONTEST is where you will have the chance to strike down your opponents and announce yourself as the sole leaders of this game. So what are you waiting for ? Grab your gizmos and get ready for a chicken dinner.<br>
+            1. 2 classic matches( maps to be decided by voting)<br> 
+                1.1 1st classis match - qualification round<br>
+                1.2  2nd classic match- top 2 teams will qualify<br> 
+            2. 2nd round- tdm match between two qualified teams to decide the winner<br>
+            Difficulty level will be set by the organizers<br>
+            Registration fees:<br>
+            Individual entry-75<br>
+            Duo - 140<br>
+            Squad of 3 - 200<br>
+            Squad of 4 - 250<br>
+            For further queries - 8200995426<br>`,
+        rules:"In case of any dispute and discrepancy, organizer's decision will be final.",
+        prizes:"1000 - winners<br>800 - 1st runner ups<br>500 - Most kill<br>",
+        code:"pubg",
+        link:'./register.html?q=pubg'
     }
 ];
 for (event in eventdata) {

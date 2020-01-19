@@ -445,7 +445,20 @@ let formData =
       'College name': 'text',
       'Contact number': 'text'
     }
-  }
+  },
+ {
+     'code': 'pubg',
+     'formFields': {
+        'Name': 'text',
+        'Team Name': 'text',
+        'Team Size': 'number',
+        'Contact Number': 'text',
+        'Enrollment number(member 1)': 'text',
+        'Enrollment number(member 2)': 'text',
+        'Enrollment number(member 3)': 'text',
+        'Enrollment number(member 4)': 'text'
+     }
+ }
 ];
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML
 
