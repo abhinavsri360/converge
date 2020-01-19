@@ -1,25 +1,46 @@
 let sponsordata =  [
   {
-    Name: "PrepBytes",
-    for: "Associate Partner",
-    Image: "./assets/sponsors/PrepBytes.png"
+    Name: "sponsor",
+    for: "type",
+    Image: "./assets/sponsors/conlogo.png"
 
   },
-   {
-    Name: "Youth Incorporated",
-    for: "Youth Media Partner",
-    Image: "./assets/sponsors/Logo.png"
-  },
+
   {
-    Name: "Fiesto.live",
-    for: "Media Partner",
-    Image: "./assets/sponsors/Fiesto.png"
+    Name: "sponsor",
+    for: "type",
+    Image: "./assets/sponsors/conlogo.png"
+
+  },
+
+  {
+    Name: "sponsor",
+    for: "type",
+    Image: "./assets/sponsors/conlogo.png"
 
   },
   {
-    Name: "Datatrained",
-    for: "Education Partner",
-    Image: "./assets/sponsors/atatrained.png"
+    Name: "sponsor",
+    for: "type",
+    Image: "./assets/sponsors/conlogo.png"
+
+  },
+  {
+    Name: "sponsor",
+    for: "type",
+    Image: "./assets/sponsors/conlogo.png"
+
+  },
+  {
+    Name: "sponsor",
+    for: "type",
+    Image: "./assets/sponsors/conlogo.png"
+
+  },
+  {
+    Name: "sponsor",
+    for: "type",
+    Image: "./assets/sponsors/conlogo.png"
 
   }
 
