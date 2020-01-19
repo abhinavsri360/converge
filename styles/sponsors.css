@@ -1,20 +1,27 @@
 .content-wrapper {
-    margin-top: 100px;
     color:white;
     text-align: center;
 }
-.content-wrapper > h1 {
-    font-weight: 600;
+.prev-spons {
+  text-align: center;
 }
-.content-wrapper > h3 {
-    margin-top: 180px;
-    font-weight: 300;
+.prev-spons > h3 {
+  font-size: 2.5rem;
+  font-family: "Lilita One", cursive;
+  color: white;
 }
+
 /* marquee {
     min-height: 210px;
 } */
-
+.foo {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
 #marquee-container {
+  background-color: white;
   bottom: 0;
    width: 100%; /* or whatever you want */
    margin: 0 auto; /* centers it */
