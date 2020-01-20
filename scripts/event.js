@@ -745,8 +745,8 @@ The event duration will be 4 hrs<br>
         image:"./assets/Events/pubg.png",
         venue:"JIIT 128",
         title:"PUBG",
-        date:"TBA",
-        time:"TBA",
+        date:"1st Feb 2020",
+        time:"13:00",
         description:`The highly anticipated game of the year is searching for its true worthy champ as Informals Branch of JIIT is coming up with the most hyped game of the year PUBG CONTEST is where you will have the chance to strike down your opponents and announce yourself as the sole leaders of this game. So what are you waiting for ? Grab your gizmos and get ready for a chicken dinner.<br>
             1. 2 classic matches( maps to be decided by voting)<br> 
                 1.1 1st classis match - qualification round<br>
