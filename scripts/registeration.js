@@ -154,7 +154,7 @@ let formData =
       'formFields': {
         'Full name': 'text',
         'College name': 'text',
-        'Contact number': 'number',
+        'Contact number': 'tel',
         'Email id:': 'email'
       }
   },
@@ -166,6 +166,8 @@ let formData =
         'College name': 'text',
         'Email id': 'email',
         'Previous participations in marathon (yes/no)': 'text',
+        'year':'number',
+        'phone number':'tel'
       }
   },
   {
