@@ -115,7 +115,7 @@ eventdata=[
         date:"02-02-2020",
         time:"10:00:00 AM",
         description:"Confidence doesn't come when you have all the answers, but it comes when you are ready to face all the questions.<br>PANACHE- The fashion society of JIIT-128 presents MR. and MISS CONVERGE'20.<br>So boys and girls gear up yourselves and get your pretty dresses and suits out !!",
-        rules:"Rules & Regulations :<br>1. Participants to be from JIIT only.<br>2. Participants can be from any year.<br>3. Mtech students can also take part.<br>4. Only western clothes are allowed.<br>5. There will be 3 judges and 2 rounds (walk + PI).<br>6. Props are allowed.<br>7. Judging criteria will be confidence, dress, walk, question answer ability.",
+        rules:"Rules & Regulations :<br>1. Participants can be from any college<br>2. Participants can be from any year.<br>3. Registartion fees Rs.100 per participant<br>4. Mtech students can also take part.<br>5. Only western clothes are allowed.<br>6. There will be 3 judges and 2 rounds (walk + PI).<br>7. Props are allowed.<br>8. Judging criteria will be confidence, dress, walk, question answer ability.",
         prizes:"TBA",
         code:"mconv",
         link:'./register.html?q=mconv'
