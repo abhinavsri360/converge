@@ -117,7 +117,7 @@ let techData = [
     title: "ROBO HEIST",
     brief_description: "ROBOT RACE",
     link: "./event.html?eventname=roboH",
-    image: "./assets/robo.jpg"
+    image: "./assets/roboh.png"
   },
   {
     title: "Check & Mate",

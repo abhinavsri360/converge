@@ -616,14 +616,14 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       link:'./register.html?q=bheja'
     },
     {
-      image:"./assets/robo.jpg",
+      image:"./assets/roboh.png",
       venue:"JIIT 128",
       title:"Robo Heist",
       date:"1st Feb",
       time:"10:00 am",
       description:`Your team must build a manually controlled bot which can overcome obstacles and complete the run by earning maximum point in minimum time. The bot can be wired or wireless. In case the participants use a wireless mechanism, they must use a dual frequency remote.`,
       rules:`
-      TBA
+      <a href='./assets/robo.pdf'><button>Click to download</button></a>
       `,
       prizes:"worth 50,000",
       code:"roboH",
