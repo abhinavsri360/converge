@@ -13,6 +13,18 @@ eventdata=[
         link:'./register.html?q=groove'
     },
     {
+      image:"./assets/fifa.jpeg",
+      venue:"JIIT 128",
+      title:"FIFA 20",
+      date:"1st and 2nd Feb",
+      time:"10:00 AM to 5:00 PM",
+      description:"New Tournament of 4 every Hour<br>PS4 console with controllers provided<br>Tournament Prize: RS 500",
+      rules:"Tournament Entry Fees:RS 150<br>Free Play Entry Fees:RS 100",
+      prizes:"500",
+      code:'fifa',
+      link:'./register.html?q=fifa'
+  },
+    {
         image:"./assets/Events/inquizitive.png",
         venue:"JIIT 128",
         title:"INQUIZZITIVE",

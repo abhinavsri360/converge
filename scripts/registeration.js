@@ -11,6 +11,13 @@ let formData =
       'Why you want to be a part of this': 'text'
     }
   },
+  {'code': "fifa",
+    'formFields': {
+      'Name': 'text',
+      'Email address': 'email',
+      'Contact number (WhatsApp) ': 'text',
+    }
+  },
 
 {'code': "groove",
     'formFields': {
