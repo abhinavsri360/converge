@@ -269,12 +269,7 @@ let sportsarray=[
     link: "./event.html?eventname=chess",
     image: "./assets/Events/chess.jpg"
   },
-  {
-    title: "GYM",
-    brief_description: '',
-    link: "./event.html?eventname=gym",
-    image: "./assets/Events/gym.png"
-  }
+  
 ];
 
 // Funtion to inject array to page
