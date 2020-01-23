@@ -15,7 +15,7 @@ eventdata=[
     {
       image:"./assets/images (1).jpeg",
       venue:"JIIT 128",
-      title:"FIFA 20",
+      title:"FIFA",
       date:"1st and 2nd Feb",
       time:"10:00 AM to 5:00 PM",
       description:"New Tournament of 4 every Hour<br>PS4 console with controllers provided<br>Tournament Prize: RS 500",
