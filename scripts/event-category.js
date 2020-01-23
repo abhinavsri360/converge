@@ -135,10 +135,10 @@ let informalarray=[
     image: "./assets/Events/rlms.jpg"
   },
   {
-    title: "FIFA 20",
+    title: "FIFA",
     brief_description: "IT IS IN GAME",
     link: "./event.html?eventname=fifa",
-    image: "./assets/fifa.jpeg"
+    image: "./assets/images(1).jpeg"
   },
   {
     title: "Lean On",
