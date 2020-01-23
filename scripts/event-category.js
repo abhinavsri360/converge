@@ -128,17 +128,17 @@ let techData = [
 ]
 
 let informalarray=[
+{
+    title: "FIFA",
+    brief_description: "IT IS IN GAME",
+    link: "./event.html?eventname=fifa",
+    image: "./assets/images(1).jpeg"
+  },
   {
     title: "7 Realms",
     brief_description: "An authentic card game",
     link: "./event.html?eventname=rlms",
     image: "./assets/Events/rlms.jpg"
-  },
-  {
-    title: "FIFA",
-    brief_description: "IT IS IN GAME",
-    link: "./event.html?eventname=fifa",
-    image: "./assets/images(1).jpeg"
   },
   {
     title: "Lean On",
