@@ -132,7 +132,7 @@ let informalarray=[
     title: "FIFA",
     brief_description: "IT IS IN GAME",
     link: "./event.html?eventname=fifa",
-    image: "./assets/images(1).jpeg"
+    image: "./assets/images (1).jpeg"
   },
   {
     title: "7 Realms",
