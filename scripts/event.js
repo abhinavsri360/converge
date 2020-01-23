@@ -13,7 +13,7 @@ eventdata=[
         link:'./register.html?q=groove'
     },
     {
-      image:"./assets/fifa.jpeg",
+      image:"./assets/image(1).jpeg",
       venue:"JIIT 128",
       title:"FIFA 20",
       date:"1st and 2nd Feb",
