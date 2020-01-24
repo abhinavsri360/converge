@@ -84,7 +84,12 @@ h1 {
 
 @media screen and (max-width: 600px) {
   .smallimage{
+<<<<<<< HEAD
+    height: 12%;
+    width: 12%;
+=======
     height: 30%;
     width: 30%;
+>>>>>>> upstream/master
   }
 }

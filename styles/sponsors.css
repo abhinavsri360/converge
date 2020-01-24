@@ -34,6 +34,7 @@
   padding-right: 10px;
 }
 @media screen and (min-width: 600px) {
+  /* laptop version */
   /* #bannerimage{
     height: 200px;
     width: auto;
@@ -49,6 +50,7 @@
 }
 
 @media screen and (max-width: 600px) {
+  /* mobile version */
   /* #bannerimage{
     height: 150px;
     width: auto;
