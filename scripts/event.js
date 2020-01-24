@@ -368,7 +368,7 @@ eventdata=[
       date:"31-01-20",
       description:`Football match<br>
         For any queries/registration, contact:<br>
-        Uttkarsh - 9889462587<br>
+        Utkarsh - 9889462587<br>
         Prakhanshu - 8726838994`,
       rules:`
         Age limit:24<br>
@@ -378,7 +378,7 @@ eventdata=[
       `,
       prizes:"TBA",
       code:"football",
-      link:'./register.html?q=football'
+      link:'./register.html?q=football1'
     },
     {
       image:"./assets/Events/tt.png",
