@@ -240,7 +240,7 @@ let sportsarray=[
   {
     title: "Football",
     brief_description: '',
-    link: "./event.html?eventname=football1",
+    link: "./event.html?eventname=football",
     image: "./assets/Events/football.png"
   },
   {

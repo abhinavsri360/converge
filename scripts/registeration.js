@@ -222,9 +222,9 @@ let formData =
       }
   },
   {
-    'code': "football1",
+    'code': "football",
     'formFields': {
-      'Team name': 'text',
+      'College name': 'text',
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
