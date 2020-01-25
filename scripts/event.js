@@ -377,7 +377,7 @@ eventdata=[
         ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK <br>
       `,
       prizes:"TBA",
-      code:"football",
+      code:"football1",
       link:'./register.html?q=football1'
     },
     {
