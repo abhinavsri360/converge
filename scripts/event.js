@@ -204,7 +204,7 @@ eventdata=[
         venue:"JIIT 128",
         title:"Youth Marathon",
         date:"1st Feb 2020",
-        time:"08:20:00 AM",
+        time:"08:45:00 AM",
         description:`Staying fit should be seen as a responsibility rather than burden.  Studies prove that a fit person tends to achieve way more goals than an average person who just procrastinates regarding his/her fitness.
 Fit India Movement tools for people who want to lead a healthy life and reach their fitness goals. It provides a unique and exciting opportunity to work towards a healthier India. As part of the movement, individuals and organizations can undertake various efforts for their own health and well-being as well as for fellow Indians.  All Indians must make a promise to make their nation a fit nation.
  
