@@ -36,18 +36,7 @@ eventdata=[
         code:"inquizzitive",
         link:'./register.html?q=inquizzitive'
     },
-    {
-        image:"./assets/Events/rihaa.jpg",
-        venue:"JIIT 128(main circle near main gate)",
-        title:"RIHAA",
-        date:"01-02-2020 and 02-02-2020",
-        time:"10:00:00 AM",
-        description:"रंगीले अंदाज़, जोशीले अल्फ़ाज़, होने को हैं अब नुक्कड़ का आगाज़<br>RIHAA - The Street Play Event, brings to you the opportunity to showcase your talent and depict your message to the mass.<br>LAST DATE TO REGISTER : January 27, 2019<br>TIME DURATION : 20 minutes + 2 minutes for arena setup. Total time will be counted from empty stage to empty stage.<br>TEAM SIZE : 23+2 performing members, at any given time on stage.",
-        rules:"• Use of derogatory terms are strictly prohibited. Their usage may lead to immediate disqualification.<br>• The organising team won't be providing any kind of props for the performance. The performing team should bring their own props and clear the stage after their performance.<br>• Participants should carry their college ID cards with them.<br>• Any form of electronic music is not allowed.<br>• The play can be in either English, or Hindi. Traces from regional language are allowed.<br>• The play can be stopped at any point of time by the judges if they find it unfit to continue.<br>• Script should not contain any kind of content that is either offensive, or hurts the sentiments of any social group.<br>• The decision of the Judges and Organizing Committee will be final and binding.<br>• The script and synopsis should be mailed to abhivyakti128@gmail.com before the deadline.",
-        prizes:"TBA",
-        code:"rihaa",
-        link:'./register.html?q=rihaa'
-    },
+ 
     {
         image:"./assets/Events/mehfil.png",
         venue:"JIIT 128",
