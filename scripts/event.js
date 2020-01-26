@@ -204,10 +204,16 @@ eventdata=[
         venue:"JIIT 128",
         title:"Youth Marathon",
         date:"1st Feb 2020",
-        time:"9:00:00 AM",
-        description:"This event's prime purpose is to spread awareness about the rights and education of the girl child. Students participating in this marathon will run across the Jaypee wish town, which is 5km in distance.",
-        rules:"TBA",
-        prizes:"TBA",
+        time:"08:20:00 AM",
+        description:`Staying fit should be seen as a responsibility rather than burden.  Studies prove that a fit person tends to achieve way more goals than an average person who just procrastinates regarding his/her fitness.
+Fit India Movement tools for people who want to lead a healthy life and reach their fitness goals. It provides a unique and exciting opportunity to work towards a healthier India. As part of the movement, individuals and organizations can undertake various efforts for their own health and well-being as well as for fellow Indians.  All Indians must make a promise to make their nation a fit nation.
+ 
+Being fit helps us improve our learning skill and it also fights back from all the negative impacts on Students’ mental health such as anxiety, depression, panic attack etc. Once the habit of regular exercise is collaborated with daily education it can be a boon for the future of nation. Keeping this idea in mind government has also launched Educate India which is a programme for achievement of Universalization of Elementary Education (UEE) in a time bound manner. It aims to provide quality elementary education including soft skills such as life skills. Also, it seeks to provide computer education to bridge the digital divide.
+With all such positive ambitions in mind the future of India can be laid into secure hands.`,
+        rules:`
+      <a href='./assets/youth.pdf'><button>Click to download</button></a>
+      `,
+        prizes:"Cash Prize worth 15K",
         code:"marathon",
         link:'./register.html?q=marathon'
     },
