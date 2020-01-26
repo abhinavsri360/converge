@@ -18,14 +18,7 @@ let cultureData =
     brief_description: "Dance Competition",
     link: "./event.html?eventname=groove",
     image: "./assets/Events/groove.png"
-  },
-
-  {
-    title: "RIHAA",
-    brief_description: "Street Play Event",
-    link: "./event.html?eventname=rihaa",
-    image: "./assets/Events/rihaa.jpg"
-  },
+ },
 
   {
     title: "MEHFIL",
