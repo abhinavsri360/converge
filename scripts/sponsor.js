@@ -72,6 +72,12 @@ let sponsordata =  [
     for: "Medical Partner",
     Image: "./assets/sponsor/21.jpg",
     link: './'
+  },
+  {
+    Name: "FoxMula",
+    for: "Internship Partner",
+    Image: "./assets/sponsor/12.jpg",
+    link: 'https://foxmula.com/'
   }
 
 ]
