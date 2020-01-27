@@ -211,7 +211,7 @@ With all such positive ambitions in mind the future of India can be laid into se
         Registration Fees: Rs.100<br>
         The amount can be sent to 9971865695 through GPay/Paytm and mention Team name in comment.
         `,
-        prizes:"TBA",
+        prizes:"Total Prizes worth more than 25k. Vouchers worth ₹1000 for each participant. Internship opportunities for winning teams. Special prizes for best first year and best girl's team.",
         code:"algoflux",
         link:'./register.html?q=algoflux'
     },
@@ -229,7 +229,7 @@ With all such positive ambitions in mind the future of India can be laid into se
       Timings : 9:30 Onwards <br>
       Venue : CL2 , JIIT128
       `,
-      prizes:"TBA",
+      prizes:"Total Prizes worth 10k + Bonus vouchers.",
       code:"codft",
       link:'./register.html?q=codft'
     },
@@ -245,7 +245,7 @@ With all such positive ambitions in mind the future of India can be laid into se
       Timing: 2-4pm<br>
       Venue:Cl2, JIIT 128
       `,
-      prizes:"TBA",
+      prizes:"Total Prizes worth 10k. Special prizes for best first year and best girl's team.",
       code:"rpdfire",
       link:'./register.html?q=rpdfire'
     },
@@ -726,13 +726,11 @@ The event duration will be 4 hrs<br>
             2. 2nd round- tdm match between two qualified teams to decide the winner<br>
             Difficulty level will be set by the organizers<br>
             Registration fees:<br>
-            Individual entry-75<br>
-            Duo - 140<br>
-            Squad of 3 - 200<br>
-            Squad of 4 - 250<br>
+            Individual entry-30<br>
+            Squad of 4 - 100<br>
             For further queries - 8200995426<br>`,
         rules:"In case of any dispute and discrepancy, organizer's decision will be final.",
-        prizes:"1000 - winners<br>800 - 1st runner ups<br>500 - Most kill<br>",
+        prizes:"Tournament Winner-500<br>1st Runnerup-300<br>Most Kills-100<br>",
         code:"pubg",
         link:'./register.html?q=pubg'
     }

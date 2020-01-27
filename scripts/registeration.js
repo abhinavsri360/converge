@@ -290,7 +290,10 @@ let formData =
   {
     'code': "algoflux",
       'formFields': {
+        'Team Name': 'text',
         'Name': 'text',
+        'Name of second Participant': 'text',
+        'Name of third Participant': 'text',
         'email': 'email',
         'Phone no': 'text',
         'College name': 'text',

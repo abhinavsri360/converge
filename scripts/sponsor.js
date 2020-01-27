@@ -78,6 +78,60 @@ let sponsordata =  [
     for: "Internship Partner",
     Image: "./assets/sponsor/12.jpg",
     link: 'https://foxmula.com/'
+  },
+  {
+    Name: "La'Pinoz",
+    for: "Italian Food Partner",
+    Image: "./assets/sponsor/14.jpg",
+    link: 'https://lapinozpizza.in/'
+  },
+  {
+    Name: "Iceberg",
+    for: "Beverages Partner",
+    Image: "./assets/sponsor/6.jpg",
+    link: 'https://www.icebergicecreams.com/'
+  },
+  {
+    Name: "Bowl of China",
+    for: "Bowl Partner",
+    Image: "./assets/sponsor/18.jpg",
+    link: './'
+  },
+  {
+    Name: "Shakti Dhaba",
+    for: "North Indian",
+    Image: "./assets/sponsor/32.jpg",
+    link: './'
+  },
+  {
+    Name: "House of Momos",
+    for: "Momo Partner",
+    Image: "./assets/sponsor/7.jpg",
+    link: './'
+  },
+  {
+    Name: "LFC",
+    for: "Chinese Partner",
+    Image: "./assets/sponsor/5.jpg",
+    link: './'
+  },
+  {
+    Name: "White Cedar Furniture",
+    for: "Comfort Partner",
+    Image: "./assets/sponsor/35.jpg",
+    link: './'
+  },
+  {
+    Name: "Burgrill",
+    for: "Burger Partner",
+    Image: "./assets/sponsor/20.jpg",
+    link: 'https://www.burgrill.in/'
+  },
+  {
+    Name: "Samosa",
+    for: "Samosa Partner",
+    Image: "./assets/sponsor/40.jpg",
+    link: './'
   }
 
 ]
