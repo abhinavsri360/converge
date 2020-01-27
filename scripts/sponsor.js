@@ -3,7 +3,7 @@ let powereddata=[
     Name: "Grog",
     for: "Powered By",
     Image: "./assets/sponsor/9.jpg",
-    link:'./'
+    link:'./sponsors.html'
   },
    {
     Name: "",
@@ -65,13 +65,13 @@ let sponsordata =  [
     Name: "Gamers Sanctuary",
     for: "Gaming Partner",
     Image: "./assets/sponsor/15.jpg",
-    link: './'
+    link: './sponsors.html'
   },
   {
     Name: "Doctor Titoria",
     for: "Medical Partner",
     Image: "./assets/sponsor/21.jpg",
-    link: './'
+    link: './sponsors.html'
   },
   {
     Name: "FoxMula",
@@ -95,31 +95,31 @@ let sponsordata =  [
     Name: "Bowl of China",
     for: "Bowl Partner",
     Image: "./assets/sponsor/18.jpg",
-    link: './'
+    link: './sponsors.html'
   },
   {
     Name: "Shakti Dhaba",
     for: "North Indian",
     Image: "./assets/sponsor/32.jpg",
-    link: './'
+    link: './sponsors.html'
   },
   {
     Name: "House of Momos",
     for: "Momo Partner",
     Image: "./assets/sponsor/7.jpg",
-    link: './'
+    link: './sponsors.html'
   },
   {
     Name: "LFC",
     for: "Chinese Partner",
     Image: "./assets/sponsor/5.jpg",
-    link: './'
+    link: './sponsors.html'
   },
   {
     Name: "White Cedar Furniture",
     for: "Comfort Partner",
     Image: "./assets/sponsor/35.jpg",
-    link: './'
+    link: './sponsors.html'
   },
   {
     Name: "Burgrill",
@@ -131,7 +131,115 @@ let sponsordata =  [
     Name: "Samosa",
     for: "Samosa Partner",
     Image: "./assets/sponsor/40.jpg",
-    link: './'
+    link: './sponsors.html'
+  },
+  {
+    Name: "Kwality Walls",
+    for: "Ice-Cream Partner",
+    Image: "./assets/sponsor/0.jpg",
+    link: 'https://www.kwalitywalls.in/home.php'
+  },
+  {
+    Name: "The Souled Store",
+    for: "Gifting Partner",
+    Image: "./assets/sponsor/34.jpg",
+    link: 'https://www.thesouledstore.com/'
+  },
+  {
+    Name: "Youth Incorporated",
+    for: "Youth Mdia Partner",
+    Image: "./assets/sponsor/25.jpg",
+    link: 'https://youthincmag.com/'
+  },
+  {
+    Name: "Fiesta",
+    for: "Media Partner",
+    Image: "./assets/sponsor/13.jpg",
+    link: 'https://www.fiesto.live/'
+  },
+  {
+    Name: "Fruit Culture",
+    for: "Bakery Partner",
+    Image: "./assets/sponsor/11.jpg",
+    link: './sponsors.html'
+  },
+  {
+    Name: "Zoomcar",
+    for: "Commuting Partner",
+    Image: "./assets/sponsor/42.jpg",
+    link: 'https://www.zoomcar.com/'
+  },
+  {
+    Name: "Coding Blocks",
+    for: "Coding Partner",
+    Image: "./assets/sponsor/39.jpg",
+    link: 'https://codingblocks.com/'
+  },
+  {
+    Name: "Red Rocks Gym",
+    for: "Health Partner",
+    Image: "./assets/sponsor/41.jpg",
+    link: 'http://redrocksgym.com/'
+  },
+  {
+    Name: "Smaaash",
+    for: "Gaming Partner",
+    Image: "./assets/sponsor/33.jpg",
+    link: 'https://smaaash.in/'
+  },
+  {
+    Name: "Blogadda",
+    for: "Blogging Partner",
+    Image: "./assets/sponsor/16.jpg",
+    link: 'https://www.blogadda.com/'
+  },
+  {
+    Name: "Zebronics",
+    for: "Audio Partner",
+    Image: "./assets/sponsor/38.jpg",
+    link: 'https://zebronics.com/'
+  },
+  {
+    Name: "Baskin Robbins",
+    for: "Ice-Cream Partner",
+    Image: "./assets/sponsor/17.jpg",
+    link: 'https://www.baskinrobbinsindia.com/'
+  },
+  {
+    Name: "GNC",
+    for: "Fitness Partner",
+    Image: "./assets/sponsor/10.jpg",
+    link: 'https://www.gnc.com/'
+  },
+  {
+    Name: "DU express",
+    for: "Media Partner",
+    Image: "./assets/sponsor/22.jpg",
+    link: 'https://duexpress.in/'
+  },
+  {
+    Name: "Men Deserve",
+    for: "Styling Partner",
+    Image: "./assets/sponsor/26.jpg",
+    link: 'https://mendeserve.com/'
+  },
+  {
+    Name: "Parle Agro",
+    for: "Refreshment Partner",
+    Image: "./assets/sponsor/28.jpg",
+    link: 'https://www.parleagro.com/'
+  },
+  {
+    Name: "Witty Feed",
+    for: "Media Partner",
+    Image: "./assets/sponsor/37.jpg",
+    link: 'https://www.wittyfeed.tv/explore'
+  },
+  {
+    Name: "Doctor Titoria",
+    for: "Medical Partner",
+    Image: "./assets/sponsor/21.jpg",
+    link: './sponsors.html'
   }
 
 ]
