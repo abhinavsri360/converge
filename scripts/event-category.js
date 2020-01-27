@@ -28,20 +28,6 @@ let cultureData =
   },
 
   {
-    title: "ADVAYA",
-    brief_description: "Solo Folk/Classical Dance Competition",
-    link: "./event.html?eventname=advaya",
-    image:"./assets/Events/advaya.png"
-  },
-
-  {
-    title: "SABRANG",
-    brief_description: "Group Folk Dance Competition",
-    link: "./event.html?eventname=sabrang",
-    image: "./assets/Events/sabrang.png"
-  },
-
-  {
     title: "PLAY PAUSE REWIND",
     brief_description: "Short Film Making contest to showcase your work.",
     link: "./event.html?eventname=ppr",
