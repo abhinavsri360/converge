@@ -683,8 +683,9 @@ Entry fee : 100<br>
 The participants will be given basic colour paints and they can bring their paints with themselves too..<br>
 The participants are not required to use any kind of brushes and need to paint with material apart from brushes<br>
 The event duration will be 4 hrs<br>
+PS - Not only for artists, open for everyone
       `,
-      prizes:"TBA",
+      prizes:"Prizes worth 1500<br> Certificates for all",
       code:"brshFF",
       link:'./register.html?q=brshFF'
     },
@@ -708,7 +709,7 @@ The participants can use  other pencils but they should be of two kind only. <br
 Prize worth-yet to be decided<br>
 The event duration will be 4 hrs<br>
       `,
-      prizes:"TBA",
+      prizes:"Prizes worth 1500<br> Certificates for all",
       code:"shd",
       link:'./register.html?q=shd'
     },
