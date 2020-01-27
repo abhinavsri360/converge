@@ -50,30 +50,6 @@ eventdata=[
         link:'./register.html?q=mehfil'
     },
     {
-        image:"./assets/Events/advaya.png",
-        venue:"JIIT 128",
-        title:"ADVAYA",
-        date:"02-02-2020",
-        time:"TBA",
-        description:"Solo Folk/Classical Dance Competition",
-        rules:"<a href='./assets/advaya_rules.pdf' ><button>Click to download</button></a>",
-        prizes:"TBA",
-        code:"advaya",
-        link:'./register.html?q=advaya'
-    },
-    {
-        image:"./assets/Events/sabrang.png",
-        venue:"JIIT 128",
-        title:"SABRANG",
-        date:"02-02-2020",
-        time:"TBA",
-        description:"Group Folk Dance Competition",
-        rules:"<a href='./assets/sabrang_rules.pdf'><button>Click to download</button></a>",
-        prizes:"TBA",
-        code:"sabrang",
-        link:'./register.html?q=sabrang'
-    },
-    {
         image:"./assets/Events/ppr.png",
         venue:"JIIT 128",
         title:"PLAY PAUSE REWIND",
