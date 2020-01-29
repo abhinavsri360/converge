@@ -13,6 +13,18 @@ eventdata=[
         link:'./register.html?q=groove'
     },
     {
+        image:"./assets/Events/shutter.jpg",
+        venue:"JIIT 128",
+        title:"SHUTTER STOCK",
+        date:"1st and 2nd Feb",
+        time:"",
+        description:"They say that we are reckless they say that we don't know. Now is our time, for the young knows no fear. Consequences, we don't fear them. Challenges, we look them in the eyes. Passion, is the thing that drives us. Destiny, we shape it with our own hands. So take pride in what you are, young and restless.",
+        rules:"Theme:- Young and Restless <br> Upload your pictures on Instagram and Don't forget to use #youngandrestless #spykar #auraspykar",
+        prizes:"3000",
+        code:'shutter',
+        link:'./register.html?q=shutter'
+    },
+    {
       image:"./assets/images (1).jpeg",
       venue:"JIIT 128",
       title:"FIFA",
@@ -742,7 +754,8 @@ if (eventdata[event].code==searchCategory) {
     }
 }
 document.title = final.title
-data=`<div class="container">
+if(final.code!='shutter')
+{data=`<div class="container">
 <div class=" row event-head-wrapper mb-4">
     <div class="col-sm-4 event-image-wrapper">
         <img src="${final.image}" alt="">
@@ -780,6 +793,47 @@ ${final.prizes}
 </p>
 </div>
 </div>`
+}
+else
+{
+    data=`<div class="container">
+<div class=" row event-head-wrapper mb-4">
+    <div class="col-sm-4 event-image-wrapper">
+        <img src="${final.image}" alt="">
+    </div>
+    <div class="col-sm-8 event-title-wrapper">
+      <h1>${final.title}</h1>
+      <div class="venue">
+        <h3><b>DATE:</b> ${final.date}</h3>
+        <h3><b>TIME:</b> ${final.time}</h3>
+        <h3><b>VENUE:</b> ${final.venue}</h3>
+      </div>
+      <div style="text-align: end;max-width: 90%;margin-top: 35px;">
+      </div>
+    </div>
+</div>
+<div class="event-content row">
+    <ul class="myNav">
+            <li class="content-heading bold">Description</li>
+            <li class="content-heading">Rules</li>
+            <li class="content-heading">Prizes</li>
+</ul>
+
+
+
+<!-- Content Paragraphs -->
+<p id="description" class="main-content block">
+${final.description}
+</p>
+<p id="rules" class="main-content">
+${final.rules}
+</p>
+<p id="prizes" class="main-content">
+${final.prizes}
+</p>
+</div>
+</div>`
+}
 document.getElementById('event').innerHTML=data
 
 
