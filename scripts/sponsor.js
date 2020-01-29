@@ -98,7 +98,7 @@ let sponsordata =  [
     link: './sponsors.html'
   },
   {
-    Name: "Shakti Dhaba",
+    Name: "Shakti Restaurant",
     for: "North Indian",
     Image: "./assets/sponsor/32.jpg",
     link: './sponsors.html'
@@ -152,7 +152,7 @@ let sponsordata =  [
     link: 'https://youthincmag.com/'
   },
   {
-    Name: "Fiesta",
+    Name: "Fiesto",
     for: "Media Partner",
     Image: "./assets/sponsor/13.jpg",
     link: 'https://www.fiesto.live/'
@@ -235,12 +235,6 @@ let sponsordata =  [
     Image: "./assets/sponsor/37.jpg",
     link: 'https://www.wittyfeed.tv/explore'
   },
-  {
-    Name: "Doctor Titoria",
-    for: "Medical Partner",
-    Image: "./assets/sponsor/21.jpg",
-    link: './sponsors.html'
-  }
 
 ]
 
