@@ -64,7 +64,12 @@ let cultureData =
     link: "./event.html?eventname=crsd",
     image: "./assets/Events/crsd.jpg"
   },
-  
+ {
+    title: "Shutter Stock",
+    brief_description: "LIVE PHOTOGRAPHY COMPETITION",
+    link: "./event.html?eventname=brshFF",
+    image: "./assets/brsh.jpg"
+  } 
 ]
 
 let techData = [
