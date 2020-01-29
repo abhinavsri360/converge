@@ -67,7 +67,7 @@ let cultureData =
  {
     title: "Shutter Stock",
     brief_description: "LIVE PHOTOGRAPHY COMPETITION",
-    link: "./event.html?eventname=brshFF",
+    link: "./event.html?eventname=shutter",
     image: "./assets/Events/shutter.jpg"
   } 
 ]
