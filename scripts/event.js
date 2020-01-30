@@ -754,7 +754,7 @@ if (eventdata[event].code==searchCategory) {
     }
 }
 document.title = final.title
-if(final.code!='shutter' or final.code!='ppr')
+if(final.code!='shutter')
 {data=`<div class="container">
 <div class=" row event-head-wrapper mb-4">
     <div class="col-sm-4 event-image-wrapper">
